@@ -26,3 +26,11 @@ repos:
       - id: markdownlint-cli2
         files: ^content/.+$
         args: ["--fix"]
+  - repo: local
+    hooks:
+      - id: generate-notes-index
+        name: Generate notes index
+        entry: python3 scripts/generate_notes_index.py
+        language: system
+        pass_filenames: false
+        files: ^notes/.*\.md$
