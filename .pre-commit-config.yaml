@@ -1,0 +1,28 @@
+repos:
+  - repo: local
+    hooks:
+      # png image compress
+      - id: oxipng
+        name: oxipng
+        entry: oxipng
+        language: system
+        files: ^content/.+$
+        types: [png]
+      # fix Chinese and English
+      - id: autocorrect
+        name: autocorrect
+        entry: autocorrect
+        args: ["--fix"]
+        language: system
+      # fix url that not available.
+      - id: lychee
+        name: lychee
+        language: docker_image
+        entry: lycheeverse/lychee:0.15.1
+        args: ["--no-progress", "--exclude-path", "themes"]
+  - repo: https://github.com/DavidAnson/markdownlint-cli2
+    rev: v0.17.2
+    hooks:
+      - id: markdownlint-cli2
+        files: ^content/.+$
+        args: ["--fix"]

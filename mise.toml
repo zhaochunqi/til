@@ -1,0 +1,4 @@
+[tools]
+pre-commit = "latest"
+"ubi:huacnlee/autocorrect" = "latest"
+"ubi:shssoichiro/oxipng" = "latest"
