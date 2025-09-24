@@ -6,7 +6,7 @@ repos:
         name: oxipng
         entry: oxipng
         language: system
-        files: ^content/.+$
+        files: ^assets/.+$
         types: [png]
       # fix Chinese and English
       - id: autocorrect
@@ -19,7 +19,7 @@ repos:
         name: lychee
         language: docker_image
         entry: lycheeverse/lychee:0.15.1
-        args: ["--no-progress", "--exclude-path", "themes"]
+        args: ["--no-progress", "--exclude-path", "assets"]
   - repo: https://github.com/DavidAnson/markdownlint-cli2
     rev: v0.17.2
     hooks:
