@@ -4,11 +4,21 @@
 <!-- BEGINNING OF NOTES INDEX HOOK -->
 ## Notes by Tag
 
-Last updated: 2025-09-24
+Last updated: 2025-10-04
 
 ### Tags
+- [docker](#docker)
+- [docker compose](#docker-compose)
 - [git](#git)
 - [github](#github)
+
+<a id="docker"></a>
+### docker
+- [docker compose 中添加资源限制](notes/docker%20compose%20%E4%B8%AD%E6%B7%BB%E5%8A%A0%E8%B5%84%E6%BA%90%E9%99%90%E5%88%B6.md) - 2025-10-04
+
+<a id="docker-compose"></a>
+### docker compose
+- [docker compose 中添加资源限制](notes/docker%20compose%20%E4%B8%AD%E6%B7%BB%E5%8A%A0%E8%B5%84%E6%BA%90%E9%99%90%E5%88%B6.md) - 2025-10-04
 
 <a id="git"></a>
 ### git
