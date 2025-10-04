@@ -9,10 +9,18 @@ date: 2025-10-04
 在 docker compose 中添加 deploy 相关限制即可：
 
 ```yaml
-deploy:
-    resources:
-    limits:
-        memory: 300M
+services:
+  frontend:
+    image: example/webapp
+    deploy:
+      resources:
+        limits:
+          cpus: '0.50'
+          memory: 50M
+          pids: 1
+        reservations:
+          cpus: '0.25'
+          memory: 20M
 ```
 
 参考链接：https://docs.docker.com/reference/compose-file/deploy/#resources
