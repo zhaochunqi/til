@@ -4,7 +4,7 @@
 <!-- BEGINNING OF NOTES INDEX HOOK -->
 ## Notes by Tag
 
-Last updated: 2025-10-05
+Last updated: 2025-10-07
 
 ### Tags
 - [docker](#docker)
@@ -12,6 +12,8 @@ Last updated: 2025-10-05
 - [git](#git)
 - [github](#github)
 - [linux](#linux)
+- [reddit](#reddit)
+- [rss](#rss)
 
 <a id="docker"></a>
 ### docker
@@ -33,4 +35,12 @@ Last updated: 2025-10-05
 <a id="linux"></a>
 ### linux
 - [linux 中寻找 docker 中运行的进程](notes/linux%20%E4%B8%AD%E5%AF%BB%E6%89%BE%20docker%20%E4%B8%AD%E8%BF%90%E8%A1%8C%E7%9A%84%E8%BF%9B%E7%A8%8B.md) - 2025-10-05
+
+<a id="reddit"></a>
+### reddit
+- [reddit rss for sub reddits](notes/reddit%20rss%20for%20sub%20reddits.md) - 2025-10-07
+
+<a id="rss"></a>
+### rss
+- [reddit rss for sub reddits](notes/reddit%20rss%20for%20sub%20reddits.md) - 2025-10-07
 <!-- END OF NOTES INDEX HOOK -->
