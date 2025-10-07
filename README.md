@@ -11,6 +11,7 @@ Last updated: 2025-10-07
 - [docker compose](#docker-compose)
 - [git](#git)
 - [github](#github)
+- [html](#html)
 - [linux](#linux)
 - [reddit](#reddit)
 - [rss](#rss)
@@ -32,6 +33,10 @@ Last updated: 2025-10-07
 ### github
 - [github 删除垃圾通知](notes/github%20%E5%88%A0%E9%99%A4%E5%9E%83%E5%9C%BE%E9%80%9A%E7%9F%A5.md) - 2025-09-24
 
+<a id="html"></a>
+### html
+- [网页中设置自动发现 RSS](notes/%E7%BD%91%E9%A1%B5%E4%B8%AD%E8%AE%BE%E7%BD%AE%E8%87%AA%E5%8A%A8%E5%8F%91%E7%8E%B0%20RSS.md) - 2025-10-07
+
 <a id="linux"></a>
 ### linux
 - [linux 中寻找 docker 中运行的进程](notes/linux%20%E4%B8%AD%E5%AF%BB%E6%89%BE%20docker%20%E4%B8%AD%E8%BF%90%E8%A1%8C%E7%9A%84%E8%BF%9B%E7%A8%8B.md) - 2025-10-05
@@ -42,5 +47,6 @@ Last updated: 2025-10-07
 
 <a id="rss"></a>
 ### rss
+- [网页中设置自动发现 RSS](notes/%E7%BD%91%E9%A1%B5%E4%B8%AD%E8%AE%BE%E7%BD%AE%E8%87%AA%E5%8A%A8%E5%8F%91%E7%8E%B0%20RSS.md) - 2025-10-07
 - [reddit rss for sub reddits](notes/reddit%20rss%20for%20sub%20reddits.md) - 2025-10-07
 <!-- END OF NOTES INDEX HOOK -->

@@ -1,7 +1,7 @@
 ---
 tags:
-    - reddit
-    - rss
+  - reddit
+  - rss
 date: 2025-10-07
 ---
 
