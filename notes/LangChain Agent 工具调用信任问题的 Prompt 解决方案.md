@@ -1,9 +1,9 @@
 ---
 tags:
-  - LLM
-  - Prompt
-  - LangChain
-  - Ai Agent
+  - llm
+  - prompt
+  - langchain
+  - ai agent
 date: 2025-10-20
 ---
 

@@ -7,22 +7,22 @@
 Last updated: 2025-10-20
 
 ### Tags
-- [Ai Agent](#ai-agent)
+- [ai agent](#ai-agent)
 - [docker](#docker)
 - [docker compose](#docker-compose)
 - [embeddings](#embeddings)
 - [git](#git)
 - [github](#github)
 - [html](#html)
-- [LangChain](#langchain)
+- [langchain](#langchain)
 - [linux](#linux)
-- [LLM](#llm)
-- [Prompt](#prompt)
+- [llm](#llm)
+- [prompt](#prompt)
 - [reddit](#reddit)
 - [rss](#rss)
 
 <a id="ai-agent"></a>
-### Ai Agent
+### ai agent
 - [LangChain Agent 工具调用信任问题的 Prompt 解决方案](notes/LangChain%20Agent%20%E5%B7%A5%E5%85%B7%E8%B0%83%E7%94%A8%E4%BF%A1%E4%BB%BB%E9%97%AE%E9%A2%98%E7%9A%84%20Prompt%20%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88.md) - 2025-10-20
 
 <a id="docker"></a>
@@ -51,7 +51,7 @@ Last updated: 2025-10-20
 - [网页中设置自动发现 RSS](notes/%E7%BD%91%E9%A1%B5%E4%B8%AD%E8%AE%BE%E7%BD%AE%E8%87%AA%E5%8A%A8%E5%8F%91%E7%8E%B0%20RSS.md) - 2025-10-07
 
 <a id="langchain"></a>
-### LangChain
+### langchain
 - [LangChain 中 qwen embddings 使用 openai embddings 兼容性问题](notes/LangChain%20%E4%B8%AD%20qwen%20embddings%20%E4%BD%BF%E7%94%A8%20openai%20embddings%20%E5%85%BC%E5%AE%B9%E6%80%A7%E9%97%AE%E9%A2%98.md) - 2025-10-20
 - [LangChain Agent 工具调用信任问题的 Prompt 解决方案](notes/LangChain%20Agent%20%E5%B7%A5%E5%85%B7%E8%B0%83%E7%94%A8%E4%BF%A1%E4%BB%BB%E9%97%AE%E9%A2%98%E7%9A%84%20Prompt%20%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88.md) - 2025-10-20
 
@@ -60,11 +60,11 @@ Last updated: 2025-10-20
 - [linux 中寻找 docker 中运行的进程](notes/linux%20%E4%B8%AD%E5%AF%BB%E6%89%BE%20docker%20%E4%B8%AD%E8%BF%90%E8%A1%8C%E7%9A%84%E8%BF%9B%E7%A8%8B.md) - 2025-10-05
 
 <a id="llm"></a>
-### LLM
+### llm
 - [LangChain Agent 工具调用信任问题的 Prompt 解决方案](notes/LangChain%20Agent%20%E5%B7%A5%E5%85%B7%E8%B0%83%E7%94%A8%E4%BF%A1%E4%BB%BB%E9%97%AE%E9%A2%98%E7%9A%84%20Prompt%20%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88.md) - 2025-10-20
 
 <a id="prompt"></a>
-### Prompt
+### prompt
 - [LangChain Agent 工具调用信任问题的 Prompt 解决方案](notes/LangChain%20Agent%20%E5%B7%A5%E5%85%B7%E8%B0%83%E7%94%A8%E4%BF%A1%E4%BB%BB%E9%97%AE%E9%A2%98%E7%9A%84%20Prompt%20%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88.md) - 2025-10-20
 
 <a id="reddit"></a>

@@ -1,6 +1,6 @@
 ---
 tags:
-  - LangChain
+  - langchain
   - embeddings
 date: 2025-10-20
 ---
