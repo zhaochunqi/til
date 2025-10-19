@@ -7,6 +7,8 @@ tags:
 date: 2025-10-20
 ---
 
+# LangChain Agent 工具调用信任问题的 Prompt 解决方案
+
 在学习 ai agent 的过程中，我使用一个本地模型尝试完成 langchain 的初始教程。
 
 ```python

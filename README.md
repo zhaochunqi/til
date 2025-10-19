@@ -22,7 +22,7 @@ Last updated: 2025-10-20
 
 <a id="ai-agent"></a>
 ### Ai Agent
-- [Run the agent](notes/llm%20agent%20%E4%B8%8D%E9%81%B5%E5%AE%88%20tool%20%E8%B0%83%E7%94%A8.md) - 2025-10-20
+- [LangChain Agent 工具调用信任问题的 Prompt 解决方案](notes/LangChain%20Agent%20%E5%B7%A5%E5%85%B7%E8%B0%83%E7%94%A8%E4%BF%A1%E4%BB%BB%E9%97%AE%E9%A2%98%E7%9A%84%20Prompt%20%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88.md) - 2025-10-20
 
 <a id="docker"></a>
 ### docker
@@ -47,7 +47,7 @@ Last updated: 2025-10-20
 
 <a id="langchain"></a>
 ### LangChain
-- [Run the agent](notes/llm%20agent%20%E4%B8%8D%E9%81%B5%E5%AE%88%20tool%20%E8%B0%83%E7%94%A8.md) - 2025-10-20
+- [LangChain Agent 工具调用信任问题的 Prompt 解决方案](notes/LangChain%20Agent%20%E5%B7%A5%E5%85%B7%E8%B0%83%E7%94%A8%E4%BF%A1%E4%BB%BB%E9%97%AE%E9%A2%98%E7%9A%84%20Prompt%20%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88.md) - 2025-10-20
 
 <a id="linux"></a>
 ### linux
@@ -55,11 +55,11 @@ Last updated: 2025-10-20
 
 <a id="llm"></a>
 ### LLM
-- [Run the agent](notes/llm%20agent%20%E4%B8%8D%E9%81%B5%E5%AE%88%20tool%20%E8%B0%83%E7%94%A8.md) - 2025-10-20
+- [LangChain Agent 工具调用信任问题的 Prompt 解决方案](notes/LangChain%20Agent%20%E5%B7%A5%E5%85%B7%E8%B0%83%E7%94%A8%E4%BF%A1%E4%BB%BB%E9%97%AE%E9%A2%98%E7%9A%84%20Prompt%20%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88.md) - 2025-10-20
 
 <a id="prompt"></a>
 ### Prompt
-- [Run the agent](notes/llm%20agent%20%E4%B8%8D%E9%81%B5%E5%AE%88%20tool%20%E8%B0%83%E7%94%A8.md) - 2025-10-20
+- [LangChain Agent 工具调用信任问题的 Prompt 解决方案](notes/LangChain%20Agent%20%E5%B7%A5%E5%85%B7%E8%B0%83%E7%94%A8%E4%BF%A1%E4%BB%BB%E9%97%AE%E9%A2%98%E7%9A%84%20Prompt%20%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88.md) - 2025-10-20
 
 <a id="reddit"></a>
 ### reddit
