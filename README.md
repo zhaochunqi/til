@@ -4,17 +4,25 @@
 <!-- BEGINNING OF NOTES INDEX HOOK -->
 ## Notes by Tag
 
-Last updated: 2025-10-07
+Last updated: 2025-10-20
 
 ### Tags
+- [Ai Agent](#ai-agent)
 - [docker](#docker)
 - [docker compose](#docker-compose)
 - [git](#git)
 - [github](#github)
 - [html](#html)
+- [LangChain](#langchain)
 - [linux](#linux)
+- [LLM](#llm)
+- [Prompt](#prompt)
 - [reddit](#reddit)
 - [rss](#rss)
+
+<a id="ai-agent"></a>
+### Ai Agent
+- [Run the agent](notes/llm%20agent%20%E4%B8%8D%E9%81%B5%E5%AE%88%20tool%20%E8%B0%83%E7%94%A8.md) - 2025-10-20
 
 <a id="docker"></a>
 ### docker
@@ -37,9 +45,21 @@ Last updated: 2025-10-07
 ### html
 - [网页中设置自动发现 RSS](notes/%E7%BD%91%E9%A1%B5%E4%B8%AD%E8%AE%BE%E7%BD%AE%E8%87%AA%E5%8A%A8%E5%8F%91%E7%8E%B0%20RSS.md) - 2025-10-07
 
+<a id="langchain"></a>
+### LangChain
+- [Run the agent](notes/llm%20agent%20%E4%B8%8D%E9%81%B5%E5%AE%88%20tool%20%E8%B0%83%E7%94%A8.md) - 2025-10-20
+
 <a id="linux"></a>
 ### linux
 - [linux 中寻找 docker 中运行的进程](notes/linux%20%E4%B8%AD%E5%AF%BB%E6%89%BE%20docker%20%E4%B8%AD%E8%BF%90%E8%A1%8C%E7%9A%84%E8%BF%9B%E7%A8%8B.md) - 2025-10-05
+
+<a id="llm"></a>
+### LLM
+- [Run the agent](notes/llm%20agent%20%E4%B8%8D%E9%81%B5%E5%AE%88%20tool%20%E8%B0%83%E7%94%A8.md) - 2025-10-20
+
+<a id="prompt"></a>
+### Prompt
+- [Run the agent](notes/llm%20agent%20%E4%B8%8D%E9%81%B5%E5%AE%88%20tool%20%E8%B0%83%E7%94%A8.md) - 2025-10-20
 
 <a id="reddit"></a>
 ### reddit
