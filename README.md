@@ -4,7 +4,7 @@
 <!-- BEGINNING OF NOTES INDEX HOOK -->
 ## Notes by Tag
 
-Last updated: 2025-10-20
+Last updated: 2025-10-21
 
 ### Tags
 - [ai agent](#ai-agent)
@@ -17,9 +17,11 @@ Last updated: 2025-10-20
 - [langchain](#langchain)
 - [linux](#linux)
 - [llm](#llm)
+- [logseq](#logseq)
 - [prompt](#prompt)
 - [reddit](#reddit)
 - [rss](#rss)
+- [uuid](#uuid)
 
 <a id="ai-agent"></a>
 ### ai agent
@@ -63,6 +65,10 @@ Last updated: 2025-10-20
 ### llm
 - [LangChain Agent 工具调用信任问题的 Prompt 解决方案](notes/LangChain%20Agent%20%E5%B7%A5%E5%85%B7%E8%B0%83%E7%94%A8%E4%BF%A1%E4%BB%BB%E9%97%AE%E9%A2%98%E7%9A%84%20Prompt%20%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88.md) - 2025-10-20
 
+<a id="logseq"></a>
+### logseq
+- [logseq block 确保有 uuid](notes/logseq%20block%20%E7%A1%AE%E4%BF%9D%E6%9C%89%20uuid.md) - 2025-10-21
+
 <a id="prompt"></a>
 ### prompt
 - [LangChain Agent 工具调用信任问题的 Prompt 解决方案](notes/LangChain%20Agent%20%E5%B7%A5%E5%85%B7%E8%B0%83%E7%94%A8%E4%BF%A1%E4%BB%BB%E9%97%AE%E9%A2%98%E7%9A%84%20Prompt%20%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88.md) - 2025-10-20
@@ -75,4 +81,8 @@ Last updated: 2025-10-20
 ### rss
 - [网页中设置自动发现 RSS](notes/%E7%BD%91%E9%A1%B5%E4%B8%AD%E8%AE%BE%E7%BD%AE%E8%87%AA%E5%8A%A8%E5%8F%91%E7%8E%B0%20RSS.md) - 2025-10-07
 - [reddit rss for sub reddits](notes/reddit%20rss%20for%20sub%20reddits.md) - 2025-10-07
+
+<a id="uuid"></a>
+### uuid
+- [logseq block 确保有 uuid](notes/logseq%20block%20%E7%A1%AE%E4%BF%9D%E6%9C%89%20uuid.md) - 2025-10-21
 <!-- END OF NOTES INDEX HOOK -->
