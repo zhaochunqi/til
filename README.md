@@ -4,10 +4,11 @@
 <!-- BEGINNING OF NOTES INDEX HOOK -->
 ## Notes by Tag
 
-Last updated: 2025-10-21
+Last updated: 2025-10-24
 
 ### Tags
 - [ai agent](#ai-agent)
+- [capslock](#capslock)
 - [docker](#docker)
 - [docker compose](#docker-compose)
 - [embeddings](#embeddings)
@@ -18,6 +19,7 @@ Last updated: 2025-10-21
 - [linux](#linux)
 - [llm](#llm)
 - [logseq](#logseq)
+- [nixos](#nixos)
 - [prompt](#prompt)
 - [reddit](#reddit)
 - [rss](#rss)
@@ -26,6 +28,10 @@ Last updated: 2025-10-21
 <a id="ai-agent"></a>
 ### ai agent
 - [LangChain Agent 工具调用信任问题的 Prompt 解决方案](notes/LangChain%20Agent%20%E5%B7%A5%E5%85%B7%E8%B0%83%E7%94%A8%E4%BF%A1%E4%BB%BB%E9%97%AE%E9%A2%98%E7%9A%84%20Prompt%20%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88.md) - 2025-10-20
+
+<a id="capslock"></a>
+### capslock
+- [nixos 修改 capslock 为长按 ctrl 短按 esc](notes/nixos%20%E4%BF%AE%E6%94%B9%20capslock%20%E4%B8%BA%E9%95%BF%E6%8C%89%20ctrl%20%E7%9F%AD%E6%8C%89%20esc.md) - 2025-10-24
 
 <a id="docker"></a>
 ### docker
@@ -68,6 +74,10 @@ Last updated: 2025-10-21
 <a id="logseq"></a>
 ### logseq
 - [logseq block 确保有 uuid](notes/logseq%20block%20%E7%A1%AE%E4%BF%9D%E6%9C%89%20uuid.md) - 2025-10-21
+
+<a id="nixos"></a>
+### nixos
+- [nixos 修改 capslock 为长按 ctrl 短按 esc](notes/nixos%20%E4%BF%AE%E6%94%B9%20capslock%20%E4%B8%BA%E9%95%BF%E6%8C%89%20ctrl%20%E7%9F%AD%E6%8C%89%20esc.md) - 2025-10-24
 
 <a id="prompt"></a>
 ### prompt

@@ -4,7 +4,8 @@
     "oxipng@latest",
     "uv@latest",
     "autocorrect@latest",
-    "pre-commit@latest"
+    "pre-commit@latest",
+    "just@latest"
   ],
   "shell": {
     "init_hook": [
