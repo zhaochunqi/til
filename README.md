@@ -4,7 +4,7 @@
 <!-- BEGINNING OF NOTES INDEX HOOK -->
 ## Notes by Tag
 
-Last updated: 2025-10-24
+Last updated: 2025-10-26
 
 ### Tags
 - [ai agent](#ai-agent)
@@ -19,6 +19,7 @@ Last updated: 2025-10-24
 - [linux](#linux)
 - [llm](#llm)
 - [logseq](#logseq)
+- [macos](#macos)
 - [nixos](#nixos)
 - [prompt](#prompt)
 - [reddit](#reddit)
@@ -74,6 +75,10 @@ Last updated: 2025-10-24
 <a id="logseq"></a>
 ### logseq
 - [logseq block 确保有 uuid](notes/logseq%20block%20%E7%A1%AE%E4%BF%9D%E6%9C%89%20uuid.md) - 2025-10-21
+
+<a id="macos"></a>
+### macos
+- [判断 macos 安装的软件是否是 mac app store 下载的](notes/%E5%88%A4%E6%96%AD%20macos%20%E5%AE%89%E8%A3%85%E7%9A%84%E8%BD%AF%E4%BB%B6%E6%98%AF%E5%90%A6%E6%98%AF%20mac%20app%20store%20%E4%B8%8B%E8%BD%BD%E7%9A%84.md) - 2025-10-26
 
 <a id="nixos"></a>
 ### nixos
