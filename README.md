@@ -4,7 +4,7 @@
 <!-- BEGINNING OF NOTES INDEX HOOK -->
 ## Notes by Tag
 
-Last updated: 2025-10-26
+Last updated: 2025-10-28
 
 ### Tags
 - [ai agent](#ai-agent)
@@ -24,7 +24,10 @@ Last updated: 2025-10-26
 - [prompt](#prompt)
 - [reddit](#reddit)
 - [rss](#rss)
+- [surge](#surge)
 - [uuid](#uuid)
+- [vpn](#vpn)
+- [windows](#windows)
 
 <a id="ai-agent"></a>
 ### ai agent
@@ -97,7 +100,19 @@ Last updated: 2025-10-26
 - [网页中设置自动发现 RSS](notes/%E7%BD%91%E9%A1%B5%E4%B8%AD%E8%AE%BE%E7%BD%AE%E8%87%AA%E5%8A%A8%E5%8F%91%E7%8E%B0%20RSS.md) - 2025-10-07
 - [reddit rss for sub reddits](notes/reddit%20rss%20for%20sub%20reddits.md) - 2025-10-07
 
+<a id="surge"></a>
+### surge
+- [windows 手机连接区域限制](notes/windows%20%E6%89%8B%E6%9C%BA%E8%BF%9E%E6%8E%A5%E5%8C%BA%E5%9F%9F%E9%99%90%E5%88%B6.md) - 2025-10-28
+
 <a id="uuid"></a>
 ### uuid
 - [logseq block 确保有 uuid](notes/logseq%20block%20%E7%A1%AE%E4%BF%9D%E6%9C%89%20uuid.md) - 2025-10-21
+
+<a id="vpn"></a>
+### vpn
+- [windows 手机连接区域限制](notes/windows%20%E6%89%8B%E6%9C%BA%E8%BF%9E%E6%8E%A5%E5%8C%BA%E5%9F%9F%E9%99%90%E5%88%B6.md) - 2025-10-28
+
+<a id="windows"></a>
+### windows
+- [windows 手机连接区域限制](notes/windows%20%E6%89%8B%E6%9C%BA%E8%BF%9E%E6%8E%A5%E5%8C%BA%E5%9F%9F%E9%99%90%E5%88%B6.md) - 2025-10-28
 <!-- END OF NOTES INDEX HOOK -->
