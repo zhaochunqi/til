@@ -4,14 +4,16 @@
 <!-- BEGINNING OF NOTES INDEX HOOK -->
 ## Notes by Tag
 
-Last updated: 2025-10-28
+Last updated: 2025-10-29
 
 ### Tags
 - [ai agent](#ai-agent)
 - [capslock](#capslock)
+- [cronjob](#cronjob)
 - [docker](#docker)
 - [docker compose](#docker-compose)
 - [embeddings](#embeddings)
+- [env](#env)
 - [git](#git)
 - [github](#github)
 - [html](#html)
@@ -24,6 +26,7 @@ Last updated: 2025-10-28
 - [prompt](#prompt)
 - [reddit](#reddit)
 - [rss](#rss)
+- [shell](#shell)
 - [surge](#surge)
 - [uuid](#uuid)
 - [vpn](#vpn)
@@ -37,6 +40,10 @@ Last updated: 2025-10-28
 ### capslock
 - [nixos 修改 capslock 为长按 ctrl 短按 esc](notes/nixos%20%E4%BF%AE%E6%94%B9%20capslock%20%E4%B8%BA%E9%95%BF%E6%8C%89%20ctrl%20%E7%9F%AD%E6%8C%89%20esc.md) - 2025-10-24
 
+<a id="cronjob"></a>
+### cronjob
+- [cronjob 中的环境变量问题](notes/cronjob%20%E4%B8%AD%E7%9A%84%E7%8E%AF%E5%A2%83%E5%8F%98%E9%87%8F%E9%97%AE%E9%A2%98.md) - 2025-10-29
+
 <a id="docker"></a>
 ### docker
 - [linux 中寻找 docker 中运行的进程](notes/linux%20%E4%B8%AD%E5%AF%BB%E6%89%BE%20docker%20%E4%B8%AD%E8%BF%90%E8%A1%8C%E7%9A%84%E8%BF%9B%E7%A8%8B.md) - 2025-10-05
@@ -49,6 +56,10 @@ Last updated: 2025-10-28
 <a id="embeddings"></a>
 ### embeddings
 - [LangChain 中 qwen embddings 使用 openai embddings 兼容性问题](notes/LangChain%20%E4%B8%AD%20qwen%20embddings%20%E4%BD%BF%E7%94%A8%20openai%20embddings%20%E5%85%BC%E5%AE%B9%E6%80%A7%E9%97%AE%E9%A2%98.md) - 2025-10-20
+
+<a id="env"></a>
+### env
+- [cronjob 中的环境变量问题](notes/cronjob%20%E4%B8%AD%E7%9A%84%E7%8E%AF%E5%A2%83%E5%8F%98%E9%87%8F%E9%97%AE%E9%A2%98.md) - 2025-10-29
 
 <a id="git"></a>
 ### git
@@ -99,6 +110,10 @@ Last updated: 2025-10-28
 ### rss
 - [网页中设置自动发现 RSS](notes/%E7%BD%91%E9%A1%B5%E4%B8%AD%E8%AE%BE%E7%BD%AE%E8%87%AA%E5%8A%A8%E5%8F%91%E7%8E%B0%20RSS.md) - 2025-10-07
 - [reddit rss for sub reddits](notes/reddit%20rss%20for%20sub%20reddits.md) - 2025-10-07
+
+<a id="shell"></a>
+### shell
+- [cronjob 中的环境变量问题](notes/cronjob%20%E4%B8%AD%E7%9A%84%E7%8E%AF%E5%A2%83%E5%8F%98%E9%87%8F%E9%97%AE%E9%A2%98.md) - 2025-10-29
 
 <a id="surge"></a>
 ### surge
