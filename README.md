@@ -117,7 +117,7 @@ Last updated: 2025-11-07
 
 <a id="surge"></a>
 ### surge
-- [使用 surge modules 激活 surge](notes/%E4%BD%BF%E7%94%A8surge%20modules%E6%BF%80%E6%B4%BBsurge.md) - 2025-11-07
+- [使用 surge modules 激活 share](notes/%E4%BD%BF%E7%94%A8surge%20modules%E6%BF%80%E6%B4%BB%20share.md) - 2025-11-07
 - [windows 手机连接区域限制](notes/windows%20%E6%89%8B%E6%9C%BA%E8%BF%9E%E6%8E%A5%E5%8C%BA%E5%9F%9F%E9%99%90%E5%88%B6.md) - 2025-10-28
 
 <a id="uuid"></a>
