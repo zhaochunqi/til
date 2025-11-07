@@ -16,5 +16,7 @@ date: 2025-11-07
 
 <details>
 <summary>激活后的截图</summary>
+
 ![Share 激活截图](../assets/Screenshot_2025-11-07-15-31.jpg)
+
 </details>
