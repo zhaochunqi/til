@@ -106,6 +106,8 @@ Last updated: 2025-11-28
 
 <a id="nixos"></a>
 ### nixos
+- [nixos 清理旧版本](notes/nixos%20%E6%B8%85%E7%90%86%E6%97%A7%E7%89%88%E6%9C%AC.md) - 2025-11-28
+- [nixos 更新 flake](notes/nixos%20%E6%9B%B4%E6%96%B0%20flake.md) - 2025-11-28
 - [nixos install clash](notes/nixos%20install%20clash.md) - 2025-11-28
 - [nixos 修改 capslock 为长按 ctrl 短按 esc](notes/nixos%20%E4%BF%AE%E6%94%B9%20capslock%20%E4%B8%BA%E9%95%BF%E6%8C%89%20ctrl%20%E7%9F%AD%E6%8C%89%20esc.md) - 2025-10-24
 
