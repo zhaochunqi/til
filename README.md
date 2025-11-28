@@ -4,16 +4,18 @@
 <!-- BEGINNING OF NOTES INDEX HOOK -->
 ## Notes by Tag
 
-Last updated: 2025-11-07
+Last updated: 2025-11-28
 
 ### Tags
 - [ai agent](#ai-agent)
 - [capslock](#capslock)
+- [clash](#clash)
 - [cronjob](#cronjob)
 - [docker](#docker)
 - [docker compose](#docker-compose)
 - [embeddings](#embeddings)
 - [env](#env)
+- [gfw](#gfw)
 - [git](#git)
 - [github](#github)
 - [html](#html)
@@ -40,6 +42,10 @@ Last updated: 2025-11-07
 ### capslock
 - [nixos 修改 capslock 为长按 ctrl 短按 esc](notes/nixos%20%E4%BF%AE%E6%94%B9%20capslock%20%E4%B8%BA%E9%95%BF%E6%8C%89%20ctrl%20%E7%9F%AD%E6%8C%89%20esc.md) - 2025-10-24
 
+<a id="clash"></a>
+### clash
+- [nixos install clash](notes/nixos%20install%20clash.md) - 2025-11-28
+
 <a id="cronjob"></a>
 ### cronjob
 - [cronjob 中的环境变量问题](notes/cronjob%20%E4%B8%AD%E7%9A%84%E7%8E%AF%E5%A2%83%E5%8F%98%E9%87%8F%E9%97%AE%E9%A2%98.md) - 2025-10-29
@@ -60,6 +66,10 @@ Last updated: 2025-11-07
 <a id="env"></a>
 ### env
 - [cronjob 中的环境变量问题](notes/cronjob%20%E4%B8%AD%E7%9A%84%E7%8E%AF%E5%A2%83%E5%8F%98%E9%87%8F%E9%97%AE%E9%A2%98.md) - 2025-10-29
+
+<a id="gfw"></a>
+### gfw
+- [nixos install clash](notes/nixos%20install%20clash.md) - 2025-11-28
 
 <a id="git"></a>
 ### git
@@ -96,6 +106,7 @@ Last updated: 2025-11-07
 
 <a id="nixos"></a>
 ### nixos
+- [nixos install clash](notes/nixos%20install%20clash.md) - 2025-11-28
 - [nixos 修改 capslock 为长按 ctrl 短按 esc](notes/nixos%20%E4%BF%AE%E6%94%B9%20capslock%20%E4%B8%BA%E9%95%BF%E6%8C%89%20ctrl%20%E7%9F%AD%E6%8C%89%20esc.md) - 2025-10-24
 
 <a id="prompt"></a>
