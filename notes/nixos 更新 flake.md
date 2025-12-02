@@ -16,3 +16,5 @@ nix flake update nixpkgs
 # 或者更新所有 inputs
 nix flake update
 ```
+
+**注意，建议更新所有 inputs，不然可能会出现 nixpkgs 和 home-manager 版本不一致的问题**
