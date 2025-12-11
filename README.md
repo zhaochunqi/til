@@ -4,13 +4,17 @@
 <!-- BEGINNING OF NOTES INDEX HOOK -->
 ## Notes by Tag
 
-Last updated: 2025-11-28
+Last updated: 2025-12-11
 
 ### Tags
+- [acme](#acme)
 - [ai agent](#ai-agent)
 - [capslock](#capslock)
+- [cert](#cert)
 - [clash](#clash)
 - [cronjob](#cronjob)
+- [dns](#dns)
+- [dns01](#dns01)
 - [docker](#docker)
 - [docker compose](#docker-compose)
 - [embeddings](#embeddings)
@@ -30,9 +34,14 @@ Last updated: 2025-11-28
 - [rss](#rss)
 - [shell](#shell)
 - [surge](#surge)
+- [traefik](#traefik)
 - [uuid](#uuid)
 - [vpn](#vpn)
 - [windows](#windows)
+
+<a id="acme"></a>
+### acme
+- [Traefik 中 dns01 自动签发之后会删除 CNAME 记录](notes/Traefik%20%E4%B8%AD%20dns01%20%E8%87%AA%E5%8A%A8%E7%AD%BE%E5%8F%91%E4%B9%8B%E5%90%8E%E4%BC%9A%E5%88%A0%E9%99%A4%20CNAME%20%E8%AE%B0%E5%BD%95.md) - 2025-12-11
 
 <a id="ai-agent"></a>
 ### ai agent
@@ -42,6 +51,10 @@ Last updated: 2025-11-28
 ### capslock
 - [nixos 修改 capslock 为长按 ctrl 短按 esc](notes/nixos%20%E4%BF%AE%E6%94%B9%20capslock%20%E4%B8%BA%E9%95%BF%E6%8C%89%20ctrl%20%E7%9F%AD%E6%8C%89%20esc.md) - 2025-10-24
 
+<a id="cert"></a>
+### cert
+- [Traefik 中 dns01 自动签发之后会删除 CNAME 记录](notes/Traefik%20%E4%B8%AD%20dns01%20%E8%87%AA%E5%8A%A8%E7%AD%BE%E5%8F%91%E4%B9%8B%E5%90%8E%E4%BC%9A%E5%88%A0%E9%99%A4%20CNAME%20%E8%AE%B0%E5%BD%95.md) - 2025-12-11
+
 <a id="clash"></a>
 ### clash
 - [nixos install clash](notes/nixos%20install%20clash.md) - 2025-11-28
@@ -49,6 +62,14 @@ Last updated: 2025-11-28
 <a id="cronjob"></a>
 ### cronjob
 - [cronjob 中的环境变量问题](notes/cronjob%20%E4%B8%AD%E7%9A%84%E7%8E%AF%E5%A2%83%E5%8F%98%E9%87%8F%E9%97%AE%E9%A2%98.md) - 2025-10-29
+
+<a id="dns"></a>
+### dns
+- [Traefik 中 dns01 自动签发之后会删除 CNAME 记录](notes/Traefik%20%E4%B8%AD%20dns01%20%E8%87%AA%E5%8A%A8%E7%AD%BE%E5%8F%91%E4%B9%8B%E5%90%8E%E4%BC%9A%E5%88%A0%E9%99%A4%20CNAME%20%E8%AE%B0%E5%BD%95.md) - 2025-12-11
+
+<a id="dns01"></a>
+### dns01
+- [Traefik 中 dns01 自动签发之后会删除 CNAME 记录](notes/Traefik%20%E4%B8%AD%20dns01%20%E8%87%AA%E5%8A%A8%E7%AD%BE%E5%8F%91%E4%B9%8B%E5%90%8E%E4%BC%9A%E5%88%A0%E9%99%A4%20CNAME%20%E8%AE%B0%E5%BD%95.md) - 2025-12-11
 
 <a id="docker"></a>
 ### docker
@@ -132,6 +153,10 @@ Last updated: 2025-11-28
 ### surge
 - [使用 surge modules 激活 share](notes/%E4%BD%BF%E7%94%A8surge%20modules%E6%BF%80%E6%B4%BB%20share.md) - 2025-11-07
 - [windows 手机连接区域限制](notes/windows%20%E6%89%8B%E6%9C%BA%E8%BF%9E%E6%8E%A5%E5%8C%BA%E5%9F%9F%E9%99%90%E5%88%B6.md) - 2025-10-28
+
+<a id="traefik"></a>
+### traefik
+- [Traefik 中 dns01 自动签发之后会删除 CNAME 记录](notes/Traefik%20%E4%B8%AD%20dns01%20%E8%87%AA%E5%8A%A8%E7%AD%BE%E5%8F%91%E4%B9%8B%E5%90%8E%E4%BC%9A%E5%88%A0%E9%99%A4%20CNAME%20%E8%AE%B0%E5%BD%95.md) - 2025-12-11
 
 <a id="uuid"></a>
 ### uuid
