@@ -4,6 +4,7 @@ tags:
   - env
   - shell
 date: 2025-10-29
+id: 01K8P9SK98QB8BHMEQN58M3AZB
 ---
 # cronjob 中的环境变量问题
 

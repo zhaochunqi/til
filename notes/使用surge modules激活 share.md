@@ -2,6 +2,7 @@
 tags:
   - surge
 date: 2025-11-07
+id: 01K9EKEPH084CXMMXMABBCZQJR
 ---
 # 使用 surge modules 激活 share
 

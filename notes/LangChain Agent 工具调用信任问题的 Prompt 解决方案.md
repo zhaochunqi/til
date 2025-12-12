@@ -5,6 +5,7 @@ tags:
   - langchain
   - ai agent
 date: 2025-10-20
+id: 01K7YW7HJG087840V22WGZZMQ6
 ---
 
 # LangChain Agent 工具调用信任问题的 Prompt 解决方案

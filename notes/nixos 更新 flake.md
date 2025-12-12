@@ -2,6 +2,7 @@
 tags:
   - nixos
 date: 2025-11-28
+id: 01KB4F4YZGHZFMZX4QDXJ9BHNZ
 ---
 # nixos 更新 flake
 

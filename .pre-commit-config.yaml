@@ -28,3 +28,10 @@ repos:
         language: system
         pass_filenames: false
         files: ^notes/.*\.md$
+  - repo: local
+    hooks:
+      - id: add-ulid
+        name: Add ULID to notes
+        entry: uv run scripts/add_ulid.py
+        language: system
+        files: ^notes/.*\.md$

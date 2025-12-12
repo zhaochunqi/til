@@ -2,6 +2,7 @@
 tags:
   - nixos
 date: 2025-11-28
+id: 01KB4F4YZGNTZ17TBV05FZ0NT7
 ---
 # nixos 清理旧版本
 

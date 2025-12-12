@@ -6,6 +6,7 @@ tags:
   - acme
   - cert
 date: 2025-12-11
+id: 01KC6A5BVR05K5ZZAZKAERKH3Y
 ---
 # Traefik 中 dns01 自动签发之后会删除 CNAME 记录
 

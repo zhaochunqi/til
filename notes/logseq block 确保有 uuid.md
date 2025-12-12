@@ -3,6 +3,7 @@ tags:
   - logseq
   - uuid
 date: 2025-10-21
+id: 01K828F9DGAX24VFCZV9C3QH1Q
 ---
 # logseq block 确保有 uuid
 

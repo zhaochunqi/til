@@ -3,6 +3,7 @@ new name:
     #!/usr/bin/env python3
     import os
     import sys
+    import subprocess
     from datetime import datetime
     
     # Get the name argument (justfile passes it as environment variable)
@@ -11,8 +12,21 @@ new name:
     # Get current date in YYYY-MM-DD format
     current_date = datetime.now().strftime("%Y-%m-%d")
     
-    # Template content
-    template = "---\ntags:\n  - \ndate: {}\n---\n# {}\n\n".format(current_date, name)
+    # Generate ULID for the new file
+    try:
+        result = subprocess.run(["uv", "run", "-q", "python3", "-c", 
+                               "import ulid; from datetime import datetime; print(str(ulid.from_timestamp(datetime.now())))"], 
+                              capture_output=True, text=True, check=True)
+        ulid_str = result.stdout.strip()
+    except subprocess.CalledProcessError as e:
+        print(f"Warning: Failed to generate ULID: {e}")
+        ulid_str = ""
+    
+    # Template content with ULID
+    if ulid_str:
+        template = "---\ntags:\n  - \ndate: {}\nid: {}\n---\n# {}\n\n".format(current_date, ulid_str, name)
+    else:
+        template = "---\ntags:\n  - \ndate: {}\n---\n# {}\n\n".format(current_date, name)
     
     # Create the file path
     file_path = f"notes/{name}.md"

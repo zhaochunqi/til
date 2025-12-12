@@ -4,6 +4,7 @@ tags:
   - clash
   - gfw
 date: 2025-11-28
+id: 01KB44BDBRQ2HWAWC42Y8XRD76
 ---
 # nixos install clash
 

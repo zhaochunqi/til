@@ -3,6 +3,7 @@ tags:
   - rss
   - html
 date: 2025-10-07
+id: 01K6YZA4NRGR46T7MQ20Y78JDE
 ---
 
 可以使用 <link> 标签在 HTML 的 <head> 中声明 RSS, 这样大多数现代浏览器会自动发现。
