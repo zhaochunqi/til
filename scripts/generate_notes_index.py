@@ -1,4 +1,8 @@
 #!/usr/bin/env python3
+# /// script
+# requires-python = ">=3.12"
+# dependencies = []
+# ///
 import os
 import re
 import sys
@@ -23,6 +27,7 @@ FRONT_MATTER_RE = re.compile(r"^---\n(.*?)\n---\n?", re.DOTALL)
 HEADING_RE = re.compile(r"^#\s+(.+)$", re.MULTILINE)
 
 DATE_RE = re.compile(r"^\s*date:\s*([0-9]{4}-[0-9]{2}-[0-9]{2})\s*$", re.MULTILINE)
+TITLE_RE = re.compile(r"^\s*title:\s*[\"']?(.+?)[\"']?\s*$", re.MULTILINE)
 # Support both list and single string formats for tags
 TAGS_BLOCK_RE = re.compile(r"^\s*tags:\s*(\n(?:\s*-\s*.+\n?)+)", re.MULTILINE)
 TAGS_INLINE_RE = re.compile(r"^\s*tags:\s*\[(.*?)\]\s*$", re.MULTILINE)
@@ -66,8 +71,15 @@ def parse_front_matter(text: str):
 
 
 def extract_title(text: str, fallback: str) -> str:
-    # Prefer first level-1 heading after front matter; fallback to filename stem
-    # Remove front matter for scanning heading
+    # First try to extract title from YAML front matter
+    m = FRONT_MATTER_RE.search(text)
+    if m:
+        fm = m.group(1)
+        tm = TITLE_RE.search(fm)
+        if tm:
+            return tm.group(1).strip()
+    
+    # Fallback to first level-1 heading after front matter; fallback to filename stem
     t = FRONT_MATTER_RE.sub("", text, count=1)
     hm = HEADING_RE.search(t)
     if hm:

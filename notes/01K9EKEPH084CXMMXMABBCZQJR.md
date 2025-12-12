@@ -1,10 +1,9 @@
 ---
+title: 使用 surge modules 激活 share
 tags:
   - surge
 date: 2025-11-07
-id: 01K9EKEPH084CXMMXMABBCZQJR
 ---
-# 使用 surge modules 激活 share
 
 > Share 目前还是可以使用的，本文介绍如何使用 surge modules 来激活。
 

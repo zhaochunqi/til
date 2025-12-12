@@ -14,24 +14,20 @@ repos:
         entry: autocorrect
         args: ["--fix"]
         language: system
-      # fix url that not available.
-      - id: lychee
-        name: lychee
-        language: docker_image
-        entry: lycheeverse/lychee:0.15.1
-        args: ["--no-progress", "--exclude-path", "assets"]
-  - repo: local
-    hooks:
+      - id: normalize-yaml
+        name: Normalize YAML front matter
+        entry: uv run scripts/normalize_yaml.py
+        language: system
+        files: ^notes/.*\.md$
       - id: generate-notes-index
         name: Generate notes index
         entry: uv run scripts/generate_notes_index.py
         language: system
         pass_filenames: false
         files: ^notes/.*\.md$
-  - repo: local
-    hooks:
-      - id: add-ulid
-        name: Add ULID to notes
-        entry: uv run scripts/add_ulid.py
-        language: system
-        files: ^notes/.*\.md$
+      # fix url that not available.
+      - id: lychee
+        name: lychee
+        language: docker_image
+        entry: lycheeverse/lychee:0.15.1
+        args: ["--no-progress", "--exclude-path", "assets"]

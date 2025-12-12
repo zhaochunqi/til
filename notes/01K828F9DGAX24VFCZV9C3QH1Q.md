@@ -1,11 +1,10 @@
 ---
+title: logseq block 确保有 uuid
 tags:
   - logseq
   - uuid
 date: 2025-10-21
-id: 01K828F9DGAX24VFCZV9C3QH1Q
 ---
-# logseq block 确保有 uuid
 
 logseq 中 api 返回的 uuid 在真实的 block 中未必会有，需要检查是否有 id 这个属性才能够正确获取到：
 

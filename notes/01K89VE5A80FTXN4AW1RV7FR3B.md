@@ -1,11 +1,10 @@
 ---
+title: nixos 修改 capslock 为长按 ctrl 短按 esc
 tags:
   - nixos
   - capslock
 date: 2025-10-24
-id: 01K89VE5A80FTXN4AW1RV7FR3B
 ---
-# nixos 修改 capslock 为长按 ctrl 短按 esc
 
 在 `/etc/nixos/configuration` 中这样配置即可：
 

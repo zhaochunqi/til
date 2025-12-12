@@ -1,12 +1,11 @@
 ---
+title: cronjob 中的环境变量问题
 tags:
   - cronjob
   - env
   - shell
 date: 2025-10-29
-id: 01K8P9SK98QB8BHMEQN58M3AZB
 ---
-# cronjob 中的环境变量问题
 
 当我在 `cronjob` 中设置：`LOGSEQ_FOLDER=$HOME/logseq` 时 (这个语法会被 cronjob 设置为环境变量),在后续的命令调用 `LOGSEQ_FOLDER` 这个变量的时候，并不能正确的获取到 `$HOME` 变量。但是我们可以尝试在 `SHELL` 中运行命令`export LOGSEQ_FOLDER=$HOME/logseq`,然后从环境变量中查找 `env|grep LOGSEQ_FOLDER` 得到结果是：`/home/alex/logseq`, 为什么？
 

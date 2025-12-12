@@ -1,10 +1,9 @@
 ---
+title: 判断 macos 安装的软件是否是 mac app store 下载的
 tags:
   - macos
 date: 2025-10-26
-id: 01K8EGSPM8BYJHBYJKR7G0NTQ4
 ---
-# 判断 macos 安装的软件是否是 mac app store 下载的
 
 以 `Bitwarden` 为例：
 

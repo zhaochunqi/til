@@ -1,9 +1,9 @@
 ---
+title: linux 中寻找 docker 中运行的进程
 tags:
   - docker
   - linux
 date: 2025-10-05
-id: 01K6RD0QVGKHZ8N1BR8TCQXC9M
 ---
 
 > vps 内存爆炸了，上来查原因，使用 bottom 查看之后发现是 `uwsgi` 进程占用高内存，但我印象中我是我没有部署类似的服务的，因为我基本都是使用 docker 来部署的。
@@ -40,7 +40,6 @@ Linux 通过 cgroup 来管理容器资源，每个进程都会记录自己属于
 3. **根据容器 ID 找到容器名**
 
     ```bash
-    # 使用上一步找到的容器 ID 的前几位即可
     docker inspect a1b2c3d4e5f6 | grep "Name"
     ```
 

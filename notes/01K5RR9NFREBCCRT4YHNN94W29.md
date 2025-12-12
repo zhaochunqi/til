@@ -1,9 +1,10 @@
 ---
+title: git 中删除没有被追踪的文件
 tags:
   - git
 date: 2025-09-22
-id: 01K5RR9NFREBCCRT4YHNN94W29
 ---
+
 在 git config 中创建一个 alias, macOS 下位置在 `~/.gitconfig`
 
 ```gitconfig

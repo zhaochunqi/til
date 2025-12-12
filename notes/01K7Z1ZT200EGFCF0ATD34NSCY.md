@@ -1,12 +1,10 @@
 ---
+title: LangChain 中 qwen embeddings 使用 openai embeddings 兼容性问题
 tags:
   - langchain
   - embeddings
 date: 2025-10-20
-id: 01K7Z1ZT200EGFCF0ATD34NSCY
 ---
-
-# LangChain 中 qwen embddings 使用 openai embddings 兼容性问题
 
 使用本地 embddings 遇到如下问题：
 

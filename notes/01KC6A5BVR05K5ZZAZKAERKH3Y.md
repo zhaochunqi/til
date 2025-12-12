@@ -1,4 +1,5 @@
 ---
+title: Traefik 中 dns01 自动签发之后会删除 CNAME 记录
 tags:
   - traefik
   - dns01
@@ -6,9 +7,7 @@ tags:
   - acme
   - cert
 date: 2025-12-11
-id: 01KC6A5BVR05K5ZZAZKAERKH3Y
 ---
-# Traefik 中 dns01 自动签发之后会删除 CNAME 记录
 
 Traefik 底层使用的是 lego 库来处理 ACME (Let's Encrypt) 协议。在标准的 DNS-01 验证流程中，Traefik 会严格遵循 "创建 -> 验证 -> 清理" 的生命周期。所以如果有 _acme-challenge 之类的 dns 记录存在，除非正在签发过程中，否则是可以删除掉的。
 
