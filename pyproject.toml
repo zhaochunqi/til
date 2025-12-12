@@ -1,9 +1,0 @@
-[project]
-name = "til-scripts"
-version = "0.1.0"
-dependencies = [
-    "ulid-py>=1.1.0",
-]
-
-[tool.uv]
-dev-dependencies = []

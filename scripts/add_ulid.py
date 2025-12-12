@@ -1,4 +1,10 @@
 #!/usr/bin/env python3
+# /// script
+# requires-python = ">=3.12"
+# dependencies = [
+#     "ulid-py",
+# ]
+# ///
 """
 Add ULID to markdown files based on git add time.
 If file already has ULID, do nothing.
