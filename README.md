@@ -4,7 +4,7 @@
 <!-- BEGINNING OF NOTES INDEX HOOK -->
 ## Notes by Tag
 
-Last updated: 2025-12-11
+Last updated: 2025-12-12
 
 ### Tags
 - [acme](#acme)
@@ -12,6 +12,7 @@ Last updated: 2025-12-11
 - [capslock](#capslock)
 - [cert](#cert)
 - [clash](#clash)
+- [cli](#cli)
 - [cronjob](#cronjob)
 - [dns](#dns)
 - [dns01](#dns01)
@@ -23,6 +24,7 @@ Last updated: 2025-12-11
 - [git](#git)
 - [github](#github)
 - [html](#html)
+- [hyperfine](#hyperfine)
 - [langchain](#langchain)
 - [linux](#linux)
 - [llm](#llm)
@@ -34,6 +36,7 @@ Last updated: 2025-12-11
 - [rss](#rss)
 - [shell](#shell)
 - [surge](#surge)
+- [terminal](#terminal)
 - [traefik](#traefik)
 - [uuid](#uuid)
 - [vpn](#vpn)
@@ -58,6 +61,10 @@ Last updated: 2025-12-11
 <a id="clash"></a>
 ### clash
 - [nixos install clash](notes/01KB44BDBRQ2HWAWC42Y8XRD76.md) - 2025-11-28
+
+<a id="cli"></a>
+### cli
+- [获取终端命令运行的平均时间](notes/01KC93NW0AEVV9Q51PC36JW0F4.md) - 2025-12-12
 
 <a id="cronjob"></a>
 ### cronjob
@@ -104,6 +111,10 @@ Last updated: 2025-12-11
 ### html
 - [网页中设置自动发现 RSS](notes/01K6YZA4NRGR46T7MQ20Y78JDE.md) - 2025-10-07
 
+<a id="hyperfine"></a>
+### hyperfine
+- [获取终端命令运行的平均时间](notes/01KC93NW0AEVV9Q51PC36JW0F4.md) - 2025-12-12
+
 <a id="langchain"></a>
 ### langchain
 - [LangChain 中 qwen embeddings 使用 openai embeddings 兼容性问题](notes/01K7Z1ZT200EGFCF0ATD34NSCY.md) - 2025-10-20
@@ -111,6 +122,7 @@ Last updated: 2025-12-11
 
 <a id="linux"></a>
 ### linux
+- [获取终端命令运行的平均时间](notes/01KC93NW0AEVV9Q51PC36JW0F4.md) - 2025-12-12
 - [linux 中寻找 docker 中运行的进程](notes/01K6RD0QVGKHZ8N1BR8TCQXC9M.md) - 2025-10-05
 
 <a id="llm"></a>
@@ -153,6 +165,10 @@ Last updated: 2025-12-11
 ### surge
 - [使用 surge modules 激活 share](notes/01K9EKEPH084CXMMXMABBCZQJR.md) - 2025-11-07
 - [windows 手机连接区域限制](notes/01K8KQVTSRVSVHBFERTTE2QX8Y.md) - 2025-10-28
+
+<a id="terminal"></a>
+### terminal
+- [获取终端命令运行的平均时间](notes/01KC93NW0AEVV9Q51PC36JW0F4.md) - 2025-12-12
 
 <a id="traefik"></a>
 ### traefik

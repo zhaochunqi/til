@@ -1,11 +1,11 @@
 {
   "$schema": "https://raw.githubusercontent.com/jetify-com/devbox/0.15.0/.schema/devbox.schema.json",
   "packages": [
-    "oxipng@latest",
-    "uv@latest",
-    "autocorrect@latest",
-    "pre-commit@latest",
-    "just@latest"
+    "oxipng@9.1.5",
+    "uv@0.9.15",
+    "just@1.43.1",
+    "pre-commit@4.5.0",
+    "autocorrect@2.16.2"
   ],
   "shell": {
     "init_hook": [
