@@ -4,7 +4,7 @@
 <!-- BEGINNING OF NOTES INDEX HOOK -->
 ## Notes by Tag
 
-Last updated: 2025-12-12
+Last updated: 2025-12-13
 
 ### Tags
 - [acme](#acme)
@@ -14,6 +14,7 @@ Last updated: 2025-12-12
 - [clash](#clash)
 - [cli](#cli)
 - [cronjob](#cronjob)
+- [Discord](#discord)
 - [dns](#dns)
 - [dns01](#dns01)
 - [docker](#docker)
@@ -25,6 +26,7 @@ Last updated: 2025-12-12
 - [github](#github)
 - [html](#html)
 - [hyperfine](#hyperfine)
+- [Jellyfin](#jellyfin)
 - [langchain](#langchain)
 - [linux](#linux)
 - [llm](#llm)
@@ -40,6 +42,7 @@ Last updated: 2025-12-12
 - [traefik](#traefik)
 - [uuid](#uuid)
 - [vpn](#vpn)
+- [Webhook](#webhook)
 - [windows](#windows)
 
 <a id="acme"></a>
@@ -69,6 +72,10 @@ Last updated: 2025-12-12
 <a id="cronjob"></a>
 ### cronjob
 - [cronjob 中的环境变量问题](notes/01K8P9SK98QB8BHMEQN58M3AZB.md) - 2025-10-29
+
+<a id="discord"></a>
+### Discord
+- [Jellyfin 发送播放媒体的信息通知到 Discord](notes/01KCBZ0HR6KGNWKXSQX1NYSA1J.md) - 2025-12-13
 
 <a id="dns"></a>
 ### dns
@@ -114,6 +121,10 @@ Last updated: 2025-12-12
 <a id="hyperfine"></a>
 ### hyperfine
 - [获取终端命令运行的平均时间](notes/01KC93NW0AEVV9Q51PC36JW0F4.md) - 2025-12-12
+
+<a id="jellyfin"></a>
+### Jellyfin
+- [Jellyfin 发送播放媒体的信息通知到 Discord](notes/01KCBZ0HR6KGNWKXSQX1NYSA1J.md) - 2025-12-13
 
 <a id="langchain"></a>
 ### langchain
@@ -181,6 +192,10 @@ Last updated: 2025-12-12
 <a id="vpn"></a>
 ### vpn
 - [windows 手机连接区域限制](notes/01K8KQVTSRVSVHBFERTTE2QX8Y.md) - 2025-10-28
+
+<a id="webhook"></a>
+### Webhook
+- [Jellyfin 发送播放媒体的信息通知到 Discord](notes/01KCBZ0HR6KGNWKXSQX1NYSA1J.md) - 2025-12-13
 
 <a id="windows"></a>
 ### windows
