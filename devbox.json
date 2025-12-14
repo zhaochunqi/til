@@ -5,7 +5,8 @@
     "uv@0.9.15",
     "just@1.43.1",
     "pre-commit@4.5.0",
-    "autocorrect@2.16.2"
+    "autocorrect@2.16.2",
+    "lychee@0.21.0"
   ],
   "shell": {
     "init_hook": [

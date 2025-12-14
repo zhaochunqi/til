@@ -27,7 +27,7 @@ repos:
         files: ^notes/.*\.md$
       # fix url that not available.
       - id: lychee
+        entry: lychee
+        language: system
         name: lychee
-        language: docker_image
-        entry: lycheeverse/lychee:0.15.1
         args: ["--no-progress", "--exclude-path", "assets"]

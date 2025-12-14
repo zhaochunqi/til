@@ -137,6 +137,54 @@
         }
       }
     },
+    "lychee@0.21.0": {
+      "last_modified": "2025-11-23T21:50:36Z",
+      "resolved": "github:NixOS/nixpkgs/ee09932cedcef15aaf476f9343d1dea2cb77e261#lychee",
+      "source": "devbox-search",
+      "version": "0.21.0",
+      "systems": {
+        "aarch64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/phm93lmlcjbb01qpv5cick89p37ha9lh-lychee-0.21.0",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/phm93lmlcjbb01qpv5cick89p37ha9lh-lychee-0.21.0"
+        },
+        "aarch64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/i4bl6p8jp741aqm2jmyyb8wpbaajcwh2-lychee-0.21.0",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/i4bl6p8jp741aqm2jmyyb8wpbaajcwh2-lychee-0.21.0"
+        },
+        "x86_64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/xrl8m2iaq90aii59j4303gca6qjk4fby-lychee-0.21.0",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/xrl8m2iaq90aii59j4303gca6qjk4fby-lychee-0.21.0"
+        },
+        "x86_64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/cjhqaadzg1h930wax8ps287qr4w1y3qd-lychee-0.21.0",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/cjhqaadzg1h930wax8ps287qr4w1y3qd-lychee-0.21.0"
+        }
+      }
+    },
     "oxipng@9.1.5": {
       "last_modified": "2025-11-23T21:50:36Z",
       "resolved": "github:NixOS/nixpkgs/ee09932cedcef15aaf476f9343d1dea2cb77e261#oxipng",

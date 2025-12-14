@@ -4,7 +4,7 @@
 <!-- BEGINNING OF NOTES INDEX HOOK -->
 ## Notes by Tag
 
-Last updated: 2025-12-13
+Last updated: 2025-12-14
 
 ### Tags
 - [acme](#acme)
@@ -24,6 +24,7 @@ Last updated: 2025-12-13
 - [gfw](#gfw)
 - [git](#git)
 - [github](#github)
+- [github action](#github-action)
 - [html](#html)
 - [hyperfine](#hyperfine)
 - [Jellyfin](#jellyfin)
@@ -33,6 +34,7 @@ Last updated: 2025-12-13
 - [logseq](#logseq)
 - [macos](#macos)
 - [nixos](#nixos)
+- [pr](#pr)
 - [prompt](#prompt)
 - [reddit](#reddit)
 - [rss](#rss)
@@ -112,7 +114,12 @@ Last updated: 2025-12-13
 
 <a id="github"></a>
 ### github
+- [github action 中开启 pr 权限](notes/01KCDNN88DV6E98NE4T0YGAYWV.md) - 2025-12-14
 - [github 删除垃圾通知](notes/01K5X1514G144QQSM4K4S85WMC.md) - 2025-09-24
+
+<a id="github-action"></a>
+### github action
+- [github action 中开启 pr 权限](notes/01KCDNN88DV6E98NE4T0YGAYWV.md) - 2025-12-14
 
 <a id="html"></a>
 ### html
@@ -154,6 +161,10 @@ Last updated: 2025-12-13
 - [nixos 更新 flake](notes/01KB4F4YZGHZFMZX4QDXJ9BHNZ.md) - 2025-11-28
 - [nixos install clash](notes/01KB44BDBRQ2HWAWC42Y8XRD76.md) - 2025-11-28
 - [nixos 修改 capslock 为长按 ctrl 短按 esc](notes/01K89VE5A80FTXN4AW1RV7FR3B.md) - 2025-10-24
+
+<a id="pr"></a>
+### pr
+- [github action 中开启 pr 权限](notes/01KCDNN88DV6E98NE4T0YGAYWV.md) - 2025-12-14
 
 <a id="prompt"></a>
 ### prompt
