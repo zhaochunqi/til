@@ -1,9 +1,9 @@
 ---
 title: "Jellyfin 发送播放媒体的信息通知到 Discord"
 tags:
-  - Jellyfin
-  - Discord
-  - Webhook
+  - jellyfin
+  - discord
+  - webhook
 date: 2025-12-13
 ---
 

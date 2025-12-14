@@ -14,7 +14,7 @@ Last updated: 2025-12-14
 - [clash](#clash)
 - [cli](#cli)
 - [cronjob](#cronjob)
-- [Discord](#discord)
+- [discord](#discord)
 - [dns](#dns)
 - [dns01](#dns01)
 - [docker](#docker)
@@ -27,7 +27,7 @@ Last updated: 2025-12-14
 - [github action](#github-action)
 - [html](#html)
 - [hyperfine](#hyperfine)
-- [Jellyfin](#jellyfin)
+- [jellyfin](#jellyfin)
 - [langchain](#langchain)
 - [linux](#linux)
 - [llm](#llm)
@@ -44,7 +44,7 @@ Last updated: 2025-12-14
 - [traefik](#traefik)
 - [uuid](#uuid)
 - [vpn](#vpn)
-- [Webhook](#webhook)
+- [webhook](#webhook)
 - [windows](#windows)
 
 <a id="acme"></a>
@@ -76,7 +76,7 @@ Last updated: 2025-12-14
 - [cronjob 中的环境变量问题](notes/01K8P9SK98QB8BHMEQN58M3AZB.md) - 2025-10-29
 
 <a id="discord"></a>
-### Discord
+### discord
 - [Jellyfin 发送播放媒体的信息通知到 Discord](notes/01KCBZ0HR6KGNWKXSQX1NYSA1J.md) - 2025-12-13
 
 <a id="dns"></a>
@@ -130,7 +130,7 @@ Last updated: 2025-12-14
 - [获取终端命令运行的平均时间](notes/01KC93NW0AEVV9Q51PC36JW0F4.md) - 2025-12-12
 
 <a id="jellyfin"></a>
-### Jellyfin
+### jellyfin
 - [Jellyfin 发送播放媒体的信息通知到 Discord](notes/01KCBZ0HR6KGNWKXSQX1NYSA1J.md) - 2025-12-13
 
 <a id="langchain"></a>
@@ -205,7 +205,7 @@ Last updated: 2025-12-14
 - [windows 手机连接区域限制](notes/01K8KQVTSRVSVHBFERTTE2QX8Y.md) - 2025-10-28
 
 <a id="webhook"></a>
-### Webhook
+### webhook
 - [Jellyfin 发送播放媒体的信息通知到 Discord](notes/01KCBZ0HR6KGNWKXSQX1NYSA1J.md) - 2025-12-13
 
 <a id="windows"></a>
