@@ -7,6 +7,8 @@ tags:
 date: 2025-11-28
 ---
 
+在 nixos 配置中添加：
+
 ```
   # Setup Clash
   programs.clash-verge = {
