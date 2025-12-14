@@ -14,6 +14,7 @@ Last updated: 2025-12-14
 - [clash](#clash)
 - [cli](#cli)
 - [cronjob](#cronjob)
+- [direnv](#direnv)
 - [discord](#discord)
 - [dns](#dns)
 - [dns01](#dns01)
@@ -74,6 +75,10 @@ Last updated: 2025-12-14
 <a id="cronjob"></a>
 ### cronjob
 - [cronjob 中的环境变量问题](notes/01K8P9SK98QB8BHMEQN58M3AZB.md) - 2025-10-29
+
+<a id="direnv"></a>
+### direnv
+- [direnv 中使用其他 .envrc 文件](notes/01KCDTGVHA12FK88RA0E0F5GDB.md) - 2025-12-14
 
 <a id="discord"></a>
 ### discord
