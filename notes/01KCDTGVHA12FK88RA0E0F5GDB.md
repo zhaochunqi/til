@@ -37,13 +37,13 @@ export B="This is B from B folder"
 在 A 目录下执行 `direnv allow` 后，进入 B 目录，执行 `direnv allow` 后，可以看到如下输出：
 
 ```bash
-~/Desktop/A
+Desktop/A/B 
 ➜ echo $A
 this is A
 
-~/Desktop/A
+Desktop/A/B 
 ➜ echo $B
-this is B from A folder
+This is B from B folder
 ```
 
 可以看到，在 B 目录下，可以访问到 A 目录下的环境变量，并且 B 目录下的环境变量覆盖了 A 目录下的环境变量。这正是我们想要的。
