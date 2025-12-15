@@ -38,6 +38,7 @@ Last updated: 2025-12-15
 - [nixos](#nixos)
 - [pr](#pr)
 - [prompt](#prompt)
+- [rbw](#rbw)
 - [reddit](#reddit)
 - [rss](#rss)
 - [shell](#shell)
@@ -83,6 +84,7 @@ Last updated: 2025-12-15
 
 <a id="direnv"></a>
 ### direnv
+- [direnv 配合 rbw 一起使用](notes/01KCGZ1VNBESN6SDNK01CB4EX2.md) - 2025-12-15
 - [direnv 中使用其他 .envrc 文件](notes/01KCDTGVHA12FK88RA0E0F5GDB.md) - 2025-12-14
 
 <a id="discord"></a>
@@ -180,6 +182,10 @@ Last updated: 2025-12-15
 <a id="prompt"></a>
 ### prompt
 - [LangChain Agent 工具调用信任问题的 Prompt 解决方案](notes/01K7YW7HJG087840V22WGZZMQ6.md) - 2025-10-20
+
+<a id="rbw"></a>
+### rbw
+- [direnv 配合 rbw 一起使用](notes/01KCGZ1VNBESN6SDNK01CB4EX2.md) - 2025-12-15
 
 <a id="reddit"></a>
 ### reddit
