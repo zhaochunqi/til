@@ -4,7 +4,7 @@
 <!-- BEGINNING OF NOTES INDEX HOOK -->
 ## Notes by Tag
 
-Last updated: 2025-12-14
+Last updated: 2025-12-15
 
 ### Tags
 - [acme](#acme)
@@ -14,6 +14,7 @@ Last updated: 2025-12-14
 - [clash](#clash)
 - [cli](#cli)
 - [cronjob](#cronjob)
+- [curl](#curl)
 - [direnv](#direnv)
 - [discord](#discord)
 - [dns](#dns)
@@ -76,6 +77,10 @@ Last updated: 2025-12-14
 ### cronjob
 - [cronjob 中的环境变量问题](notes/01K8P9SK98QB8BHMEQN58M3AZB.md) - 2025-10-29
 
+<a id="curl"></a>
+### curl
+- [使用 post 请求触发 github action](notes/01KCGQTW0QZG459XNH7YWCPW68.md) - 2025-12-15
+
 <a id="direnv"></a>
 ### direnv
 - [direnv 中使用其他 .envrc 文件](notes/01KCDTGVHA12FK88RA0E0F5GDB.md) - 2025-12-14
@@ -124,6 +129,7 @@ Last updated: 2025-12-14
 
 <a id="github-action"></a>
 ### github action
+- [使用 post 请求触发 github action](notes/01KCGQTW0QZG459XNH7YWCPW68.md) - 2025-12-15
 - [github action 中开启 pr 权限](notes/01KCDNN88DV6E98NE4T0YGAYWV.md) - 2025-12-14
 
 <a id="html"></a>
