@@ -8,6 +8,7 @@ Last updated: 2025-12-15
 
 ### Tags
 - [acme](#acme)
+- [ai](#ai)
 - [ai agent](#ai-agent)
 - [capslock](#capslock)
 - [cert](#cert)
@@ -36,6 +37,7 @@ Last updated: 2025-12-15
 - [logseq](#logseq)
 - [macos](#macos)
 - [nixos](#nixos)
+- [opencode](#opencode)
 - [pr](#pr)
 - [prompt](#prompt)
 - [rbw](#rbw)
@@ -46,6 +48,7 @@ Last updated: 2025-12-15
 - [terminal](#terminal)
 - [traefik](#traefik)
 - [uuid](#uuid)
+- [vibe coding](#vibe-coding)
 - [vpn](#vpn)
 - [webhook](#webhook)
 - [windows](#windows)
@@ -53,6 +56,10 @@ Last updated: 2025-12-15
 <a id="acme"></a>
 ### acme
 - [Traefik 中 dns01 自动签发之后会删除 CNAME 记录](notes/01KC6A5BVR05K5ZZAZKAERKH3Y.md) - 2025-12-11
+
+<a id="ai"></a>
+### ai
+- [opencode models](notes/01KCHB013NE12WSNYZTBEZZZT1.md) - 2025-12-15
 
 <a id="ai-agent"></a>
 ### ai agent
@@ -177,6 +184,10 @@ Last updated: 2025-12-15
 - [nixos install clash](notes/01KB44BDBRQ2HWAWC42Y8XRD76.md) - 2025-11-28
 - [nixos 修改 capslock 为长按 ctrl 短按 esc](notes/01K89VE5A80FTXN4AW1RV7FR3B.md) - 2025-10-24
 
+<a id="opencode"></a>
+### opencode
+- [opencode models](notes/01KCHB013NE12WSNYZTBEZZZT1.md) - 2025-12-15
+
 <a id="pr"></a>
 ### pr
 - [github action 中开启 pr 权限](notes/01KCDNN88DV6E98NE4T0YGAYWV.md) - 2025-12-14
@@ -218,6 +229,10 @@ Last updated: 2025-12-15
 <a id="uuid"></a>
 ### uuid
 - [logseq block 确保有 uuid](notes/01K828F9DGAX24VFCZV9C3QH1Q.md) - 2025-10-21
+
+<a id="vibe-coding"></a>
+### vibe coding
+- [opencode models](notes/01KCHB013NE12WSNYZTBEZZZT1.md) - 2025-12-15
 
 <a id="vpn"></a>
 ### vpn
