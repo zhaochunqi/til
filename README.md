@@ -122,6 +122,7 @@ Last updated: 2025-12-15
 
 <a id="git"></a>
 ### git
+- [git delete remote branches](notes/01KCH1D667BNMSC7FFQ5C21C6R.md) - 2025-12-15
 - [git 中删除没有被追踪的文件](notes/01K5RR9NFREBCCRT4YHNN94W29.md) - 2025-09-22
 
 <a id="github"></a>
