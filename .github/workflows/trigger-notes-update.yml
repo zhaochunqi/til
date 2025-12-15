@@ -1,0 +1,21 @@
+name: Trigger Notes Update
+
+on:
+  push:
+    paths:
+      - 'notes/**'
+
+jobs:
+  trigger-update:
+    runs-on: ubuntu-latest
+    if: github.ref == 'refs/heads/main'
+    
+    steps:
+      - name: Trigger til-pages repository update
+        run: |
+          curl -X POST 'https://api.github.com/repos/zhaochunqi/til-pages/dispatches' \
+            --header 'Content-Type: application/json' \
+            --header 'Accept: application/vnd.github.v3+json' \
+            --header 'Authorization: Bearer ${{ secrets.TIL_PAGES_TOKEN }}' \
+            --header 'X-GitHub-Api-Version: 2022-11-28' \
+            --data '{"event_type": "til-updated"}'

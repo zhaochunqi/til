@@ -31,3 +31,4 @@ repos:
         language: system
         name: lychee
         args: ["--no-progress", "--exclude-path", "assets"]
+        files: ^notes/.*\.md$
