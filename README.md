@@ -4,12 +4,13 @@
 <!-- BEGINNING OF NOTES INDEX HOOK -->
 ## Notes by Tag
 
-Last updated: 2025-12-15
+Last updated: 2025-12-17
 
 ### Tags
 - [acme](#acme)
 - [ai](#ai)
 - [ai agent](#ai-agent)
+- [arm](#arm)
 - [capslock](#capslock)
 - [cert](#cert)
 - [clash](#clash)
@@ -35,6 +36,7 @@ Last updated: 2025-12-15
 - [linux](#linux)
 - [llm](#llm)
 - [logseq](#logseq)
+- [macOS](#macos)
 - [macos](#macos)
 - [nixos](#nixos)
 - [opencode](#opencode)
@@ -65,6 +67,10 @@ Last updated: 2025-12-15
 ### ai agent
 - [LangChain Agent 工具调用信任问题的 Prompt 解决方案](notes/01K7YW7HJG087840V22WGZZMQ6.md) - 2025-10-20
 
+<a id="arm"></a>
+### arm
+- [macOS 下获取操作系统和架构](notes/01KCNV2AGP3RXP294T6JVMXY75.md) - 2025-12-17
+
 <a id="capslock"></a>
 ### capslock
 - [nixos 修改 capslock 为长按 ctrl 短按 esc](notes/01K89VE5A80FTXN4AW1RV7FR3B.md) - 2025-10-24
@@ -79,6 +85,7 @@ Last updated: 2025-12-15
 
 <a id="cli"></a>
 ### cli
+- [macOS 下获取操作系统和架构](notes/01KCNV2AGP3RXP294T6JVMXY75.md) - 2025-12-17
 - [获取终端命令运行的平均时间](notes/01KC93NW0AEVV9Q51PC36JW0F4.md) - 2025-12-12
 
 <a id="cronjob"></a>
@@ -172,6 +179,10 @@ Last updated: 2025-12-15
 <a id="logseq"></a>
 ### logseq
 - [logseq block 确保有 uuid](notes/01K828F9DGAX24VFCZV9C3QH1Q.md) - 2025-10-21
+
+<a id="macos"></a>
+### macOS
+- [macOS 下获取操作系统和架构](notes/01KCNV2AGP3RXP294T6JVMXY75.md) - 2025-12-17
 
 <a id="macos"></a>
 ### macos
