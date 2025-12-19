@@ -1,7 +1,7 @@
 ---
 title: "macOS 下获取操作系统和架构"
 tags:
-  - macOS
+  - macos
   - cli
   - arm
 date: 2025-12-17

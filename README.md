@@ -4,7 +4,7 @@
 <!-- BEGINNING OF NOTES INDEX HOOK -->
 ## Notes by Tag
 
-Last updated: 2025-12-17
+Last updated: 2025-12-20
 
 ### Tags
 - [acme](#acme)
@@ -36,7 +36,6 @@ Last updated: 2025-12-17
 - [linux](#linux)
 - [llm](#llm)
 - [logseq](#logseq)
-- [macOS](#macos)
 - [macos](#macos)
 - [nixos](#nixos)
 - [opencode](#opencode)
@@ -46,6 +45,7 @@ Last updated: 2025-12-17
 - [reddit](#reddit)
 - [rss](#rss)
 - [shell](#shell)
+- [starship](#starship)
 - [surge](#surge)
 - [terminal](#terminal)
 - [traefik](#traefik)
@@ -136,6 +136,7 @@ Last updated: 2025-12-17
 
 <a id="git"></a>
 ### git
+- [Starship 中 git 分支后面有 $ 符号](notes/01KCVW870NJHDYWB5JJR6WEDQN.md) - 2025-12-20
 - [删除 git 幽灵分支](notes/01KCH2ZKTD9J41036S46GXB6SC.md) - 2025-12-15
 - [git delete remote branches](notes/01KCH1D667BNMSC7FFQ5C21C6R.md) - 2025-12-15
 - [git 中删除没有被追踪的文件](notes/01K5RR9NFREBCCRT4YHNN94W29.md) - 2025-09-22
@@ -181,11 +182,8 @@ Last updated: 2025-12-17
 - [logseq block 确保有 uuid](notes/01K828F9DGAX24VFCZV9C3QH1Q.md) - 2025-10-21
 
 <a id="macos"></a>
-### macOS
-- [macOS 下获取操作系统和架构](notes/01KCNV2AGP3RXP294T6JVMXY75.md) - 2025-12-17
-
-<a id="macos"></a>
 ### macos
+- [macOS 下获取操作系统和架构](notes/01KCNV2AGP3RXP294T6JVMXY75.md) - 2025-12-17
 - [判断 macos 安装的软件是否是 mac app store 下载的](notes/01K8EGSPM8BYJHBYJKR7G0NTQ4.md) - 2025-10-26
 
 <a id="nixos"></a>
@@ -223,6 +221,10 @@ Last updated: 2025-12-17
 <a id="shell"></a>
 ### shell
 - [cronjob 中的环境变量问题](notes/01K8P9SK98QB8BHMEQN58M3AZB.md) - 2025-10-29
+
+<a id="starship"></a>
+### starship
+- [Starship 中 git 分支后面有 $ 符号](notes/01KCVW870NJHDYWB5JJR6WEDQN.md) - 2025-12-20
 
 <a id="surge"></a>
 ### surge
