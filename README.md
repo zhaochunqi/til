@@ -4,13 +4,14 @@
 <!-- BEGINNING OF NOTES INDEX HOOK -->
 ## Notes by Tag
 
-Last updated: 2025-12-20
+Last updated: 2025-12-21
 
 ### Tags
 - [acme](#acme)
 - [ai](#ai)
 - [ai agent](#ai-agent)
 - [arm](#arm)
+- [beads](#beads)
 - [capslock](#capslock)
 - [cert](#cert)
 - [clash](#clash)
@@ -70,6 +71,10 @@ Last updated: 2025-12-20
 <a id="arm"></a>
 ### arm
 - [macOS 下获取操作系统和架构](notes/01KCNV2AGP3RXP294T6JVMXY75.md) - 2025-12-17
+
+<a id="beads"></a>
+### beads
+- [beads Error: operation failed: failed to get ready work](notes/01KCY8SW3QQ6M8C8NTFBNG5WDA.md) - 2025-12-21
 
 <a id="capslock"></a>
 ### capslock

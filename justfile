@@ -1,3 +1,6 @@
+default:
+    pre-commit run -a
+
 # Generate a new note with template
 new name:
     uv run scripts/new_note.py "{{name}}"
