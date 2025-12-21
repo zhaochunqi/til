@@ -4,7 +4,7 @@
 <!-- BEGINNING OF NOTES INDEX HOOK -->
 ## Notes by Tag
 
-Last updated: 2025-12-21
+Last updated: 2025-12-22
 
 ### Tags
 - [acme](#acme)
@@ -26,6 +26,7 @@ Last updated: 2025-12-21
 - [docker compose](#docker-compose)
 - [embeddings](#embeddings)
 - [env](#env)
+- [freshrss](#freshrss)
 - [gfw](#gfw)
 - [git](#git)
 - [github](#github)
@@ -38,6 +39,7 @@ Last updated: 2025-12-21
 - [llm](#llm)
 - [logseq](#logseq)
 - [macos](#macos)
+- [miniflux](#miniflux)
 - [nixos](#nixos)
 - [opencode](#opencode)
 - [pr](#pr)
@@ -135,6 +137,10 @@ Last updated: 2025-12-21
 ### env
 - [cronjob 中的环境变量问题](notes/01K8P9SK98QB8BHMEQN58M3AZB.md) - 2025-10-29
 
+<a id="freshrss"></a>
+### freshrss
+- [use miniflux on ipad with netnewswire](notes/01KD1140CPYSD4QRFEXT2DE27T.md) - 2025-12-22
+
 <a id="gfw"></a>
 ### gfw
 - [nixos install clash](notes/01KB44BDBRQ2HWAWC42Y8XRD76.md) - 2025-11-28
@@ -192,6 +198,10 @@ Last updated: 2025-12-21
 - [macOS 下获取操作系统和架构](notes/01KCNV2AGP3RXP294T6JVMXY75.md) - 2025-12-17
 - [判断 macos 安装的软件是否是 mac app store 下载的](notes/01K8EGSPM8BYJHBYJKR7G0NTQ4.md) - 2025-10-26
 
+<a id="miniflux"></a>
+### miniflux
+- [use miniflux on ipad with netnewswire](notes/01KD1140CPYSD4QRFEXT2DE27T.md) - 2025-12-22
+
 <a id="nixos"></a>
 ### nixos
 - [nixos 清理旧版本](notes/01KB4F4YZGNTZ17TBV05FZ0NT7.md) - 2025-11-28
@@ -221,6 +231,7 @@ Last updated: 2025-12-21
 
 <a id="rss"></a>
 ### rss
+- [use miniflux on ipad with netnewswire](notes/01KD1140CPYSD4QRFEXT2DE27T.md) - 2025-12-22
 - [网页中设置自动发现 RSS](notes/01K6YZA4NRGR46T7MQ20Y78JDE.md) - 2025-10-07
 - [reddit rss for sub reddits](notes/01K6YYWVW04PSBKTATNEQZYRQM.md) - 2025-10-07
 
