@@ -141,6 +141,7 @@ Last updated: 2025-12-21
 
 <a id="git"></a>
 ### git
+- [合并前两个 git commit](notes/01KD0JNH65XG5AQNJESENRS3XE.md) - 2025-12-21
 - [Starship 中 git 分支后面有 $ 符号](notes/01KCVW870NJHDYWB5JJR6WEDQN.md) - 2025-12-20
 - [删除 git 幽灵分支](notes/01KCH2ZKTD9J41036S46GXB6SC.md) - 2025-12-15
 - [git delete remote branches](notes/01KCH1D667BNMSC7FFQ5C21C6R.md) - 2025-12-15
