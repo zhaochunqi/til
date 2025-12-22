@@ -8,7 +8,7 @@ date: 2025-12-15
 
 一个 curl 请求的例子：
 
-```curl
+```bash
 curl -X POST 'https://api.github.com/repos/zhaochunqi/til-pages/dispatches' \
   --header 'Content-Type: application/json' \
   --header 'Accept: application/vnd.github.v3+json' \
