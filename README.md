@@ -31,6 +31,7 @@ Last updated: 2025-12-22
 - [git](#git)
 - [github](#github)
 - [github action](#github-action)
+- [google](#google)
 - [html](#html)
 - [hyperfine](#hyperfine)
 - [jellyfin](#jellyfin)
@@ -163,6 +164,10 @@ Last updated: 2025-12-22
 - [使用 post 请求触发 github action](notes/01KCGQTW0QZG459XNH7YWCPW68.md) - 2025-12-15
 - [github action 中开启 pr 权限](notes/01KCDNN88DV6E98NE4T0YGAYWV.md) - 2025-12-14
 
+<a id="google"></a>
+### google
+- [老照片修复 prompt](notes/01KD2E2Z70PS89EPKX84ERDHGM.md) - 2025-12-22
+
 <a id="html"></a>
 ### html
 - [网页中设置自动发现 RSS](notes/01K6YZA4NRGR46T7MQ20Y78JDE.md) - 2025-10-07
@@ -219,6 +224,7 @@ Last updated: 2025-12-22
 
 <a id="prompt"></a>
 ### prompt
+- [老照片修复 prompt](notes/01KD2E2Z70PS89EPKX84ERDHGM.md) - 2025-12-22
 - [LangChain Agent 工具调用信任问题的 Prompt 解决方案](notes/01K7YW7HJG087840V22WGZZMQ6.md) - 2025-10-20
 
 <a id="rbw"></a>
