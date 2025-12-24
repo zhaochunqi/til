@@ -2,6 +2,7 @@
 title: nixos install clash
 tags:
   - nixos
+  - nix
   - clash
   - gfw
 date: 2025-11-28

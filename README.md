@@ -43,6 +43,7 @@ Last updated: 2025-12-24
 - [logseq](#logseq)
 - [macos](#macos)
 - [miniflux](#miniflux)
+- [nix](#nix)
 - [nixos](#nixos)
 - [opencode](#opencode)
 - [pinentry](#pinentry)
@@ -222,6 +223,13 @@ Last updated: 2025-12-24
 <a id="miniflux"></a>
 ### miniflux
 - [use miniflux on ipad with netnewswire](notes/01KD1140CPYSD4QRFEXT2DE27T.md) - 2025-12-22
+
+<a id="nix"></a>
+### nix
+- [nixos 清理旧版本](notes/01KB4F4YZGNTZ17TBV05FZ0NT7.md) - 2025-11-28
+- [nixos 更新 flake](notes/01KB4F4YZGHZFMZX4QDXJ9BHNZ.md) - 2025-11-28
+- [nixos install clash](notes/01KB44BDBRQ2HWAWC42Y8XRD76.md) - 2025-11-28
+- [nixos 修改 capslock 为长按 ctrl 短按 esc](notes/01K89VE5A80FTXN4AW1RV7FR3B.md) - 2025-10-24
 
 <a id="nixos"></a>
 ### nixos
