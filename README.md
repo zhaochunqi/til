@@ -4,7 +4,7 @@
 <!-- BEGINNING OF NOTES INDEX HOOK -->
 ## Notes by Tag
 
-Last updated: 2025-12-23
+Last updated: 2025-12-24
 
 ### Tags
 - [acme](#acme)
@@ -26,6 +26,7 @@ Last updated: 2025-12-23
 - [docker compose](#docker-compose)
 - [embeddings](#embeddings)
 - [env](#env)
+- [fcitx5](#fcitx5)
 - [freshrss](#freshrss)
 - [gfw](#gfw)
 - [git](#git)
@@ -35,6 +36,7 @@ Last updated: 2025-12-23
 - [html](#html)
 - [hyperfine](#hyperfine)
 - [jellyfin](#jellyfin)
+- [kitty](#kitty)
 - [langchain](#langchain)
 - [linux](#linux)
 - [llm](#llm)
@@ -140,6 +142,10 @@ Last updated: 2025-12-23
 ### env
 - [cronjob 中的环境变量问题](notes/01K8P9SK98QB8BHMEQN58M3AZB.md) - 2025-10-29
 
+<a id="fcitx5"></a>
+### fcitx5
+- [kitty 下使用 fcitx5 的问题](notes/01KD788PBV10B31ABJR1FF3MPG.md) - 2025-12-24
+
 <a id="freshrss"></a>
 ### freshrss
 - [use miniflux on ipad with netnewswire](notes/01KD1140CPYSD4QRFEXT2DE27T.md) - 2025-12-22
@@ -182,6 +188,10 @@ Last updated: 2025-12-23
 ### jellyfin
 - [Jellyfin 发送播放媒体的信息通知到 Discord](notes/01KCBZ0HR6KGNWKXSQX1NYSA1J.md) - 2025-12-13
 
+<a id="kitty"></a>
+### kitty
+- [kitty 下使用 fcitx5 的问题](notes/01KD788PBV10B31ABJR1FF3MPG.md) - 2025-12-24
+
 <a id="langchain"></a>
 ### langchain
 - [LangChain 中 qwen embeddings 使用 openai embeddings 兼容性问题](notes/01K7Z1ZT200EGFCF0ATD34NSCY.md) - 2025-10-20
@@ -189,6 +199,7 @@ Last updated: 2025-12-23
 
 <a id="linux"></a>
 ### linux
+- [kitty 下使用 fcitx5 的问题](notes/01KD788PBV10B31ABJR1FF3MPG.md) - 2025-12-24
 - [获取终端命令运行的平均时间](notes/01KC93NW0AEVV9Q51PC36JW0F4.md) - 2025-12-12
 - [linux 中寻找 docker 中运行的进程](notes/01K6RD0QVGKHZ8N1BR8TCQXC9M.md) - 2025-10-05
 
