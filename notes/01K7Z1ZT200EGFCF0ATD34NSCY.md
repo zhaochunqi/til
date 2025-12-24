@@ -1,8 +1,8 @@
 ---
 title: LangChain 中 qwen embeddings 使用 openai embeddings 兼容性问题
 tags:
-  - langchain
   - embeddings
+  - langchain
 date: 2025-10-20
 ---
 

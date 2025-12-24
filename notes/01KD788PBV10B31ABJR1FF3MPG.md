@@ -1,8 +1,8 @@
 ---
 title: "kitty 下使用 fcitx5 的问题"
 tags:
-  - kitty
   - fcitx5
+  - kitty
   - linux
 date: 2025-12-24
 ---

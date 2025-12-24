@@ -1,8 +1,8 @@
 ---
 title: 网页中设置自动发现 RSS
 tags:
-  - rss
   - html
+  - rss
 date: 2025-10-07
 ---
 

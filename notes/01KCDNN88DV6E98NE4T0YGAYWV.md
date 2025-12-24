@@ -1,8 +1,8 @@
 ---
 title: "github action 中开启 pr 权限"
 tags:
-  - github action
   - github
+  - github action
   - pr
 date: 2025-12-14
 ---

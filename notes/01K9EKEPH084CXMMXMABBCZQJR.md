@@ -1,7 +1,9 @@
 ---
 title: 使用 surge modules 激活 share
 tags:
+  - share
   - surge
+  - weibo
 date: 2025-11-07
 ---
 

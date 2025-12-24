@@ -1,8 +1,8 @@
 ---
 title: nixos 清理旧版本
 tags:
-  - nixos
   - nix
+  - nixos
 date: 2025-11-28
 ---
 

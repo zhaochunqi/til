@@ -1,10 +1,10 @@
 ---
 title: "获取终端命令运行的平均时间"
 tags:
+  - cli
+  - hyperfine
   - linux
   - terminal
-  - hyperfine
-  - cli
 date: 2025-12-12
 ---
 

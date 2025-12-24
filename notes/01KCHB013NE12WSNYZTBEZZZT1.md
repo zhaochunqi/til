@@ -1,8 +1,8 @@
 ---
 title: "opencode models"
 tags:
-  - opencode
   - ai
+  - opencode
   - vibe coding
 date: 2025-12-15
 ---

@@ -52,6 +52,7 @@ Last updated: 2025-12-24
 - [rbw](#rbw)
 - [reddit](#reddit)
 - [rss](#rss)
+- [share](#share)
 - [shell](#shell)
 - [starship](#starship)
 - [surge](#surge)
@@ -61,6 +62,7 @@ Last updated: 2025-12-24
 - [vibe coding](#vibe-coding)
 - [vpn](#vpn)
 - [webhook](#webhook)
+- [weibo](#weibo)
 - [windows](#windows)
 - [常识](#tag)
 - [月球](#tag)
@@ -270,6 +272,10 @@ Last updated: 2025-12-24
 - [网页中设置自动发现 RSS](notes/01K6YZA4NRGR46T7MQ20Y78JDE.md) - 2025-10-07
 - [reddit rss for sub reddits](notes/01K6YYWVW04PSBKTATNEQZYRQM.md) - 2025-10-07
 
+<a id="share"></a>
+### share
+- [使用 surge modules 激活 share](notes/01K9EKEPH084CXMMXMABBCZQJR.md) - 2025-11-07
+
 <a id="shell"></a>
 ### shell
 - [cronjob 中的环境变量问题](notes/01K8P9SK98QB8BHMEQN58M3AZB.md) - 2025-10-29
@@ -297,6 +303,7 @@ Last updated: 2025-12-24
 
 <a id="vibe-coding"></a>
 ### vibe coding
+- [beads Error: operation failed: failed to get ready work](notes/01KCY8SW3QQ6M8C8NTFBNG5WDA.md) - 2025-12-21
 - [opencode models](notes/01KCHB013NE12WSNYZTBEZZZT1.md) - 2025-12-15
 
 <a id="vpn"></a>
@@ -306,6 +313,10 @@ Last updated: 2025-12-24
 <a id="webhook"></a>
 ### webhook
 - [Jellyfin 发送播放媒体的信息通知到 Discord](notes/01KCBZ0HR6KGNWKXSQX1NYSA1J.md) - 2025-12-13
+
+<a id="weibo"></a>
+### weibo
+- [使用 surge modules 激活 share](notes/01K9EKEPH084CXMMXMABBCZQJR.md) - 2025-11-07
 
 <a id="windows"></a>
 ### windows

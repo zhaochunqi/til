@@ -1,8 +1,8 @@
 ---
 title: "使用 post 请求触发 github action"
 tags:
-  - github action
   - curl
+  - github action
 date: 2025-12-15
 ---
 

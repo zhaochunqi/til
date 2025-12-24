@@ -1,9 +1,9 @@
 ---
 title: nixos 修改 capslock 为长按 ctrl 短按 esc
 tags:
-  - nixos
-  - nix
   - capslock
+  - nix
+  - nixos
 date: 2025-10-24
 ---
 

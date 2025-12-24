@@ -1,8 +1,8 @@
 ---
 title: nixos 更新 flake
 tags:
-  - nixos
   - nix
+  - nixos
 date: 2025-11-28
 ---
 
