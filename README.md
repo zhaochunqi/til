@@ -45,6 +45,7 @@ Last updated: 2025-12-24
 - [miniflux](#miniflux)
 - [nixos](#nixos)
 - [opencode](#opencode)
+- [pinentry](#pinentry)
 - [pr](#pr)
 - [prompt](#prompt)
 - [rbw](#rbw)
@@ -214,6 +215,7 @@ Last updated: 2025-12-24
 
 <a id="macos"></a>
 ### macos
+- [修复 macos 下使用 rbw 获取密钥卡顿](notes/01KD8H0C73KVSSNAP9GFMMF46J.md) - 2025-12-24
 - [macOS 下获取操作系统和架构](notes/01KCNV2AGP3RXP294T6JVMXY75.md) - 2025-12-17
 - [判断 macos 安装的软件是否是 mac app store 下载的](notes/01K8EGSPM8BYJHBYJKR7G0NTQ4.md) - 2025-10-26
 
@@ -232,6 +234,10 @@ Last updated: 2025-12-24
 ### opencode
 - [opencode models](notes/01KCHB013NE12WSNYZTBEZZZT1.md) - 2025-12-15
 
+<a id="pinentry"></a>
+### pinentry
+- [修复 macos 下使用 rbw 获取密钥卡顿](notes/01KD8H0C73KVSSNAP9GFMMF46J.md) - 2025-12-24
+
 <a id="pr"></a>
 ### pr
 - [github action 中开启 pr 权限](notes/01KCDNN88DV6E98NE4T0YGAYWV.md) - 2025-12-14
@@ -243,6 +249,7 @@ Last updated: 2025-12-24
 
 <a id="rbw"></a>
 ### rbw
+- [修复 macos 下使用 rbw 获取密钥卡顿](notes/01KD8H0C73KVSSNAP9GFMMF46J.md) - 2025-12-24
 - [direnv 配合 rbw 一起使用](notes/01KCGZ1VNBESN6SDNK01CB4EX2.md) - 2025-12-15
 
 <a id="reddit"></a>
