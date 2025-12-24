@@ -2,6 +2,7 @@
 title: "direnv 中使用其他 .envrc 文件"
 tags:
   - direnv
+  - env
 date: 2025-12-14
 ---
 

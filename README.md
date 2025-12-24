@@ -140,6 +140,7 @@ Last updated: 2025-12-24
 
 <a id="env"></a>
 ### env
+- [direnv 中使用其他 .envrc 文件](notes/01KCDTGVHA12FK88RA0E0F5GDB.md) - 2025-12-14
 - [cronjob 中的环境变量问题](notes/01K8P9SK98QB8BHMEQN58M3AZB.md) - 2025-10-29
 
 <a id="fcitx5"></a>
