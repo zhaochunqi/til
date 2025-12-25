@@ -10,6 +10,7 @@ Last updated: 2025-12-25
 - [acme](#acme)
 - [ai](#ai)
 - [ai agent](#ai-agent)
+- [antigravity](#antigravity)
 - [arm](#arm)
 - [beads](#beads)
 - [capslock](#capslock)
@@ -55,6 +56,7 @@ Last updated: 2025-12-25
 - [prompt](#prompt)
 - [rbw](#rbw)
 - [reddit](#reddit)
+- [region](#region)
 - [rss](#rss)
 - [share](#share)
 - [shell](#shell)
@@ -82,6 +84,10 @@ Last updated: 2025-12-25
 <a id="ai-agent"></a>
 ### ai agent
 - [LangChain Agent 工具调用信任问题的 Prompt 解决方案](notes/01K7YW7HJG087840V22WGZZMQ6.md) - 2025-10-20
+
+<a id="antigravity"></a>
+### antigravity
+- [Antigravity 无法登录问题](notes/01KDAZ4RPJ82R12EZF71A4XY5V.md) - 2025-12-25
 
 <a id="arm"></a>
 ### arm
@@ -189,6 +195,7 @@ Last updated: 2025-12-25
 <a id="google"></a>
 ### google
 - [google 创建 app passwords](notes/01KDACRSX2JARFQR8PRQBN9NKH.md) - 2025-12-25
+- [Antigravity 无法登录问题](notes/01KDAZ4RPJ82R12EZF71A4XY5V.md) - 2025-12-25
 - [老照片修复 prompt](notes/01KD2E2Z70PS89EPKX84ERDHGM.md) - 2025-12-22
 
 <a id="html"></a>
@@ -287,6 +294,10 @@ Last updated: 2025-12-25
 <a id="reddit"></a>
 ### reddit
 - [reddit rss for sub reddits](notes/01K6YYWVW04PSBKTATNEQZYRQM.md) - 2025-10-07
+
+<a id="region"></a>
+### region
+- [Antigravity 无法登录问题](notes/01KDAZ4RPJ82R12EZF71A4XY5V.md) - 2025-12-25
 
 <a id="rss"></a>
 ### rss

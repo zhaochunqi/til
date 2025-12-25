@@ -1,5 +1,8 @@
-default:
+default: add
     pre-commit run -a
+
+add:
+    git add .
 
 # Generate a new note with template
 new name:
