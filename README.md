@@ -4,7 +4,7 @@
 <!-- BEGINNING OF NOTES INDEX HOOK -->
 ## Notes by Tag
 
-Last updated: 2025-12-24
+Last updated: 2025-12-25
 
 ### Tags
 - [acme](#acme)
@@ -32,6 +32,7 @@ Last updated: 2025-12-24
 - [git](#git)
 - [github](#github)
 - [github action](#github-action)
+- [gmail](#gmail)
 - [google](#google)
 - [html](#html)
 - [hyperfine](#hyperfine)
@@ -46,6 +47,7 @@ Last updated: 2025-12-24
 - [nix](#nix)
 - [nixos](#nixos)
 - [opencode](#opencode)
+- [password](#password)
 - [pinentry](#pinentry)
 - [pr](#pr)
 - [prompt](#prompt)
@@ -177,8 +179,13 @@ Last updated: 2025-12-24
 - [使用 post 请求触发 github action](notes/01KCGQTW0QZG459XNH7YWCPW68.md) - 2025-12-15
 - [github action 中开启 pr 权限](notes/01KCDNN88DV6E98NE4T0YGAYWV.md) - 2025-12-14
 
+<a id="gmail"></a>
+### gmail
+- [google 创建 app passwords](notes/01KDACRSX2JARFQR8PRQBN9NKH.md) - 2025-12-25
+
 <a id="google"></a>
 ### google
+- [google 创建 app passwords](notes/01KDACRSX2JARFQR8PRQBN9NKH.md) - 2025-12-25
 - [老照片修复 prompt](notes/01KD2E2Z70PS89EPKX84ERDHGM.md) - 2025-12-22
 
 <a id="html"></a>
@@ -243,6 +250,10 @@ Last updated: 2025-12-24
 <a id="opencode"></a>
 ### opencode
 - [opencode models](notes/01KCHB013NE12WSNYZTBEZZZT1.md) - 2025-12-15
+
+<a id="password"></a>
+### password
+- [google 创建 app passwords](notes/01KDACRSX2JARFQR8PRQBN9NKH.md) - 2025-12-25
 
 <a id="pinentry"></a>
 ### pinentry
