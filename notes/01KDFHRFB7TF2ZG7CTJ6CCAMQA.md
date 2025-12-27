@@ -11,7 +11,6 @@ date: 2025-12-27
 xattr -cr /Applications/jmcomic-downloader.app
 ```
 
-详细解释：
 <details>
 <summary>命令详解</summary>
 1. 下载应用时，macOS 的 Gatekeeper 安全机制会自动为文件添加 `com.apple.quarantine` 扩展属性，用于记录来源（如 Safari、Chrome）和时间戳。
