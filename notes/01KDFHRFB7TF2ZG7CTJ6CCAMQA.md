@@ -14,19 +14,18 @@ xattr -cr /Applications/jmcomic-downloader.app
 详细解释：
 <details>
 <summary>命令详解</summary>
+1. 下载应用时，macOS 的 Gatekeeper 安全机制会自动为文件添加 `com.apple.quarantine` 扩展属性，用于记录来源（如 Safari、Chrome）和时间戳。
 
-1.下载应用时，macOS 的 Gatekeeper 安全机制会自动给文件打上 `com.apple.quarantine` 属性，记录来源 (如 Safari, Chrome) 和时间戳。
+2. 首次运行应用时，系统会检查该属性：
+   - 如果应用具有有效的开发者签名，用户可选择 **“打开”** 一次以临时信任；
+   - 如果应用未签名或签名无效，系统将直接拒绝运行（有时甚至不显示错误提示）。
 
-2.首次运行时，系统会检查该属性：
+3. 执行 `xattr -cr` 命令移除 `com.apple.quarantine` 属性后，系统将视该应用为可信来源。
 
-    * 如果 app 有有效开发者签名，用户可以选择"打开"一次来信任
-    * 如果 app 未签名或者签名无效，系统直接拒绝运行，并提示无法打开 (有时候也不提示)
-    
-3.使用 `xattr -cr` 移除了 quarantine 属性后，就认为该来源可信。
+---
 
-#### 补充：
+#### 补充：仅移除 quarantine 属性
 
-可仅移除 quarantine 属性：
 ```bash
 xattr -rd com.apple.quarantine /Applications/jmcomic-downloader.app
 ```
