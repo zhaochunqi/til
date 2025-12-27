@@ -4,7 +4,7 @@
 <!-- BEGINNING OF NOTES INDEX HOOK -->
 ## Notes by Tag
 
-Last updated: 2025-12-25
+Last updated: 2025-12-27
 
 ### Tags
 - [acme](#acme)
@@ -29,6 +29,7 @@ Last updated: 2025-12-25
 - [env](#env)
 - [fcitx5](#fcitx5)
 - [freshrss](#freshrss)
+- [gatekeeper](#gatekeeper)
 - [gfw](#gfw)
 - [git](#git)
 - [github](#github)
@@ -166,6 +167,10 @@ Last updated: 2025-12-25
 ### freshrss
 - [use miniflux on ipad with netnewswire](notes/01KD1140CPYSD4QRFEXT2DE27T.md) - 2025-12-22
 
+<a id="gatekeeper"></a>
+### gatekeeper
+- [macos 下载的 app 无法打开](notes/01KDFHRFB7TF2ZG7CTJ6CCAMQA.md) - 2025-12-27
+
 <a id="gfw"></a>
 ### gfw
 - [nixos install clash](notes/01KB44BDBRQ2HWAWC42Y8XRD76.md) - 2025-11-28
@@ -235,6 +240,7 @@ Last updated: 2025-12-25
 
 <a id="macos"></a>
 ### macos
+- [macos 下载的 app 无法打开](notes/01KDFHRFB7TF2ZG7CTJ6CCAMQA.md) - 2025-12-27
 - [修复 macos 下使用 rbw 获取密钥卡顿](notes/01KD8H0C73KVSSNAP9GFMMF46J.md) - 2025-12-24
 - [macOS 下获取操作系统和架构](notes/01KCNV2AGP3RXP294T6JVMXY75.md) - 2025-12-17
 - [判断 macos 安装的软件是否是 mac app store 下载的](notes/01K8EGSPM8BYJHBYJKR7G0NTQ4.md) - 2025-10-26
