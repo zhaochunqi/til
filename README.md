@@ -73,6 +73,7 @@ Last updated: 2025-12-27
 - [windows](#windows)
 - [常识](#tag)
 - [月球](#tag)
+- [构建](#tag)
 
 <a id="acme"></a>
 ### acme
@@ -241,6 +242,7 @@ Last updated: 2025-12-27
 <a id="macos"></a>
 ### macos
 - [macos 下载的 app 无法打开](notes/01KDFHRFB7TF2ZG7CTJ6CCAMQA.md) - 2025-12-27
+- [macos 下加速构建速度的技巧](notes/01KDG6RVWZ2GCRVX0NDCNMKY5J.md) - 2025-12-27
 - [修复 macos 下使用 rbw 获取密钥卡顿](notes/01KD8H0C73KVSSNAP9GFMMF46J.md) - 2025-12-24
 - [macOS 下获取操作系统和架构](notes/01KCNV2AGP3RXP294T6JVMXY75.md) - 2025-12-17
 - [判断 macos 安装的软件是否是 mac app store 下载的](notes/01K8EGSPM8BYJHBYJKR7G0NTQ4.md) - 2025-10-26
@@ -369,4 +371,8 @@ Last updated: 2025-12-27
 <a id="tag"></a>
 ### 月球
 - [月球的潮汐锁定](notes/01KD5BCPMR33YWMVG4MS5MEFH2.md) - 2025-12-23
+
+<a id="tag"></a>
+### 构建
+- [macos 下加速构建速度的技巧](notes/01KDG6RVWZ2GCRVX0NDCNMKY5J.md) - 2025-12-27
 <!-- END OF NOTES INDEX HOOK -->
