@@ -4,7 +4,7 @@
 <!-- BEGINNING OF NOTES INDEX HOOK -->
 ## Notes by Tag
 
-Last updated: 2025-12-27
+Last updated: 2025-12-28
 
 ### Tags
 - [acme](#acme)
@@ -38,6 +38,7 @@ Last updated: 2025-12-27
 - [google](#google)
 - [html](#html)
 - [hyperfine](#hyperfine)
+- [ios](#ios)
 - [jellyfin](#jellyfin)
 - [kitty](#kitty)
 - [langchain](#langchain)
@@ -59,6 +60,7 @@ Last updated: 2025-12-27
 - [reddit](#reddit)
 - [region](#region)
 - [rss](#rss)
+- [screenshot](#screenshot)
 - [share](#share)
 - [shell](#shell)
 - [starship](#starship)
@@ -212,6 +214,10 @@ Last updated: 2025-12-27
 ### hyperfine
 - [获取终端命令运行的平均时间](notes/01KC93NW0AEVV9Q51PC36JW0F4.md) - 2025-12-12
 
+<a id="ios"></a>
+### ios
+- [iOS 截图自定义时间和 wifi](notes/01KDJJDDH83YGMFERQ2MA4W34S.md) - 2025-12-28
+
 <a id="jellyfin"></a>
 ### jellyfin
 - [Jellyfin 发送播放媒体的信息通知到 Discord](notes/01KCBZ0HR6KGNWKXSQX1NYSA1J.md) - 2025-12-13
@@ -241,6 +247,7 @@ Last updated: 2025-12-27
 
 <a id="macos"></a>
 ### macos
+- [iOS 截图自定义时间和 wifi](notes/01KDJJDDH83YGMFERQ2MA4W34S.md) - 2025-12-28
 - [macos 下载的 app 无法打开](notes/01KDFHRFB7TF2ZG7CTJ6CCAMQA.md) - 2025-12-27
 - [macos 下加速构建速度的技巧](notes/01KDG6RVWZ2GCRVX0NDCNMKY5J.md) - 2025-12-27
 - [修复 macos 下使用 rbw 获取密钥卡顿](notes/01KD8H0C73KVSSNAP9GFMMF46J.md) - 2025-12-24
@@ -312,6 +319,10 @@ Last updated: 2025-12-27
 - [use miniflux on ipad with netnewswire](notes/01KD1140CPYSD4QRFEXT2DE27T.md) - 2025-12-22
 - [网页中设置自动发现 RSS](notes/01K6YZA4NRGR46T7MQ20Y78JDE.md) - 2025-10-07
 - [reddit rss for sub reddits](notes/01K6YYWVW04PSBKTATNEQZYRQM.md) - 2025-10-07
+
+<a id="screenshot"></a>
+### screenshot
+- [iOS 截图自定义时间和 wifi](notes/01KDJJDDH83YGMFERQ2MA4W34S.md) - 2025-12-28
 
 <a id="share"></a>
 ### share
