@@ -16,6 +16,7 @@ Last updated: 2025-12-31
 - [bitwarden](#bitwarden)
 - [capslock](#capslock)
 - [cert](#cert)
+- [chrome](#chrome)
 - [clash](#clash)
 - [cli](#cli)
 - [cronjob](#cronjob)
@@ -30,6 +31,7 @@ Last updated: 2025-12-31
 - [embeddings](#embeddings)
 - [env](#env)
 - [fcitx5](#fcitx5)
+- [font](#font)
 - [freshrss](#freshrss)
 - [gatekeeper](#gatekeeper)
 - [gfw](#gfw)
@@ -123,6 +125,10 @@ Last updated: 2025-12-31
 ### cert
 - [Traefik 中 dns01 自动签发之后会删除 CNAME 记录](notes/01KC6A5BVR05K5ZZAZKAERKH3Y.md) - 2025-12-11
 
+<a id="chrome"></a>
+### chrome
+- [如何判断网页哪个字体生效](notes/01KDRN8P8FBTYPRABR9BTQ4H95.md) - 2025-12-31
+
 <a id="clash"></a>
 ### clash
 - [nixos install clash](notes/01KB44BDBRQ2HWAWC42Y8XRD76.md) - 2025-11-28
@@ -184,6 +190,10 @@ Last updated: 2025-12-31
 <a id="fcitx5"></a>
 ### fcitx5
 - [kitty 下使用 fcitx5 的问题](notes/01KD788PBV10B31ABJR1FF3MPG.md) - 2025-12-24
+
+<a id="font"></a>
+### font
+- [如何判断网页哪个字体生效](notes/01KDRN8P8FBTYPRABR9BTQ4H95.md) - 2025-12-31
 
 <a id="freshrss"></a>
 ### freshrss
@@ -401,6 +411,7 @@ Last updated: 2025-12-31
 
 <a id="webdev"></a>
 ### webdev
+- [如何判断网页哪个字体生效](notes/01KDRN8P8FBTYPRABR9BTQ4H95.md) - 2025-12-31
 - [修复滚动条导致的布局偏移](notes/01KDQPYX1T4R5WKZCNK0NHRZ4M.md) - 2025-12-30
 
 <a id="webhook"></a>
