@@ -13,7 +13,7 @@ jobs:
     steps:
       - name: Trigger til-pages repository update
         run: |
-          curl -X POST 'https://api.github.com/repos/zhaochunqi/til-pages/dispatches' \
+          curl -X POST 'https://api.github.com/repos/${{ vars.TIL_PAGES_REPO }}/dispatches' \
             --header 'Content-Type: application/json' \
             --header 'Accept: application/vnd.github.v3+json' \
             --header 'Authorization: Bearer ${{ secrets.TIL_PAGES_TOKEN }}' \
