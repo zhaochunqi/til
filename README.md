@@ -4,7 +4,7 @@
 <!-- BEGINNING OF NOTES INDEX HOOK -->
 ## Notes by Tag
 
-Last updated: 2025-12-30
+Last updated: 2025-12-31
 
 ### Tags
 - [acme](#acme)
@@ -58,6 +58,8 @@ Last updated: 2025-12-30
 - [port](#port)
 - [pr](#pr)
 - [prompt](#prompt)
+- [quicklink](#quicklink)
+- [raycast](#raycast)
 - [rbw](#rbw)
 - [reddit](#reddit)
 - [region](#region)
@@ -313,6 +315,14 @@ Last updated: 2025-12-30
 ### prompt
 - [老照片修复 prompt](notes/01KD2E2Z70PS89EPKX84ERDHGM.md) - 2025-12-22
 - [LangChain Agent 工具调用信任问题的 Prompt 解决方案](notes/01K7YW7HJG087840V22WGZZMQ6.md) - 2025-10-20
+
+<a id="quicklink"></a>
+### quicklink
+- [raycast 添加 quicklink 来搜索 TIL](notes/01KDR193PCMB0Q0S7Y25ABM1YB.md) - 2025-12-31
+
+<a id="raycast"></a>
+### raycast
+- [raycast 添加 quicklink 来搜索 TIL](notes/01KDR193PCMB0Q0S7Y25ABM1YB.md) - 2025-12-31
 
 <a id="rbw"></a>
 ### rbw
