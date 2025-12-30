@@ -4,7 +4,7 @@
 <!-- BEGINNING OF NOTES INDEX HOOK -->
 ## Notes by Tag
 
-Last updated: 2025-12-28
+Last updated: 2025-12-30
 
 ### Tags
 - [acme](#acme)
@@ -18,6 +18,7 @@ Last updated: 2025-12-28
 - [clash](#clash)
 - [cli](#cli)
 - [cronjob](#cronjob)
+- [css](#css)
 - [curl](#curl)
 - [direnv](#direnv)
 - [discord](#discord)
@@ -42,6 +43,7 @@ Last updated: 2025-12-28
 - [jellyfin](#jellyfin)
 - [kitty](#kitty)
 - [langchain](#langchain)
+- [layout shift](#layout-shift)
 - [linux](#linux)
 - [llm](#llm)
 - [logseq](#logseq)
@@ -70,12 +72,15 @@ Last updated: 2025-12-28
 - [uuid](#uuid)
 - [vibe coding](#vibe-coding)
 - [vpn](#vpn)
+- [webdev](#webdev)
 - [webhook](#webhook)
 - [weibo](#weibo)
 - [windows](#windows)
+- [前端](#tag)
 - [常识](#tag)
 - [月球](#tag)
 - [构建](#tag)
+- [滚动条](#tag)
 
 <a id="acme"></a>
 ### acme
@@ -122,6 +127,10 @@ Last updated: 2025-12-28
 <a id="cronjob"></a>
 ### cronjob
 - [cronjob 中的环境变量问题](notes/01K8P9SK98QB8BHMEQN58M3AZB.md) - 2025-10-29
+
+<a id="css"></a>
+### css
+- [修复滚动条导致的布局偏移](notes/01KDQPYX1T4R5WKZCNK0NHRZ4M.md) - 2025-12-30
 
 <a id="curl"></a>
 ### curl
@@ -230,6 +239,10 @@ Last updated: 2025-12-28
 ### langchain
 - [LangChain 中 qwen embeddings 使用 openai embeddings 兼容性问题](notes/01K7Z1ZT200EGFCF0ATD34NSCY.md) - 2025-10-20
 - [LangChain Agent 工具调用信任问题的 Prompt 解决方案](notes/01K7YW7HJG087840V22WGZZMQ6.md) - 2025-10-20
+
+<a id="layout-shift"></a>
+### layout shift
+- [修复滚动条导致的布局偏移](notes/01KDQPYX1T4R5WKZCNK0NHRZ4M.md) - 2025-12-30
 
 <a id="linux"></a>
 ### linux
@@ -363,6 +376,10 @@ Last updated: 2025-12-28
 ### vpn
 - [windows 手机连接区域限制](notes/01K8KQVTSRVSVHBFERTTE2QX8Y.md) - 2025-10-28
 
+<a id="webdev"></a>
+### webdev
+- [修复滚动条导致的布局偏移](notes/01KDQPYX1T4R5WKZCNK0NHRZ4M.md) - 2025-12-30
+
 <a id="webhook"></a>
 ### webhook
 - [Jellyfin 发送播放媒体的信息通知到 Discord](notes/01KCBZ0HR6KGNWKXSQX1NYSA1J.md) - 2025-12-13
@@ -376,6 +393,10 @@ Last updated: 2025-12-28
 - [windows 手机连接区域限制](notes/01K8KQVTSRVSVHBFERTTE2QX8Y.md) - 2025-10-28
 
 <a id="tag"></a>
+### 前端
+- [修复滚动条导致的布局偏移](notes/01KDQPYX1T4R5WKZCNK0NHRZ4M.md) - 2025-12-30
+
+<a id="tag"></a>
 ### 常识
 - [月球的潮汐锁定](notes/01KD5BCPMR33YWMVG4MS5MEFH2.md) - 2025-12-23
 
@@ -386,4 +407,8 @@ Last updated: 2025-12-28
 <a id="tag"></a>
 ### 构建
 - [macos 下加速构建速度的技巧](notes/01KDG6RVWZ2GCRVX0NDCNMKY5J.md) - 2025-12-27
+
+<a id="tag"></a>
+### 滚动条
+- [修复滚动条导致的布局偏移](notes/01KDQPYX1T4R5WKZCNK0NHRZ4M.md) - 2025-12-30
 <!-- END OF NOTES INDEX HOOK -->
