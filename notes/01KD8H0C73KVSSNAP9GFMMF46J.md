@@ -1,9 +1,12 @@
 ---
 title: "修复 macos 下使用 rbw 获取密钥卡顿"
 tags:
+  - bitwarden
   - macos
   - pinentry
   - rbw
+  - terminal
+  - tty
 date: 2025-12-24
 ---
 

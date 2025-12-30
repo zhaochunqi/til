@@ -1,7 +1,9 @@
 ---
 title: "direnv 配合 rbw 一起使用"
 tags:
+  - bitwarden
   - direnv
+  - env
   - rbw
 date: 2025-12-15
 ---

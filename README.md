@@ -13,6 +13,7 @@ Last updated: 2025-12-31
 - [antigravity](#antigravity)
 - [arm](#arm)
 - [beads](#beads)
+- [bitwarden](#bitwarden)
 - [capslock](#capslock)
 - [cert](#cert)
 - [clash](#clash)
@@ -71,6 +72,7 @@ Last updated: 2025-12-31
 - [surge](#surge)
 - [terminal](#terminal)
 - [traefik](#traefik)
+- [tty](#tty)
 - [uuid](#uuid)
 - [vibe coding](#vibe-coding)
 - [vpn](#vpn)
@@ -107,6 +109,11 @@ Last updated: 2025-12-31
 <a id="beads"></a>
 ### beads
 - [beads Error: operation failed: failed to get ready work](notes/01KCY8SW3QQ6M8C8NTFBNG5WDA.md) - 2025-12-21
+
+<a id="bitwarden"></a>
+### bitwarden
+- [修复 macos 下使用 rbw 获取密钥卡顿](notes/01KD8H0C73KVSSNAP9GFMMF46J.md) - 2025-12-24
+- [direnv 配合 rbw 一起使用](notes/01KCGZ1VNBESN6SDNK01CB4EX2.md) - 2025-12-15
 
 <a id="capslock"></a>
 ### capslock
@@ -170,6 +177,7 @@ Last updated: 2025-12-31
 
 <a id="env"></a>
 ### env
+- [direnv 配合 rbw 一起使用](notes/01KCGZ1VNBESN6SDNK01CB4EX2.md) - 2025-12-15
 - [direnv 中使用其他 .envrc 文件](notes/01KCDTGVHA12FK88RA0E0F5GDB.md) - 2025-12-14
 - [cronjob 中的环境变量问题](notes/01K8P9SK98QB8BHMEQN58M3AZB.md) - 2025-10-29
 
@@ -367,11 +375,16 @@ Last updated: 2025-12-31
 <a id="terminal"></a>
 ### terminal
 - [杀掉 8000 端口的应用](notes/01KDAVY92P19TEY8K77YMJ9EZX.md) - 2025-12-25
+- [修复 macos 下使用 rbw 获取密钥卡顿](notes/01KD8H0C73KVSSNAP9GFMMF46J.md) - 2025-12-24
 - [获取终端命令运行的平均时间](notes/01KC93NW0AEVV9Q51PC36JW0F4.md) - 2025-12-12
 
 <a id="traefik"></a>
 ### traefik
 - [Traefik 中 dns01 自动签发之后会删除 CNAME 记录](notes/01KC6A5BVR05K5ZZAZKAERKH3Y.md) - 2025-12-11
+
+<a id="tty"></a>
+### tty
+- [修复 macos 下使用 rbw 获取密钥卡顿](notes/01KD8H0C73KVSSNAP9GFMMF46J.md) - 2025-12-24
 
 <a id="uuid"></a>
 ### uuid
