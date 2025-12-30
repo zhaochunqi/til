@@ -4,6 +4,8 @@ tags:
   - fcitx5
   - kitty
   - linux
+  - terminal
+  - 输入法
 date: 2025-12-24
 ---
 
