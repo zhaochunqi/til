@@ -4,7 +4,7 @@
 <!-- BEGINNING OF NOTES INDEX HOOK -->
 ## Notes by Tag
 
-Last updated: 2025-12-31
+Last updated: 2026-01-01
 
 ### Tags
 - [acme](#acme)
@@ -59,6 +59,7 @@ Last updated: 2025-12-31
 - [pinentry](#pinentry)
 - [pkill](#pkill)
 - [port](#port)
+- [posix](#posix)
 - [pr](#pr)
 - [prompt](#prompt)
 - [quicklink](#quicklink)
@@ -267,6 +268,7 @@ Last updated: 2025-12-31
 
 <a id="linux"></a>
 ### linux
+- [终端的输出自带换行](notes/01KDV15QTZC1V304GZYXT8H6KY.md) - 2026-01-01
 - [kitty 下使用 fcitx5 的问题](notes/01KD788PBV10B31ABJR1FF3MPG.md) - 2025-12-24
 - [获取终端命令运行的平均时间](notes/01KC93NW0AEVV9Q51PC36JW0F4.md) - 2025-12-12
 - [linux 中寻找 docker 中运行的进程](notes/01K6RD0QVGKHZ8N1BR8TCQXC9M.md) - 2025-10-05
@@ -325,6 +327,10 @@ Last updated: 2025-12-31
 <a id="port"></a>
 ### port
 - [杀掉 8000 端口的应用](notes/01KDAVY92P19TEY8K77YMJ9EZX.md) - 2025-12-25
+
+<a id="posix"></a>
+### posix
+- [终端的输出自带换行](notes/01KDV15QTZC1V304GZYXT8H6KY.md) - 2026-01-01
 
 <a id="pr"></a>
 ### pr
@@ -385,6 +391,7 @@ Last updated: 2025-12-31
 
 <a id="terminal"></a>
 ### terminal
+- [终端的输出自带换行](notes/01KDV15QTZC1V304GZYXT8H6KY.md) - 2026-01-01
 - [杀掉 8000 端口的应用](notes/01KDAVY92P19TEY8K77YMJ9EZX.md) - 2025-12-25
 - [修复 macos 下使用 rbw 获取密钥卡顿](notes/01KD8H0C73KVSSNAP9GFMMF46J.md) - 2025-12-24
 - [kitty 下使用 fcitx5 的问题](notes/01KD788PBV10B31ABJR1FF3MPG.md) - 2025-12-24
