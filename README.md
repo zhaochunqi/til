@@ -351,6 +351,7 @@ Last updated: 2026-01-01
 
 <a id="rbw"></a>
 ### rbw
+- [终端的输出自带换行](notes/01KDV15QTZC1V304GZYXT8H6KY.md) - 2026-01-01
 - [修复 macos 下使用 rbw 获取密钥卡顿](notes/01KD8H0C73KVSSNAP9GFMMF46J.md) - 2025-12-24
 - [direnv 配合 rbw 一起使用](notes/01KCGZ1VNBESN6SDNK01CB4EX2.md) - 2025-12-15
 
