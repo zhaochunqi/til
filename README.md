@@ -4,7 +4,7 @@
 <!-- BEGINNING OF NOTES INDEX HOOK -->
 ## Notes by Tag
 
-Last updated: 2026-01-01
+Last updated: 2026-01-03
 
 ### Tags
 - [acme](#acme)
@@ -125,6 +125,7 @@ Last updated: 2026-01-01
 
 <a id="cert"></a>
 ### cert
+- [删除 acme.json 中不再使用的证书](notes/01KDZY73QRJNX2PKDDQR96XC6V.md) - 2026-01-03
 - [Traefik 中 dns01 自动签发之后会删除 CNAME 记录](notes/01KC6A5BVR05K5ZZAZKAERKH3Y.md) - 2025-12-11
 
 <a id="chrome"></a>
@@ -400,6 +401,7 @@ Last updated: 2026-01-01
 
 <a id="traefik"></a>
 ### traefik
+- [删除 acme.json 中不再使用的证书](notes/01KDZY73QRJNX2PKDDQR96XC6V.md) - 2026-01-03
 - [Traefik 中 dns01 自动签发之后会删除 CNAME 记录](notes/01KC6A5BVR05K5ZZAZKAERKH3Y.md) - 2025-12-11
 
 <a id="tty"></a>

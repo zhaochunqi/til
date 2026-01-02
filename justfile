@@ -10,7 +10,7 @@ new name:
 
 # Generate a new note with template
 open name editor='code':
-    uv run scripts/new_note.py {{name}} | xargs {{editor}}
+    {{editor}} "$(uv run scripts/new_note.py '{{name}}')"
 
 # Normalize YAML front matter in all notes
 normalize:
