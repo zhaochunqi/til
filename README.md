@@ -4,12 +4,13 @@
 <!-- BEGINNING OF NOTES INDEX HOOK -->
 ## Notes by Tag
 
-Last updated: 2026-01-03
+Last updated: 2026-01-05
 
 ### Tags
 - [acme](#acme)
 - [ai](#ai)
 - [ai agent](#ai-agent)
+- [ai review](#ai-review)
 - [antigravity](#antigravity)
 - [arm](#arm)
 - [beads](#beads)
@@ -99,6 +100,10 @@ Last updated: 2026-01-03
 <a id="ai-agent"></a>
 ### ai agent
 - [LangChain Agent 工具调用信任问题的 Prompt 解决方案](notes/01K7YW7HJG087840V22WGZZMQ6.md) - 2025-10-20
+
+<a id="ai-review"></a>
+### ai review
+- [10s 生成代码审查的链接](notes/01KE6W1NM5NTBPWWP6KNT5PM35.md) - 2026-01-05
 
 <a id="antigravity"></a>
 ### antigravity
@@ -218,6 +223,7 @@ Last updated: 2026-01-03
 
 <a id="github"></a>
 ### github
+- [10s 生成代码审查的链接](notes/01KE6W1NM5NTBPWWP6KNT5PM35.md) - 2026-01-05
 - [github action 中开启 pr 权限](notes/01KCDNN88DV6E98NE4T0YGAYWV.md) - 2025-12-14
 - [github 删除垃圾通知](notes/01K5X1514G144QQSM4K4S85WMC.md) - 2025-09-24
 
@@ -333,6 +339,7 @@ Last updated: 2026-01-03
 
 <a id="pr"></a>
 ### pr
+- [10s 生成代码审查的链接](notes/01KE6W1NM5NTBPWWP6KNT5PM35.md) - 2026-01-05
 - [github action 中开启 pr 权限](notes/01KCDNN88DV6E98NE4T0YGAYWV.md) - 2025-12-14
 
 <a id="prompt"></a>
@@ -407,6 +414,7 @@ Last updated: 2026-01-03
 
 <a id="vibe-coding"></a>
 ### vibe coding
+- [10s 生成代码审查的链接](notes/01KE6W1NM5NTBPWWP6KNT5PM35.md) - 2026-01-05
 - [beads Error: operation failed: failed to get ready work](notes/01KCY8SW3QQ6M8C8NTFBNG5WDA.md) - 2025-12-21
 - [opencode models](notes/01KCHB013NE12WSNYZTBEZZZT1.md) - 2025-12-15
 
