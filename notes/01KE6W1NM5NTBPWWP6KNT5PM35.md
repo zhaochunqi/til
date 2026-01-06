@@ -1,7 +1,7 @@
 ---
 title: "10s 生成代码审查的链接"
 tags:
-  - ai review
+  - ai-review
   - github
   - pr
   - vibe-coding

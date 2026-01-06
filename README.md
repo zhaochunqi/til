@@ -9,8 +9,8 @@ Last updated: 2026-01-07
 ### Tags
 - [acme](#acme)
 - [ai](#ai)
-- [ai review](#ai-review)
 - [ai-agent](#ai-agent)
+- [ai-review](#ai-review)
 - [antigravity](#antigravity)
 - [arm](#arm)
 - [beads](#beads)
@@ -30,7 +30,7 @@ Last updated: 2026-01-07
 - [dns](#dns)
 - [dns01](#dns01)
 - [docker](#docker)
-- [docker compose](#docker-compose)
+- [docker-compose](#docker-compose)
 - [embeddings](#embeddings)
 - [env](#env)
 - [fcitx5](#fcitx5)
@@ -101,13 +101,13 @@ Last updated: 2026-01-07
 ### ai
 - [opencode models](notes/01KCHB013NE12WSNYZTBEZZZT1.md) - 2025-12-15
 
-<a id="ai-review"></a>
-### ai review
-- [10s 生成代码审查的链接](notes/01KE6W1NM5NTBPWWP6KNT5PM35.md) - 2026-01-05
-
 <a id="ai-agent"></a>
 ### ai-agent
 - [LangChain Agent 工具调用信任问题的 Prompt 解决方案](notes/01K7YW7HJG087840V22WGZZMQ6.md) - 2025-10-20
+
+<a id="ai-review"></a>
+### ai-review
+- [10s 生成代码审查的链接](notes/01KE6W1NM5NTBPWWP6KNT5PM35.md) - 2026-01-05
 
 <a id="antigravity"></a>
 ### antigravity
@@ -192,7 +192,7 @@ Last updated: 2026-01-07
 - [docker compose 中添加资源限制](notes/01K6QSK66RYS2ZWZQ09F5N0FDX.md) - 2025-10-04
 
 <a id="docker-compose"></a>
-### docker compose
+### docker-compose
 - [docker compose 中添加资源限制](notes/01K6QSK66RYS2ZWZQ09F5N0FDX.md) - 2025-10-04
 
 <a id="embeddings"></a>

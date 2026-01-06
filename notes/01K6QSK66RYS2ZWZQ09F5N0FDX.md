@@ -2,7 +2,7 @@
 title: docker compose 中添加资源限制
 tags:
   - docker
-  - docker compose
+  - docker-compose
 date: 2025-10-04
 ---
 
