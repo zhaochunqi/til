@@ -4,7 +4,7 @@ tags:
   - ai review
   - github
   - pr
-  - vibe coding
+  - vibe-coding
 date: 2026-01-05
 ---
 

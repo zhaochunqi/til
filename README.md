@@ -9,8 +9,8 @@ Last updated: 2026-01-07
 ### Tags
 - [acme](#acme)
 - [ai](#ai)
-- [ai agent](#ai-agent)
 - [ai review](#ai-review)
+- [ai-agent](#ai-agent)
 - [antigravity](#antigravity)
 - [arm](#arm)
 - [beads](#beads)
@@ -41,7 +41,7 @@ Last updated: 2026-01-07
 - [gfw](#gfw)
 - [git](#git)
 - [github](#github)
-- [github action](#github-action)
+- [github-action](#github-action)
 - [gmail](#gmail)
 - [google](#google)
 - [html](#html)
@@ -50,7 +50,7 @@ Last updated: 2026-01-07
 - [jellyfin](#jellyfin)
 - [kitty](#kitty)
 - [langchain](#langchain)
-- [layout shift](#layout-shift)
+- [layout-shift](#layout-shift)
 - [linux](#linux)
 - [llm](#llm)
 - [logseq](#logseq)
@@ -81,7 +81,7 @@ Last updated: 2026-01-07
 - [tty](#tty)
 - [unleash](#unleash)
 - [uuid](#uuid)
-- [vibe coding](#vibe-coding)
+- [vibe-coding](#vibe-coding)
 - [vpn](#vpn)
 - [webdev](#webdev)
 - [webhook](#webhook)
@@ -101,13 +101,13 @@ Last updated: 2026-01-07
 ### ai
 - [opencode models](notes/01KCHB013NE12WSNYZTBEZZZT1.md) - 2025-12-15
 
-<a id="ai-agent"></a>
-### ai agent
-- [LangChain Agent 工具调用信任问题的 Prompt 解决方案](notes/01K7YW7HJG087840V22WGZZMQ6.md) - 2025-10-20
-
 <a id="ai-review"></a>
 ### ai review
 - [10s 生成代码审查的链接](notes/01KE6W1NM5NTBPWWP6KNT5PM35.md) - 2026-01-05
+
+<a id="ai-agent"></a>
+### ai-agent
+- [LangChain Agent 工具调用信任问题的 Prompt 解决方案](notes/01K7YW7HJG087840V22WGZZMQ6.md) - 2025-10-20
 
 <a id="antigravity"></a>
 ### antigravity
@@ -244,7 +244,7 @@ Last updated: 2026-01-07
 - [github 删除垃圾通知](notes/01K5X1514G144QQSM4K4S85WMC.md) - 2025-09-24
 
 <a id="github-action"></a>
-### github action
+### github-action
 - [使用 post 请求触发 github action](notes/01KCGQTW0QZG459XNH7YWCPW68.md) - 2025-12-15
 - [github action 中开启 pr 权限](notes/01KCDNN88DV6E98NE4T0YGAYWV.md) - 2025-12-14
 
@@ -284,7 +284,7 @@ Last updated: 2026-01-07
 - [LangChain Agent 工具调用信任问题的 Prompt 解决方案](notes/01K7YW7HJG087840V22WGZZMQ6.md) - 2025-10-20
 
 <a id="layout-shift"></a>
-### layout shift
+### layout-shift
 - [修复滚动条导致的布局偏移](notes/01KDQPYX1T4R5WKZCNK0NHRZ4M.md) - 2025-12-30
 
 <a id="linux"></a>
@@ -433,7 +433,7 @@ Last updated: 2026-01-07
 - [logseq block 确保有 uuid](notes/01K828F9DGAX24VFCZV9C3QH1Q.md) - 2025-10-21
 
 <a id="vibe-coding"></a>
-### vibe coding
+### vibe-coding
 - [10s 生成代码审查的链接](notes/01KE6W1NM5NTBPWWP6KNT5PM35.md) - 2026-01-05
 - [beads Error: operation failed: failed to get ready work](notes/01KCY8SW3QQ6M8C8NTFBNG5WDA.md) - 2025-12-21
 - [opencode models](notes/01KCHB013NE12WSNYZTBEZZZT1.md) - 2025-12-15

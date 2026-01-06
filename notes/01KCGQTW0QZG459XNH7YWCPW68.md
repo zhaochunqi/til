@@ -2,7 +2,7 @@
 title: "使用 post 请求触发 github action"
 tags:
   - curl
-  - github action
+  - github-action
 date: 2025-12-15
 ---
 

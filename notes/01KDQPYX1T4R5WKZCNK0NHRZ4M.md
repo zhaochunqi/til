@@ -2,7 +2,7 @@
 title: "修复滚动条导致的布局偏移"
 tags:
   - css
-  - layout shift
+  - layout-shift
   - webdev
   - 前端
   - 滚动条

@@ -2,7 +2,7 @@
 title: "beads Error: operation failed: failed to get ready work"
 tags:
   - beads
-  - vibe coding
+  - vibe-coding
 date: 2025-12-21
 ---
 
