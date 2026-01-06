@@ -4,7 +4,7 @@
 <!-- BEGINNING OF NOTES INDEX HOOK -->
 ## Notes by Tag
 
-Last updated: 2026-01-05
+Last updated: 2026-01-07
 
 ### Tags
 - [acme](#acme)
@@ -23,6 +23,8 @@ Last updated: 2026-01-05
 - [cronjob](#cronjob)
 - [css](#css)
 - [curl](#curl)
+- [deployment](#deployment)
+- [devops](#devops)
 - [direnv](#direnv)
 - [discord](#discord)
 - [dns](#dns)
@@ -32,6 +34,7 @@ Last updated: 2026-01-05
 - [embeddings](#embeddings)
 - [env](#env)
 - [fcitx5](#fcitx5)
+- [feature-toggle](#feature-toggle)
 - [font](#font)
 - [freshrss](#freshrss)
 - [gatekeeper](#gatekeeper)
@@ -76,6 +79,7 @@ Last updated: 2026-01-05
 - [terminal](#terminal)
 - [traefik](#traefik)
 - [tty](#tty)
+- [unleash](#unleash)
 - [uuid](#uuid)
 - [vibe coding](#vibe-coding)
 - [vpn](#vpn)
@@ -157,6 +161,14 @@ Last updated: 2026-01-05
 ### curl
 - [使用 post 请求触发 github action](notes/01KCGQTW0QZG459XNH7YWCPW68.md) - 2025-12-15
 
+<a id="deployment"></a>
+### deployment
+- [Unleash: Feature Toggle 管理平台](notes/01KEAQP6RGAQ62GYQ3XQNXZEKJ.md) - 2026-01-07
+
+<a id="devops"></a>
+### devops
+- [Unleash: Feature Toggle 管理平台](notes/01KEAQP6RGAQ62GYQ3XQNXZEKJ.md) - 2026-01-07
+
 <a id="direnv"></a>
 ### direnv
 - [direnv 配合 rbw 一起使用](notes/01KCGZ1VNBESN6SDNK01CB4EX2.md) - 2025-12-15
@@ -196,6 +208,10 @@ Last updated: 2026-01-05
 <a id="fcitx5"></a>
 ### fcitx5
 - [kitty 下使用 fcitx5 的问题](notes/01KD788PBV10B31ABJR1FF3MPG.md) - 2025-12-24
+
+<a id="feature-toggle"></a>
+### feature-toggle
+- [Unleash: Feature Toggle 管理平台](notes/01KEAQP6RGAQ62GYQ3XQNXZEKJ.md) - 2026-01-07
 
 <a id="font"></a>
 ### font
@@ -407,6 +423,10 @@ Last updated: 2026-01-05
 <a id="tty"></a>
 ### tty
 - [修复 macos 下使用 rbw 获取密钥卡顿](notes/01KD8H0C73KVSSNAP9GFMMF46J.md) - 2025-12-24
+
+<a id="unleash"></a>
+### unleash
+- [Unleash: Feature Toggle 管理平台](notes/01KEAQP6RGAQ62GYQ3XQNXZEKJ.md) - 2026-01-07
 
 <a id="uuid"></a>
 ### uuid
