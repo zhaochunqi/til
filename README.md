@@ -69,6 +69,7 @@ Last updated: 2026-01-07
 - [posix](#posix)
 - [pr](#pr)
 - [prompt](#prompt)
+- [python](#python)
 - [quicklink](#quicklink)
 - [raycast](#raycast)
 - [rbw](#rbw)
@@ -84,6 +85,7 @@ Last updated: 2026-01-07
 - [tty](#tty)
 - [unleash](#unleash)
 - [uuid](#uuid)
+- [uv](#uv)
 - [vibe-coding](#vibe-coding)
 - [vpn](#vpn)
 - [webdev](#webdev)
@@ -380,6 +382,10 @@ Last updated: 2026-01-07
 - [老照片修复 prompt](notes/01KD2E2Z70PS89EPKX84ERDHGM.md) - 2025-12-22
 - [LangChain Agent 工具调用信任问题的 Prompt 解决方案](notes/01K7YW7HJG087840V22WGZZMQ6.md) - 2025-10-20
 
+<a id="python"></a>
+### python
+- [使用 uv 安装的 python 作为默认 python](notes/01KECDMKVD0MD54V44D4Y9S6CM.md) - 2026-01-07
+
 <a id="quicklink"></a>
 ### quicklink
 - [raycast 添加 quicklink 来搜索 TIL](notes/01KDR193PCMB0Q0S7Y25ABM1YB.md) - 2025-12-31
@@ -448,6 +454,10 @@ Last updated: 2026-01-07
 <a id="uuid"></a>
 ### uuid
 - [logseq block 确保有 uuid](notes/01K828F9DGAX24VFCZV9C3QH1Q.md) - 2025-10-21
+
+<a id="uv"></a>
+### uv
+- [使用 uv 安装的 python 作为默认 python](notes/01KECDMKVD0MD54V44D4Y9S6CM.md) - 2026-01-07
 
 <a id="vibe-coding"></a>
 ### vibe-coding
