@@ -498,6 +498,8 @@ Last updated: 2026-01-07
 <a id="tag"></a>
 ### 改键
 - [windows 修改 capslock 为长按 ctrl 短按 esc](notes/01KECFJFP48XAM95329DW2KYTJ.md) - 2026-01-07
+- [macOS 修改 capslock 为长按 ctrl 短按 esc](notes/01KECGCK06AK2GV2YEX9W6WRYY.md) - 2026-01-07
+- [nixos 修改 capslock 为长按 ctrl 短按 esc](notes/01K89VE5A80FTXN4AW1RV7FR3B.md) - 2025-10-24
 
 <a id="tag"></a>
 ### 月球

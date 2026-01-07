@@ -4,6 +4,7 @@ tags:
   - capslock
   - nix
   - nixos
+  - 改键
 date: 2025-10-24
 ---
 
