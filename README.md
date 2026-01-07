@@ -58,6 +58,7 @@ Last updated: 2026-01-07
 - [llm](#llm)
 - [logseq](#logseq)
 - [macos](#macos)
+- [macOS](#macos)
 - [miniflux](#miniflux)
 - [nix](#nix)
 - [nixos](#nixos)
@@ -139,6 +140,7 @@ Last updated: 2026-01-07
 <a id="capslock"></a>
 ### capslock
 - [windows 修改 capslock 为长按 ctrl 短按 esc](notes/01KECFJFP48XAM95329DW2KYTJ.md) - 2026-01-07
+- [macOS 修改 capslock 为长按 ctrl 短按 esc](notes/01KECGCK06AK2GV2YEX9W6WRYY.md) - 2026-01-07
 - [nixos 修改 capslock 为长按 ctrl 短按 esc](notes/01K89VE5A80FTXN4AW1RV7FR3B.md) - 2025-10-24
 
 <a id="cert"></a>
@@ -331,6 +333,10 @@ Last updated: 2026-01-07
 - [修复 macos 下使用 rbw 获取密钥卡顿](notes/01KD8H0C73KVSSNAP9GFMMF46J.md) - 2025-12-24
 - [macOS 下获取操作系统和架构](notes/01KCNV2AGP3RXP294T6JVMXY75.md) - 2025-12-17
 - [判断 macos 安装的软件是否是 mac app store 下载的](notes/01K8EGSPM8BYJHBYJKR7G0NTQ4.md) - 2025-10-26
+
+<a id="macos"></a>
+### macOS
+- [macOS 修改 capslock 为长按 ctrl 短按 esc](notes/01KECGCK06AK2GV2YEX9W6WRYY.md) - 2026-01-07
 
 <a id="miniflux"></a>
 ### miniflux
