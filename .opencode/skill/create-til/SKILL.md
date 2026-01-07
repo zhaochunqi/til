@@ -1,6 +1,6 @@
 ---
 name: create-til
-description: 创建新的 TIL 笔记
+description: 添加新的 TIL 笔记
 license: MIT
 compatibility: opencode
 metadata:
@@ -10,7 +10,7 @@ metadata:
 
 ## 功能
 
-使用 `just new "标题"` 创建新的 TIL 笔记。
+使用 `just new "标题"` 创建新的 TIL 笔记入口，然后根据提示风格和模板添加相关内容。
 
 ## 风格
 

@@ -14,6 +14,7 @@ Last updated: 2026-01-07
 - [antigravity](#antigravity)
 - [arm](#arm)
 - [beads](#beads)
+- [bitbucket](#bitbucket)
 - [bitwarden](#bitwarden)
 - [capslock](#capslock)
 - [cert](#cert)
@@ -40,8 +41,10 @@ Last updated: 2026-01-07
 - [gatekeeper](#gatekeeper)
 - [gfw](#gfw)
 - [git](#git)
+- [gitea](#gitea)
 - [github](#github)
 - [github-action](#github-action)
+- [gitlab](#gitlab)
 - [gmail](#gmail)
 - [google](#google)
 - [html](#html)
@@ -120,6 +123,10 @@ Last updated: 2026-01-07
 <a id="beads"></a>
 ### beads
 - [beads Error: operation failed: failed to get ready work](notes/01KCY8SW3QQ6M8C8NTFBNG5WDA.md) - 2025-12-21
+
+<a id="bitbucket"></a>
+### bitbucket
+- [使用 Software Heritage Archive 下载已删除的代码](notes/01KEB8SG19EVVTGJZQ9M70HZYY.md) - 2026-01-07
 
 <a id="bitwarden"></a>
 ### bitwarden
@@ -231,14 +238,20 @@ Last updated: 2026-01-07
 
 <a id="git"></a>
 ### git
+- [使用 Software Heritage Archive 下载已删除的代码](notes/01KEB8SG19EVVTGJZQ9M70HZYY.md) - 2026-01-07
 - [合并前两个 git commit](notes/01KD0JNH65XG5AQNJESENRS3XE.md) - 2025-12-21
 - [Starship 中 git 分支后面有 $ 符号](notes/01KCVW870NJHDYWB5JJR6WEDQN.md) - 2025-12-20
 - [删除 git 幽灵分支](notes/01KCH2ZKTD9J41036S46GXB6SC.md) - 2025-12-15
 - [git delete remote branches](notes/01KCH1D667BNMSC7FFQ5C21C6R.md) - 2025-12-15
 - [git 中删除没有被追踪的文件](notes/01K5RR9NFREBCCRT4YHNN94W29.md) - 2025-09-22
 
+<a id="gitea"></a>
+### gitea
+- [使用 Software Heritage Archive 下载已删除的代码](notes/01KEB8SG19EVVTGJZQ9M70HZYY.md) - 2026-01-07
+
 <a id="github"></a>
 ### github
+- [使用 Software Heritage Archive 下载已删除的代码](notes/01KEB8SG19EVVTGJZQ9M70HZYY.md) - 2026-01-07
 - [10s 生成代码审查的链接](notes/01KE6W1NM5NTBPWWP6KNT5PM35.md) - 2026-01-05
 - [github action 中开启 pr 权限](notes/01KCDNN88DV6E98NE4T0YGAYWV.md) - 2025-12-14
 - [github 删除垃圾通知](notes/01K5X1514G144QQSM4K4S85WMC.md) - 2025-09-24
@@ -247,6 +260,10 @@ Last updated: 2026-01-07
 ### github-action
 - [使用 post 请求触发 github action](notes/01KCGQTW0QZG459XNH7YWCPW68.md) - 2025-12-15
 - [github action 中开启 pr 权限](notes/01KCDNN88DV6E98NE4T0YGAYWV.md) - 2025-12-14
+
+<a id="gitlab"></a>
+### gitlab
+- [使用 Software Heritage Archive 下载已删除的代码](notes/01KEB8SG19EVVTGJZQ9M70HZYY.md) - 2026-01-07
 
 <a id="gmail"></a>
 ### gmail
