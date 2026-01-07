@@ -58,7 +58,6 @@ Last updated: 2026-01-07
 - [llm](#llm)
 - [logseq](#logseq)
 - [macos](#macos)
-- [macOS](#macos)
 - [miniflux](#miniflux)
 - [nix](#nix)
 - [nixos](#nixos)
@@ -327,16 +326,13 @@ Last updated: 2026-01-07
 
 <a id="macos"></a>
 ### macos
+- [macOS 修改 capslock 为长按 ctrl 短按 esc](notes/01KECGCK06AK2GV2YEX9W6WRYY.md) - 2026-01-07
 - [iOS 截图自定义时间和 wifi](notes/01KDJJDDH83YGMFERQ2MA4W34S.md) - 2025-12-28
 - [macos 下载的 app 无法打开](notes/01KDFHRFB7TF2ZG7CTJ6CCAMQA.md) - 2025-12-27
 - [macos 下加速构建速度的技巧](notes/01KDG6RVWZ2GCRVX0NDCNMKY5J.md) - 2025-12-27
 - [修复 macos 下使用 rbw 获取密钥卡顿](notes/01KD8H0C73KVSSNAP9GFMMF46J.md) - 2025-12-24
 - [macOS 下获取操作系统和架构](notes/01KCNV2AGP3RXP294T6JVMXY75.md) - 2025-12-17
 - [判断 macos 安装的软件是否是 mac app store 下载的](notes/01K8EGSPM8BYJHBYJKR7G0NTQ4.md) - 2025-10-26
-
-<a id="macos"></a>
-### macOS
-- [macOS 修改 capslock 为长按 ctrl 短按 esc](notes/01KECGCK06AK2GV2YEX9W6WRYY.md) - 2026-01-07
 
 <a id="miniflux"></a>
 ### miniflux

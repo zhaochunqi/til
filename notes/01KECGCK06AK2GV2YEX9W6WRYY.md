@@ -2,7 +2,7 @@
 title: "macOS 修改 capslock 为长按 ctrl 短按 esc"
 tags:
   - capslock
-  - macOS
+  - macos
 date: 2026-01-07
 ---
 
