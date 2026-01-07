@@ -93,6 +93,7 @@ Last updated: 2026-01-07
 - [windows](#windows)
 - [前端](#tag)
 - [常识](#tag)
+- [改键](#tag)
 - [月球](#tag)
 - [构建](#tag)
 - [滚动条](#tag)
@@ -137,6 +138,7 @@ Last updated: 2026-01-07
 
 <a id="capslock"></a>
 ### capslock
+- [windows 修改 capslock 为长按 ctrl 短按 esc](notes/01KECFJFP48XAM95329DW2KYTJ.md) - 2026-01-07
 - [nixos 修改 capslock 为长按 ctrl 短按 esc](notes/01K89VE5A80FTXN4AW1RV7FR3B.md) - 2025-10-24
 
 <a id="cert"></a>
@@ -480,6 +482,7 @@ Last updated: 2026-01-07
 
 <a id="windows"></a>
 ### windows
+- [windows 修改 capslock 为长按 ctrl 短按 esc](notes/01KECFJFP48XAM95329DW2KYTJ.md) - 2026-01-07
 - [windows 手机连接区域限制](notes/01K8KQVTSRVSVHBFERTTE2QX8Y.md) - 2025-10-28
 
 <a id="tag"></a>
@@ -489,6 +492,10 @@ Last updated: 2026-01-07
 <a id="tag"></a>
 ### 常识
 - [月球的潮汐锁定](notes/01KD5BCPMR33YWMVG4MS5MEFH2.md) - 2025-12-23
+
+<a id="tag"></a>
+### 改键
+- [windows 修改 capslock 为长按 ctrl 短按 esc](notes/01KECFJFP48XAM95329DW2KYTJ.md) - 2026-01-07
 
 <a id="tag"></a>
 ### 月球
