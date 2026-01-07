@@ -6,6 +6,6 @@ tags:
 date: 2026-01-07
 ---
 
-下载软件 Karabiner-Elements, 在 Complex Modifications 中点击 `add prefined rule`, 找到 Caps Lock to ESC and Ctrl 启用即可。
+下载软件 [Karabiner-Elements](https://karabiner-elements.pqrs.org/), 在 Complex Modifications 中点击 `add prefined rule`, 找到 Caps Lock to ESC and Ctrl 启用即可。
 
 至此，`macos/nixos/windows` 的修改方法已经补全。
