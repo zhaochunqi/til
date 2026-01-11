@@ -32,7 +32,7 @@ def main():
     ulid_str = str(ulid.new())
 
     # Template content with title (no id field since filename is ULID)
-    template = '---\ntitle: "{}"\ntags:\n  - \ndate: {}\n---\n\n'.format(
+    template = '---\ntitle: "{}"\ndisplay: true\ntags:\n  - \ndate: {}\n---\n\n'.format(
         name, current_date
     )
 

@@ -52,7 +52,7 @@ def normalize_yaml_frontmatter(content):
             del frontmatter["id"]
 
         # 按指定顺序排序字段
-        field_order = ["title", "tags", "date"]
+        field_order = ["title", "display", "tags", "date"]
         ordered_frontmatter = CommentedMap()
 
         # 先添加指定顺序的字段
