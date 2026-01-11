@@ -79,6 +79,7 @@ Last updated: 2026-01-11
 - [region](#region)
 - [rss](#rss)
 - [screenshot](#screenshot)
+- [share](#share)
 - [shell](#shell)
 - [starship](#starship)
 - [surge](#surge)
@@ -92,6 +93,7 @@ Last updated: 2026-01-11
 - [vpn](#vpn)
 - [webdev](#webdev)
 - [webhook](#webhook)
+- [weibo](#weibo)
 - [windows](#windows)
 - [前端](#tag)
 - [常识](#tag)
@@ -433,6 +435,10 @@ Last updated: 2026-01-11
 ### screenshot
 - [iOS 截图自定义时间和 wifi](notes/01KDJJDDH83YGMFERQ2MA4W34S.md) - 2025-12-28
 
+<a id="share"></a>
+### share
+- [使用 surge modules 激活 share](notes/01K9EKEPH084CXMMXMABBCZQJR.md) - 2025-11-07
+
 <a id="shell"></a>
 ### shell
 - [cronjob 中的环境变量问题](notes/01K8P9SK98QB8BHMEQN58M3AZB.md) - 2025-10-29
@@ -443,6 +449,7 @@ Last updated: 2026-01-11
 
 <a id="surge"></a>
 ### surge
+- [使用 surge modules 激活 share](notes/01K9EKEPH084CXMMXMABBCZQJR.md) - 2025-11-07
 - [windows 手机连接区域限制](notes/01K8KQVTSRVSVHBFERTTE2QX8Y.md) - 2025-10-28
 
 <a id="terminal"></a>
@@ -492,6 +499,10 @@ Last updated: 2026-01-11
 <a id="webhook"></a>
 ### webhook
 - [Jellyfin 发送播放媒体的信息通知到 Discord](notes/01KCBZ0HR6KGNWKXSQX1NYSA1J.md) - 2025-12-13
+
+<a id="weibo"></a>
+### weibo
+- [使用 surge modules 激活 share](notes/01K9EKEPH084CXMMXMABBCZQJR.md) - 2025-11-07
 
 <a id="windows"></a>
 ### windows
