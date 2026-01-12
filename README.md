@@ -4,7 +4,7 @@
 <!-- BEGINNING OF NOTES INDEX HOOK -->
 ## Notes by Tag
 
-Last updated: 2026-01-11
+Last updated: 2026-01-12
 
 ### Tags
 - [acme](#acme)
@@ -254,6 +254,7 @@ Last updated: 2026-01-11
 
 <a id="git"></a>
 ### git
+- [git 下处理换行问题](notes/01KERS72RCVNXJP1F40PH26D94.md) - 2026-01-12
 - [使用 Software Heritage Archive 下载已删除的代码](notes/01KEB8SG19EVVTGJZQ9M70HZYY.md) - 2026-01-07
 - [合并前两个 git commit](notes/01KD0JNH65XG5AQNJESENRS3XE.md) - 2025-12-21
 - [Starship 中 git 分支后面有 $ 符号](notes/01KCVW870NJHDYWB5JJR6WEDQN.md) - 2025-12-20
@@ -322,6 +323,7 @@ Last updated: 2026-01-11
 
 <a id="linux"></a>
 ### linux
+- [git 下处理换行问题](notes/01KERS72RCVNXJP1F40PH26D94.md) - 2026-01-12
 - [终端的输出自带换行](notes/01KDV15QTZC1V304GZYXT8H6KY.md) - 2026-01-01
 - [kitty 下使用 fcitx5 的问题](notes/01KD788PBV10B31ABJR1FF3MPG.md) - 2025-12-24
 - [获取终端命令运行的平均时间](notes/01KC93NW0AEVV9Q51PC36JW0F4.md) - 2025-12-12
@@ -337,6 +339,7 @@ Last updated: 2026-01-11
 
 <a id="macos"></a>
 ### macos
+- [git 下处理换行问题](notes/01KERS72RCVNXJP1F40PH26D94.md) - 2026-01-12
 - [macOS 修改 capslock 为长按 ctrl 短按 esc](notes/01KECGCK06AK2GV2YEX9W6WRYY.md) - 2026-01-07
 - [iOS 截图自定义时间和 wifi](notes/01KDJJDDH83YGMFERQ2MA4W34S.md) - 2025-12-28
 - [macos 下载的 app 无法打开](notes/01KDFHRFB7TF2ZG7CTJ6CCAMQA.md) - 2025-12-27
@@ -495,6 +498,7 @@ Last updated: 2026-01-11
 
 <a id="windows"></a>
 ### windows
+- [git 下处理换行问题](notes/01KERS72RCVNXJP1F40PH26D94.md) - 2026-01-12
 - [windows 修改 capslock 为长按 ctrl 短按 esc](notes/01KECFJFP48XAM95329DW2KYTJ.md) - 2026-01-07
 - [windows 手机连接区域限制](notes/01K8KQVTSRVSVHBFERTTE2QX8Y.md) - 2025-10-28
 
