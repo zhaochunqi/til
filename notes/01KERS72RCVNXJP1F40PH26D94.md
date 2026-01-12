@@ -20,7 +20,7 @@ git config --global core.autocrlf input
 
 或者在对应的 ~/.gitconfig 中配置：
 
-```toml
+```ini
 [core]
 	autocrlf = input
 ```
