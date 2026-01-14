@@ -1,12 +1,12 @@
 repos:
   - repo: local
     hooks:
-      # # fix Chinese and English
-      # - id: autocorrect
-      #   name: autocorrect
-      #   entry: autocorrect
+      # fix Chinese and English
+      # - id: autocorrect-docker
+      #   name: autocorrect-docker
+      #   entry: huacnlee/autocorrect:latest
       #   args: ["--fix"]
-      #   language: system
+      #   language: docker_image
       - id: normalize-yaml
         name: Normalize YAML front matter
         entry: uv run scripts/normalize_yaml.py
@@ -18,13 +18,17 @@ repos:
         language: system
         pass_filenames: false
         files: ^notes/.*\.md$
-      # # fix url that not available.
-      # - id: lychee
-      #   entry: lychee
-      #   language: system
-      #   name: lychee
-      #   args: ["--no-progress", "--exclude-path", "assets"]
-      #   files: ^notes/.*\.md$
+      - id: lychee-docker
+        name: lychee-docker
+        description: "Run 'lychee' docker image for fast, async, stream-based link checking (auto-installs)"
+        entry: lycheeverse/lychee:0.22.0
+        language: docker_image
+        args: ["--no-progress", "--exclude-path", "assets"]
+        files: ^notes/.*\.md$
+        types: [text]
+        pass_filenames: true
+        require_serial: true
+        minimum_pre_commit_version: "2.9.2"
   - repo: https://github.com/oxipng/oxipng
     rev: v10.0.0
     hooks:
