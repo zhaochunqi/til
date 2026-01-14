@@ -1,5 +1,5 @@
 default: add
-    pre-commit run -a
+    uvx pre-commit run -a
 
 add:
     git add .

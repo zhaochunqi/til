@@ -1,19 +1,12 @@
 repos:
   - repo: local
     hooks:
-      # png image compress
-      - id: oxipng
-        name: oxipng
-        entry: oxipng
-        language: system
-        files: ^assets/.+$
-        types: [png]
-      # fix Chinese and English
-      - id: autocorrect
-        name: autocorrect
-        entry: autocorrect
-        args: ["--fix"]
-        language: system
+      # # fix Chinese and English
+      # - id: autocorrect
+      #   name: autocorrect
+      #   entry: autocorrect
+      #   args: ["--fix"]
+      #   language: system
       - id: normalize-yaml
         name: Normalize YAML front matter
         entry: uv run scripts/normalize_yaml.py
@@ -25,10 +18,15 @@ repos:
         language: system
         pass_filenames: false
         files: ^notes/.*\.md$
-      # fix url that not available.
-      - id: lychee
-        entry: lychee
-        language: system
-        name: lychee
-        args: ["--no-progress", "--exclude-path", "assets"]
-        files: ^notes/.*\.md$
+      # # fix url that not available.
+      # - id: lychee
+      #   entry: lychee
+      #   language: system
+      #   name: lychee
+      #   args: ["--no-progress", "--exclude-path", "assets"]
+      #   files: ^notes/.*\.md$
+  - repo: https://github.com/oxipng/oxipng
+    rev: v10.0.0
+    hooks:
+      - id: oxipng
+        files: ^assets/.+$

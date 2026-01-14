@@ -4,7 +4,7 @@
 <!-- BEGINNING OF NOTES INDEX HOOK -->
 ## Notes by Tag
 
-Last updated: 2026-01-12
+Last updated: 2026-01-14
 
 ### Tags
 - [acme](#acme)
@@ -34,6 +34,7 @@ Last updated: 2026-01-12
 - [dns01](#dns01)
 - [docker](#docker)
 - [docker-compose](#docker-compose)
+- [emacs](#emacs)
 - [embeddings](#embeddings)
 - [env](#env)
 - [fcitx5](#fcitx5)
@@ -89,10 +90,12 @@ Last updated: 2026-01-12
 - [uuid](#uuid)
 - [uv](#uv)
 - [vibe-coding](#vibe-coding)
+- [vim](#vim)
 - [vpn](#vpn)
 - [webdev](#webdev)
 - [webhook](#webhook)
 - [windows](#windows)
+- [zsh](#zsh)
 - [前端](#tag)
 - [常识](#tag)
 - [改键](#tag)
@@ -217,6 +220,10 @@ Last updated: 2026-01-12
 <a id="docker-compose"></a>
 ### docker-compose
 - [docker compose 中添加资源限制](notes/01K6QSK66RYS2ZWZQ09F5N0FDX.md) - 2025-10-04
+
+<a id="emacs"></a>
+### emacs
+- [zsh 绑定键位](notes/01KEXHP31ED7QVT6RZH0KKZ57H.md) - 2026-01-14
 
 <a id="embeddings"></a>
 ### embeddings
@@ -483,6 +490,10 @@ Last updated: 2026-01-12
 - [beads Error: operation failed: failed to get ready work](notes/01KCY8SW3QQ6M8C8NTFBNG5WDA.md) - 2025-12-21
 - [opencode models](notes/01KCHB013NE12WSNYZTBEZZZT1.md) - 2025-12-15
 
+<a id="vim"></a>
+### vim
+- [zsh 绑定键位](notes/01KEXHP31ED7QVT6RZH0KKZ57H.md) - 2026-01-14
+
 <a id="vpn"></a>
 ### vpn
 - [windows 手机连接区域限制](notes/01K8KQVTSRVSVHBFERTTE2QX8Y.md) - 2025-10-28
@@ -501,6 +512,10 @@ Last updated: 2026-01-12
 - [git 下处理换行问题](notes/01KERS72RCVNXJP1F40PH26D94.md) - 2026-01-12
 - [windows 修改 capslock 为长按 ctrl 短按 esc](notes/01KECFJFP48XAM95329DW2KYTJ.md) - 2026-01-07
 - [windows 手机连接区域限制](notes/01K8KQVTSRVSVHBFERTTE2QX8Y.md) - 2025-10-28
+
+<a id="zsh"></a>
+### zsh
+- [zsh 绑定键位](notes/01KEXHP31ED7QVT6RZH0KKZ57H.md) - 2026-01-14
 
 <a id="tag"></a>
 ### 前端
