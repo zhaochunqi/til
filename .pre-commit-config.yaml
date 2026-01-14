@@ -2,11 +2,12 @@ repos:
   - repo: local
     hooks:
       # fix Chinese and English
-      # - id: autocorrect-docker
-      #   name: autocorrect-docker
-      #   entry: huacnlee/autocorrect:latest
-      #   args: ["--fix"]
-      #   language: docker_image
+      - id: autocorrect-docker
+        name: autocorrect-docker
+        entry: --entrypoint autocorrect nixery.dev/shell/autocorrect
+        files: ^notes/.*\.md$
+        # args: ["--fix"]
+        language: docker_image
       - id: normalize-yaml
         name: Normalize YAML front matter
         entry: uv run scripts/normalize_yaml.py
