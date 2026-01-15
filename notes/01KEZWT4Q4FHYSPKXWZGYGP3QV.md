@@ -21,6 +21,8 @@ brew install zhaochunqi/tap/git-open
 1. 创建 tap 仓库，命名为 `homebrew-<tap-name>`，例如 `homebrew-tap`
 2. 在仓库根目录创建 `Formula/<formula-name>.rb` 文件
 
+> ⚠️ **注意**: Homebrew 官方不提倡在 Formula 中分发预编译二进制，这被认为是不好的实践。对于 Go CLI 工具等提供预编译二进制的项目，推荐使用 Homebrew Cask 进行分发。参考 [Go CLI 工具更适合通过 Homebrew Cask 分发预编译二进制](/notes/01KF07J6QEZHR6ZKT7QHAJGHP8.md)。
+
 ```ruby
 class GitOpen < Formula
   desc "Open your git repo in browser using one command"
