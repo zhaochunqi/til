@@ -4,7 +4,7 @@
 <!-- BEGINNING OF NOTES INDEX HOOK -->
 ## Notes by Tag
 
-Last updated: 2026-01-14
+Last updated: 2026-01-15
 
 ### Tags
 - [acme](#acme)
@@ -44,12 +44,14 @@ Last updated: 2026-01-14
 - [gatekeeper](#gatekeeper)
 - [gfw](#gfw)
 - [git](#git)
+- [git-open](#git-open)
 - [gitea](#gitea)
 - [github](#github)
 - [github-action](#github-action)
 - [gitlab](#gitlab)
 - [gmail](#gmail)
 - [google](#google)
+- [homebrew](#homebrew)
 - [html](#html)
 - [hyperfine](#hyperfine)
 - [ios](#ios)
@@ -261,6 +263,7 @@ Last updated: 2026-01-14
 
 <a id="git"></a>
 ### git
+- [使用 homebrew-tap 发布自己的项目](notes/01KEZWT4Q4FHYSPKXWZGYGP3QV.md) - 2026-01-15
 - [git 下处理换行问题](notes/01KERS72RCVNXJP1F40PH26D94.md) - 2026-01-12
 - [使用 Software Heritage Archive 下载已删除的代码](notes/01KEB8SG19EVVTGJZQ9M70HZYY.md) - 2026-01-07
 - [合并前两个 git commit](notes/01KD0JNH65XG5AQNJESENRS3XE.md) - 2025-12-21
@@ -268,6 +271,10 @@ Last updated: 2026-01-14
 - [删除 git 幽灵分支](notes/01KCH2ZKTD9J41036S46GXB6SC.md) - 2025-12-15
 - [git delete remote branches](notes/01KCH1D667BNMSC7FFQ5C21C6R.md) - 2025-12-15
 - [git 中删除没有被追踪的文件](notes/01K5RR9NFREBCCRT4YHNN94W29.md) - 2025-09-22
+
+<a id="git-open"></a>
+### git-open
+- [使用 homebrew-tap 发布自己的项目](notes/01KEZWT4Q4FHYSPKXWZGYGP3QV.md) - 2026-01-15
 
 <a id="gitea"></a>
 ### gitea
@@ -298,6 +305,10 @@ Last updated: 2026-01-14
 - [google 创建 app passwords](notes/01KDACRSX2JARFQR8PRQBN9NKH.md) - 2025-12-25
 - [Antigravity 无法登录问题](notes/01KDAZ4RPJ82R12EZF71A4XY5V.md) - 2025-12-25
 - [老照片修复 prompt](notes/01KD2E2Z70PS89EPKX84ERDHGM.md) - 2025-12-22
+
+<a id="homebrew"></a>
+### homebrew
+- [使用 homebrew-tap 发布自己的项目](notes/01KEZWT4Q4FHYSPKXWZGYGP3QV.md) - 2026-01-15
 
 <a id="html"></a>
 ### html
