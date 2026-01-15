@@ -50,6 +50,7 @@ Last updated: 2026-01-15
 - [github-action](#github-action)
 - [gitlab](#gitlab)
 - [gmail](#gmail)
+- [go](#go)
 - [google](#google)
 - [homebrew](#homebrew)
 - [html](#html)
@@ -300,6 +301,10 @@ Last updated: 2026-01-15
 ### gmail
 - [google 创建 app passwords](notes/01KDACRSX2JARFQR8PRQBN9NKH.md) - 2025-12-25
 
+<a id="go"></a>
+### go
+- [Go CLI 工具更适合通过 Homebrew Cask 分发预编译二进制](notes/01KF07J6QEZHR6ZKT7QHAJGHP8.md) - 2026-01-15
+
 <a id="google"></a>
 ### google
 - [google 创建 app passwords](notes/01KDACRSX2JARFQR8PRQBN9NKH.md) - 2025-12-25
@@ -309,6 +314,7 @@ Last updated: 2026-01-15
 <a id="homebrew"></a>
 ### homebrew
 - [使用 homebrew-tap 发布自己的项目](notes/01KEZWT4Q4FHYSPKXWZGYGP3QV.md) - 2026-01-15
+- [Go CLI 工具更适合通过 Homebrew Cask 分发预编译二进制](notes/01KF07J6QEZHR6ZKT7QHAJGHP8.md) - 2026-01-15
 
 <a id="html"></a>
 ### html
@@ -357,6 +363,7 @@ Last updated: 2026-01-15
 
 <a id="macos"></a>
 ### macos
+- [Go CLI 工具更适合通过 Homebrew Cask 分发预编译二进制](notes/01KF07J6QEZHR6ZKT7QHAJGHP8.md) - 2026-01-15
 - [git 下处理换行问题](notes/01KERS72RCVNXJP1F40PH26D94.md) - 2026-01-12
 - [macOS 修改 capslock 为长按 ctrl 短按 esc](notes/01KECGCK06AK2GV2YEX9W6WRYY.md) - 2026-01-07
 - [iOS 截图自定义时间和 wifi](notes/01KDJJDDH83YGMFERQ2MA4W34S.md) - 2025-12-28
