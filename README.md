@@ -4,7 +4,7 @@
 <!-- BEGINNING OF NOTES INDEX HOOK -->
 ## Notes by Tag
 
-Last updated: 2026-01-15
+Last updated: 2026-01-16
 
 ### Tags
 - [acme](#acme)
@@ -98,6 +98,7 @@ Last updated: 2026-01-15
 - [webdev](#webdev)
 - [webhook](#webhook)
 - [windows](#windows)
+- [windows-management](#windows-management)
 - [zsh](#zsh)
 - [前端](#tag)
 - [常识](#tag)
@@ -363,6 +364,7 @@ Last updated: 2026-01-15
 
 <a id="macos"></a>
 ### macos
+- [macOS 配置任意位置可以拖拽窗口](notes/01KF35D2Z22MQS20HPWRP5VSZ4.md) - 2026-01-16
 - [Go CLI 工具更适合通过 Homebrew Cask 分发预编译二进制](notes/01KF07J6QEZHR6ZKT7QHAJGHP8.md) - 2026-01-15
 - [git 下处理换行问题](notes/01KERS72RCVNXJP1F40PH26D94.md) - 2026-01-12
 - [macOS 修改 capslock 为长按 ctrl 短按 esc](notes/01KECGCK06AK2GV2YEX9W6WRYY.md) - 2026-01-07
@@ -530,6 +532,10 @@ Last updated: 2026-01-15
 - [git 下处理换行问题](notes/01KERS72RCVNXJP1F40PH26D94.md) - 2026-01-12
 - [windows 修改 capslock 为长按 ctrl 短按 esc](notes/01KECFJFP48XAM95329DW2KYTJ.md) - 2026-01-07
 - [windows 手机连接区域限制](notes/01K8KQVTSRVSVHBFERTTE2QX8Y.md) - 2025-10-28
+
+<a id="windows-management"></a>
+### windows-management
+- [macOS 配置任意位置可以拖拽窗口](notes/01KF35D2Z22MQS20HPWRP5VSZ4.md) - 2026-01-16
 
 <a id="zsh"></a>
 ### zsh
