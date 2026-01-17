@@ -13,4 +13,6 @@ date: 2026-01-16
 defaults write -g NSWindowShouldDragOnGesture YES
 ```
 
+![窗口移动](../assets/macOS-move-windows.gif)
+
 参考链接：https://www.reddit.com/r/MacOS/comments/k6hiwk/keyboard_modifier_to_simplify_click_drag_of/
