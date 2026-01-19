@@ -4,7 +4,7 @@
 <!-- BEGINNING OF NOTES INDEX HOOK -->
 ## Notes by Tag
 
-Last updated: 2026-01-16
+Last updated: 2026-01-19
 
 ### Tags
 - [acme](#acme)
@@ -265,6 +265,7 @@ Last updated: 2026-01-16
 
 <a id="git"></a>
 ### git
+- [修改 Git 默认主分支为 main](notes/01KFB0W3JA87CW0J8XW9JRQ86G.md) - 2026-01-19
 - [使用 homebrew-tap 发布自己的项目](notes/01KEZWT4Q4FHYSPKXWZGYGP3QV.md) - 2026-01-15
 - [git 下处理换行问题](notes/01KERS72RCVNXJP1F40PH26D94.md) - 2026-01-12
 - [使用 Software Heritage Archive 下载已删除的代码](notes/01KEB8SG19EVVTGJZQ9M70HZYY.md) - 2026-01-07
