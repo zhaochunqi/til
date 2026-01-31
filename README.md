@@ -4,7 +4,7 @@
 <!-- BEGINNING OF NOTES INDEX HOOK -->
 ## Notes by Tag
 
-Last updated: 2026-01-21
+Last updated: 2026-02-01
 
 ### Tags
 - [acme](#acme)
@@ -322,6 +322,7 @@ Last updated: 2026-01-21
 
 <a id="homebrew"></a>
 ### homebrew
+- [homebrew cask install 与 brew bundle 的区别](notes/01KGAS8FE8ZS95EQP2ZGPN4R75.md) - 2026-02-01
 - [使用 homebrew-tap 发布自己的项目](notes/01KEZWT4Q4FHYSPKXWZGYGP3QV.md) - 2026-01-15
 - [Go CLI 工具更适合通过 Homebrew Cask 分发预编译二进制](notes/01KF07J6QEZHR6ZKT7QHAJGHP8.md) - 2026-01-15
 
@@ -372,6 +373,7 @@ Last updated: 2026-01-21
 
 <a id="macos"></a>
 ### macos
+- [homebrew cask install 与 brew bundle 的区别](notes/01KGAS8FE8ZS95EQP2ZGPN4R75.md) - 2026-02-01
 - [macOS 配置任意位置可以拖拽窗口](notes/01KF35D2Z22MQS20HPWRP5VSZ4.md) - 2026-01-16
 - [Go CLI 工具更适合通过 Homebrew Cask 分发预编译二进制](notes/01KF07J6QEZHR6ZKT7QHAJGHP8.md) - 2026-01-15
 - [git 下处理换行问题](notes/01KERS72RCVNXJP1F40PH26D94.md) - 2026-01-12
