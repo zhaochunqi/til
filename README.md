@@ -22,8 +22,6 @@ Last updated: 2026-02-01
 - [clash](#clash)
 - [cli](#cli)
 - [coverage](#coverage)
-- [CR2025](#cr2025)
-- [CR2032](#cr2032)
 - [cronjob](#cronjob)
 - [css](#css)
 - [curl](#curl)
@@ -176,14 +174,6 @@ Last updated: 2026-02-01
 <a id="coverage"></a>
 ### coverage
 - [测试覆盖率报告不应提交到 Git](notes/01KFG8V1SWY0KBZWG7D2FWKYM4.md) - 2026-01-21
-
-<a id="cr2025"></a>
-### CR2025
-- [CR2025 和 CR2032 电池参数](notes/01KEMGBV1G1D3QPHBVVEXCZMDF.md) - 2026-01-11
-
-<a id="cr2032"></a>
-### CR2032
-- [CR2025 和 CR2032 电池参数](notes/01KEMGBV1G1D3QPHBVVEXCZMDF.md) - 2026-01-11
 
 <a id="cronjob"></a>
 ### cronjob
