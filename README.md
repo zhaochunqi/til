@@ -89,6 +89,7 @@ Last updated: 2026-02-01
 - [testing](#testing)
 - [traefik](#traefik)
 - [tty](#tty)
+- [unix](#unix)
 - [unleash](#unleash)
 - [uuid](#uuid)
 - [uv](#uv)
@@ -347,6 +348,7 @@ Last updated: 2026-02-01
 
 <a id="linux"></a>
 ### linux
+- [/usr/bin/env 的作用与用法](notes/01KGCE03ES9JZY0E36NP6AGVBE.md) - 2026-02-01
 - [git 下处理换行问题](notes/01KERS72RCVNXJP1F40PH26D94.md) - 2026-01-12
 - [终端的输出自带换行](notes/01KDV15QTZC1V304GZYXT8H6KY.md) - 2026-01-01
 - [kitty 下使用 fcitx5 的问题](notes/01KD788PBV10B31ABJR1FF3MPG.md) - 2025-12-24
@@ -465,6 +467,7 @@ Last updated: 2026-02-01
 
 <a id="shell"></a>
 ### shell
+- [/usr/bin/env 的作用与用法](notes/01KGCE03ES9JZY0E36NP6AGVBE.md) - 2026-02-01
 - [cronjob 中的环境变量问题](notes/01K8P9SK98QB8BHMEQN58M3AZB.md) - 2025-10-29
 
 <a id="starship"></a>
@@ -495,6 +498,10 @@ Last updated: 2026-02-01
 <a id="tty"></a>
 ### tty
 - [修复 macos 下使用 rbw 获取密钥卡顿](notes/01KD8H0C73KVSSNAP9GFMMF46J.md) - 2025-12-24
+
+<a id="unix"></a>
+### unix
+- [/usr/bin/env 的作用与用法](notes/01KGCE03ES9JZY0E36NP6AGVBE.md) - 2026-02-01
 
 <a id="unleash"></a>
 ### unleash
