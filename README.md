@@ -4,7 +4,7 @@
 <!-- BEGINNING OF NOTES INDEX HOOK -->
 ## Notes by Tag
 
-Last updated: 2026-02-01
+Last updated: 2026-02-04
 
 ### Tags
 - [acme](#acme)
@@ -83,6 +83,8 @@ Last updated: 2026-02-01
 - [rss](#rss)
 - [screenshot](#screenshot)
 - [shell](#shell)
+- [ssh](#ssh)
+- [ssh-agent](#ssh-agent)
 - [starship](#starship)
 - [surge](#surge)
 - [terminal](#terminal)
@@ -144,6 +146,7 @@ Last updated: 2026-02-01
 
 <a id="bitwarden"></a>
 ### bitwarden
+- [Bitwarden SSH Agent 指定特定密钥](notes/01KGJ56MP8KH85SVBCH0YP30T2.md) - 2026-02-04
 - [修复 macos 下使用 rbw 获取密钥卡顿](notes/01KD8H0C73KVSSNAP9GFMMF46J.md) - 2025-12-24
 - [direnv 配合 rbw 一起使用](notes/01KCGZ1VNBESN6SDNK01CB4EX2.md) - 2025-12-15
 
@@ -469,6 +472,14 @@ Last updated: 2026-02-01
 ### shell
 - [/usr/bin/env 的作用与用法](notes/01KGCE03ES9JZY0E36NP6AGVBE.md) - 2026-02-01
 - [cronjob 中的环境变量问题](notes/01K8P9SK98QB8BHMEQN58M3AZB.md) - 2025-10-29
+
+<a id="ssh"></a>
+### ssh
+- [Bitwarden SSH Agent 指定特定密钥](notes/01KGJ56MP8KH85SVBCH0YP30T2.md) - 2026-02-04
+
+<a id="ssh-agent"></a>
+### ssh-agent
+- [Bitwarden SSH Agent 指定特定密钥](notes/01KGJ56MP8KH85SVBCH0YP30T2.md) - 2026-02-04
 
 <a id="starship"></a>
 ### starship
