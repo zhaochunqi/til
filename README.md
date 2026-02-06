@@ -4,7 +4,7 @@
 <!-- BEGINNING OF NOTES INDEX HOOK -->
 ## Notes by Tag
 
-Last updated: 2026-02-04
+Last updated: 2026-02-07
 
 ### Tags
 - [acme](#acme)
@@ -25,6 +25,7 @@ Last updated: 2026-02-04
 - [cronjob](#cronjob)
 - [css](#css)
 - [curl](#curl)
+- [delta](#delta)
 - [deployment](#deployment)
 - [devops](#devops)
 - [direnv](#direnv)
@@ -191,6 +192,10 @@ Last updated: 2026-02-04
 ### curl
 - [使用 post 请求触发 github action](notes/01KCGQTW0QZG459XNH7YWCPW68.md) - 2025-12-15
 
+<a id="delta"></a>
+### delta
+- [git diff 别名: 用 ds 调用 delta](notes/01KGTG2E1NQEZ2CSDAV8WFQ1B9.md) - 2026-02-07
+
 <a id="deployment"></a>
 ### deployment
 - [Unleash: Feature Toggle 管理平台](notes/01KEAQP6RGAQ62GYQ3XQNXZEKJ.md) - 2026-01-07
@@ -265,6 +270,7 @@ Last updated: 2026-02-04
 
 <a id="git"></a>
 ### git
+- [git diff 别名: 用 ds 调用 delta](notes/01KGTG2E1NQEZ2CSDAV8WFQ1B9.md) - 2026-02-07
 - [测试覆盖率报告不应提交到 Git](notes/01KFG8V1SWY0KBZWG7D2FWKYM4.md) - 2026-01-21
 - [修改 Git 默认主分支为 main](notes/01KFB0W3JA87CW0J8XW9JRQ86G.md) - 2026-01-19
 - [使用 homebrew-tap 发布自己的项目](notes/01KEZWT4Q4FHYSPKXWZGYGP3QV.md) - 2026-01-15
