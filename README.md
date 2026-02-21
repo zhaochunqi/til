@@ -4,7 +4,7 @@
 <!-- BEGINNING OF NOTES INDEX HOOK -->
 ## Notes by Tag
 
-Last updated: 2026-02-07
+Last updated: 2026-02-22
 
 ### Tags
 - [acme](#acme)
@@ -223,11 +223,13 @@ Last updated: 2026-02-07
 
 <a id="docker"></a>
 ### docker
+- [Docker Compose healthcheck 优先级](notes/01KJ112KN4Y1R8VFSWSZVK176K.md) - 2026-02-22
 - [linux 中寻找 docker 中运行的进程](notes/01K6RD0QVGKHZ8N1BR8TCQXC9M.md) - 2025-10-05
 - [docker compose 中添加资源限制](notes/01K6QSK66RYS2ZWZQ09F5N0FDX.md) - 2025-10-04
 
 <a id="docker-compose"></a>
 ### docker-compose
+- [Docker Compose healthcheck 优先级](notes/01KJ112KN4Y1R8VFSWSZVK176K.md) - 2026-02-22
 - [docker compose 中添加资源限制](notes/01K6QSK66RYS2ZWZQ09F5N0FDX.md) - 2025-10-04
 
 <a id="emacs"></a>
