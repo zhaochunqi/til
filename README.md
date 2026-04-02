@@ -4,7 +4,7 @@
 <!-- BEGINNING OF NOTES INDEX HOOK -->
 ## Notes by Tag
 
-Last updated: 2026-04-02
+Last updated: 2026-04-03
 
 ### Tags
 - [acme](#acme)
@@ -65,6 +65,7 @@ Last updated: 2026-04-02
 - [logseq](#logseq)
 - [macos](#macos)
 - [miniflux](#miniflux)
+- [network](#network)
 - [nix](#nix)
 - [nixos](#nixos)
 - [opencode](#opencode)
@@ -75,6 +76,7 @@ Last updated: 2026-04-02
 - [posix](#posix)
 - [pr](#pr)
 - [prompt](#prompt)
+- [proxy](#proxy)
 - [python](#python)
 - [quicklink](#quicklink)
 - [raycast](#raycast)
@@ -91,6 +93,7 @@ Last updated: 2026-04-02
 - [surge](#surge)
 - [terminal](#terminal)
 - [testing](#testing)
+- [tls](#tls)
 - [traefik](#traefik)
 - [tty](#tty)
 - [unix](#unix)
@@ -396,6 +399,10 @@ Last updated: 2026-04-02
 ### miniflux
 - [use miniflux on ipad with netnewswire](notes/01KD1140CPYSD4QRFEXT2DE27T.md) - 2025-12-22
 
+<a id="network"></a>
+### network
+- [公司代理如何审计 HTTPS 访问](notes/01KN7ZM56WW2W1JQZKJZTGJTWR.md) - 2026-04-03
+
 <a id="nix"></a>
 ### nix
 - [nixos 清理旧版本](notes/01KB4F4YZGNTZ17TBV05FZ0NT7.md) - 2025-11-28
@@ -444,6 +451,10 @@ Last updated: 2026-04-02
 - [老照片修复 prompt](notes/01KD2E2Z70PS89EPKX84ERDHGM.md) - 2025-12-22
 - [LangChain Agent 工具调用信任问题的 Prompt 解决方案](notes/01K7YW7HJG087840V22WGZZMQ6.md) - 2025-10-20
 
+<a id="proxy"></a>
+### proxy
+- [公司代理如何审计 HTTPS 访问](notes/01KN7ZM56WW2W1JQZKJZTGJTWR.md) - 2026-04-03
+
 <a id="python"></a>
 ### python
 - [使用 uv 安装的 python 作为默认 python](notes/01KECDMKVD0MD54V44D4Y9S6CM.md) - 2026-01-07
@@ -482,6 +493,7 @@ Last updated: 2026-04-02
 
 <a id="security"></a>
 ### security
+- [公司代理如何审计 HTTPS 访问](notes/01KN7ZM56WW2W1JQZKJZTGJTWR.md) - 2026-04-03
 - [网页上保护 email 地址的方法](notes/01KN73PDFRQD9F17T5PA0FNSVH.md) - 2026-04-02
 
 <a id="shell"></a>
@@ -516,6 +528,10 @@ Last updated: 2026-04-02
 <a id="testing"></a>
 ### testing
 - [测试覆盖率报告不应提交到 Git](notes/01KFG8V1SWY0KBZWG7D2FWKYM4.md) - 2026-01-21
+
+<a id="tls"></a>
+### tls
+- [公司代理如何审计 HTTPS 访问](notes/01KN7ZM56WW2W1JQZKJZTGJTWR.md) - 2026-04-03
 
 <a id="traefik"></a>
 ### traefik
