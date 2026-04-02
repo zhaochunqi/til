@@ -4,7 +4,7 @@
 <!-- BEGINNING OF NOTES INDEX HOOK -->
 ## Notes by Tag
 
-Last updated: 2026-02-24
+Last updated: 2026-04-02
 
 ### Tags
 - [acme](#acme)
@@ -83,6 +83,7 @@ Last updated: 2026-02-24
 - [region](#region)
 - [rss](#rss)
 - [screenshot](#screenshot)
+- [security](#security)
 - [shell](#shell)
 - [ssh](#ssh)
 - [ssh-agent](#ssh-agent)
@@ -99,6 +100,7 @@ Last updated: 2026-02-24
 - [vibe-coding](#vibe-coding)
 - [vim](#vim)
 - [vpn](#vpn)
+- [web](#web)
 - [webdev](#webdev)
 - [webhook](#webhook)
 - [windows](#windows)
@@ -478,6 +480,10 @@ Last updated: 2026-02-24
 ### screenshot
 - [iOS 截图自定义时间和 wifi](notes/01KDJJDDH83YGMFERQ2MA4W34S.md) - 2025-12-28
 
+<a id="security"></a>
+### security
+- [网页上保护 email 地址的方法](notes/01KN73PDFRQD9F17T5PA0FNSVH.md) - 2026-04-02
+
 <a id="shell"></a>
 ### shell
 - [/usr/bin/env 的作用与用法](notes/01KGCE03ES9JZY0E36NP6AGVBE.md) - 2026-02-01
@@ -549,6 +555,10 @@ Last updated: 2026-02-24
 <a id="vpn"></a>
 ### vpn
 - [windows 手机连接区域限制](notes/01K8KQVTSRVSVHBFERTTE2QX8Y.md) - 2025-10-28
+
+<a id="web"></a>
+### web
+- [网页上保护 email 地址的方法](notes/01KN73PDFRQD9F17T5PA0FNSVH.md) - 2026-04-02
 
 <a id="webdev"></a>
 ### webdev
