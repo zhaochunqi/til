@@ -76,7 +76,6 @@ Last updated: 2026-04-03
 - [posix](#posix)
 - [pr](#pr)
 - [prompt](#prompt)
-- [proxy](#proxy)
 - [python](#python)
 - [quicklink](#quicklink)
 - [raycast](#raycast)
@@ -110,6 +109,7 @@ Last updated: 2026-04-03
 - [windows-management](#windows-management)
 - [zsh](#zsh)
 - [前端](#tag)
+- [审计](#tag)
 - [常识](#tag)
 - [改键](#tag)
 - [月球](#tag)
@@ -401,7 +401,7 @@ Last updated: 2026-04-03
 
 <a id="network"></a>
 ### network
-- [公司代理如何审计 HTTPS 访问](notes/01KN7ZM56WW2W1JQZKJZTGJTWR.md) - 2026-04-03
+- [公司如何审计 HTTPS 访问](notes/01KN7ZM56WW2W1JQZKJZTGJTWR.md) - 2026-04-03
 
 <a id="nix"></a>
 ### nix
@@ -451,10 +451,6 @@ Last updated: 2026-04-03
 - [老照片修复 prompt](notes/01KD2E2Z70PS89EPKX84ERDHGM.md) - 2025-12-22
 - [LangChain Agent 工具调用信任问题的 Prompt 解决方案](notes/01K7YW7HJG087840V22WGZZMQ6.md) - 2025-10-20
 
-<a id="proxy"></a>
-### proxy
-- [公司代理如何审计 HTTPS 访问](notes/01KN7ZM56WW2W1JQZKJZTGJTWR.md) - 2026-04-03
-
 <a id="python"></a>
 ### python
 - [使用 uv 安装的 python 作为默认 python](notes/01KECDMKVD0MD54V44D4Y9S6CM.md) - 2026-01-07
@@ -493,7 +489,7 @@ Last updated: 2026-04-03
 
 <a id="security"></a>
 ### security
-- [公司代理如何审计 HTTPS 访问](notes/01KN7ZM56WW2W1JQZKJZTGJTWR.md) - 2026-04-03
+- [公司如何审计 HTTPS 访问](notes/01KN7ZM56WW2W1JQZKJZTGJTWR.md) - 2026-04-03
 - [网页上保护 email 地址的方法](notes/01KN73PDFRQD9F17T5PA0FNSVH.md) - 2026-04-02
 
 <a id="shell"></a>
@@ -531,7 +527,7 @@ Last updated: 2026-04-03
 
 <a id="tls"></a>
 ### tls
-- [公司代理如何审计 HTTPS 访问](notes/01KN7ZM56WW2W1JQZKJZTGJTWR.md) - 2026-04-03
+- [公司如何审计 HTTPS 访问](notes/01KN7ZM56WW2W1JQZKJZTGJTWR.md) - 2026-04-03
 
 <a id="traefik"></a>
 ### traefik
@@ -602,6 +598,10 @@ Last updated: 2026-04-03
 <a id="tag"></a>
 ### 前端
 - [修复滚动条导致的布局偏移](notes/01KDQPYX1T4R5WKZCNK0NHRZ4M.md) - 2025-12-30
+
+<a id="tag"></a>
+### 审计
+- [公司如何审计 HTTPS 访问](notes/01KN7ZM56WW2W1JQZKJZTGJTWR.md) - 2026-04-03
 
 <a id="tag"></a>
 ### 常识

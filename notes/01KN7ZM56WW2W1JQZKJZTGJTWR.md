@@ -1,31 +1,47 @@
 ---
-title: "公司代理如何审计 HTTPS 访问"
+title: "公司如何审计 HTTPS 访问"
 tags:
   - network
-  - proxy
   - security
   - tls
+  - 审计
 date: 2026-04-03
 ---
 
-公司代理能审计 HTTPS 访问记录，并非"破解了加密"，而是利用了 **TLS 握手阶段协议设计的历史妥协（明文 SNI）**。
+公司网络能审计 HTTPS 访问记录，并非"破解了加密"，而是利用了 **TLS 握手阶段明文传输的 SNI（Server Name Indication）**。
 
 ## 原理
 
-客户端通过代理访问 `https://example.com/page` 时：
+在 HTTPS（即 TLS）连接中，代理/防火墙无需解密流量，也无需建立 CONNECT 隧道，只需**旁路观察** TLS 握手的第一个 `ClientHello` 报文。
 
-1. 客户端发送 `CONNECT example.com:443 HTTP/1.1`
-2. 代理返回 `200 Connection Established`，TCP 隧道建立
-3. **客户端发起 TLS 握手**，发送第一个明文 `ClientHello` 报文
-4. 代理解析 `ClientHello` 中的 SNI（Server Name Indication）字段，记录域名
-5. 后续流量仅做 TCP 转发，不解密
+### TLS 握手流程（简化）
+
+1. TCP 三次握手
+2. 客户端发送 **ClientHello**（明文）
+3. 服务器响应 ServerHello
+4. 后续加密通信
+
+### ClientHello 中的 SNI
+
+`ClientHello` 是**未加密的明文数据**，其中包含扩展字段。SNI 格式如下：
+
+```
+Extension: server_name
+Hostname: example.com
+```
+
+代理/防火墙只需解析这个明文握手包，即可获取目标域名，无需：
+- 解密 TLS 流量
+- 建立了 CONNECT 隧道（传统 HTTP 代理模式）
 
 > SNI 是 TLS 扩展，用于解决单 IP 多域名场景。客户端必须在 `ClientHello` 中**明文**告诉服务器想访问的域名，否则服务器无法选择正确证书。
 
 ## 审计边界
 
-- ✅ 能看到：目标域名（SNI）、连接时间、流量大小、连接时长
+- ✅ 能看到：目标域名（SNI）、目标 IP、连接时间、流量大小、连接时长
 - ❌ 不能看到：URL 路径、查询参数、HTTP Header、页面内容、POST 数据
+
+> HTTPS（TLS）保护的只是 HTTP 请求内容（路径、Header、Body），但不会隐藏目标域名和 IP 等元数据。
 
 ## 防御方式
 
