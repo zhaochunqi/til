@@ -4,7 +4,7 @@
 <!-- BEGINNING OF NOTES INDEX HOOK -->
 ## Notes by Tag
 
-Last updated: 2026-04-03
+Last updated: 2026-04-09
 
 ### Tags
 - [acme](#acme)
@@ -21,6 +21,7 @@ Last updated: 2026-04-03
 - [chrome](#chrome)
 - [clash](#clash)
 - [cli](#cli)
+- [compose](#compose)
 - [coverage](#coverage)
 - [cronjob](#cronjob)
 - [css](#css)
@@ -181,6 +182,10 @@ Last updated: 2026-04-03
 - [macOS 下获取操作系统和架构](notes/01KCNV2AGP3RXP294T6JVMXY75.md) - 2025-12-17
 - [获取终端命令运行的平均时间](notes/01KC93NW0AEVV9Q51PC36JW0F4.md) - 2025-12-12
 
+<a id="compose"></a>
+### compose
+- [Docker Compose tty 和 stdin_open 配置](notes/01KNRV3BMDM7WT8MCKXBY47R1J.md) - 2026-04-09
+
 <a id="coverage"></a>
 ### coverage
 - [测试覆盖率报告不应提交到 Git](notes/01KFG8V1SWY0KBZWG7D2FWKYM4.md) - 2026-01-21
@@ -228,6 +233,7 @@ Last updated: 2026-04-03
 
 <a id="docker"></a>
 ### docker
+- [Docker Compose tty 和 stdin_open 配置](notes/01KNRV3BMDM7WT8MCKXBY47R1J.md) - 2026-04-09
 - [Docker Compose 自定义卷名](notes/01KJ60C63N9YJZBJVTNFCYPQWG.md) - 2026-02-24
 - [Docker Compose healthcheck 优先级](notes/01KJ112KN4Y1R8VFSWSZVK176K.md) - 2026-02-22
 - [linux 中寻找 docker 中运行的进程](notes/01K6RD0QVGKHZ8N1BR8TCQXC9M.md) - 2025-10-05
