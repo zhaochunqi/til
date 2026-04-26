@@ -4,7 +4,7 @@
 <!-- BEGINNING OF NOTES INDEX HOOK -->
 ## Notes by Tag
 
-Last updated: 2026-04-09
+Last updated: 2026-04-26
 
 ### Tags
 - [acme](#acme)
@@ -28,6 +28,7 @@ Last updated: 2026-04-09
 - [curl](#curl)
 - [delta](#delta)
 - [deployment](#deployment)
+- [design](#design)
 - [devops](#devops)
 - [direnv](#direnv)
 - [discord](#discord)
@@ -96,6 +97,7 @@ Last updated: 2026-04-09
 - [tls](#tls)
 - [traefik](#traefik)
 - [tty](#tty)
+- [ui](#ui)
 - [unix](#unix)
 - [unleash](#unleash)
 - [uuid](#uuid)
@@ -125,6 +127,7 @@ Last updated: 2026-04-09
 
 <a id="ai"></a>
 ### ai
+- [先学领域词汇再让 AI 干活](notes/01KQ3PA3004N8VQQJGVQSD21YC.md) - 2026-04-26
 - [opencode models](notes/01KCHB013NE12WSNYZTBEZZZT1.md) - 2025-12-15
 
 <a id="ai-agent"></a>
@@ -209,6 +212,10 @@ Last updated: 2026-04-09
 <a id="deployment"></a>
 ### deployment
 - [Unleash: Feature Toggle 管理平台](notes/01KEAQP6RGAQ62GYQ3XQNXZEKJ.md) - 2026-01-07
+
+<a id="design"></a>
+### design
+- [先学领域词汇再让 AI 干活](notes/01KQ3PA3004N8VQQJGVQSD21YC.md) - 2026-04-26
 
 <a id="devops"></a>
 ### devops
@@ -381,6 +388,7 @@ Last updated: 2026-04-09
 
 <a id="llm"></a>
 ### llm
+- [先学领域词汇再让 AI 干活](notes/01KQ3PA3004N8VQQJGVQSD21YC.md) - 2026-04-26
 - [LangChain Agent 工具调用信任问题的 Prompt 解决方案](notes/01K7YW7HJG087840V22WGZZMQ6.md) - 2025-10-20
 
 <a id="logseq"></a>
@@ -543,6 +551,10 @@ Last updated: 2026-04-09
 <a id="tty"></a>
 ### tty
 - [修复 macos 下使用 rbw 获取密钥卡顿](notes/01KD8H0C73KVSSNAP9GFMMF46J.md) - 2025-12-24
+
+<a id="ui"></a>
+### ui
+- [先学领域词汇再让 AI 干活](notes/01KQ3PA3004N8VQQJGVQSD21YC.md) - 2026-04-26
 
 <a id="unix"></a>
 ### unix
