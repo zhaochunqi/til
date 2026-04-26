@@ -31,3 +31,8 @@ date: 2026-04-26
 ```
 
 这不是堆术语，而是在给 LLM 更精确的索引词。对任何陌生领域都一样：先问 AI 或文档要一份 glossary，掌握关键概念和对象名，再开始让它做事。磨刀不误砍柴工。
+
+可以先看这些网站补词汇：
+
+1. [The Component Gallery](https://component.gallery/)：查 UI component 的标准名称、别名、定义和真实 design system 示例。
+2. [Domain Maps](https://domainmaps.co/)：用 domain map 先建立陌生领域的概念坐标，再把关键术语喂给 LLM。
