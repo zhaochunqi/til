@@ -4,7 +4,7 @@
 <!-- BEGINNING OF NOTES INDEX HOOK -->
 ## Notes by Tag
 
-Last updated: 2026-04-26
+Last updated: 2026-04-27
 
 ### Tags
 - [acme](#acme)
@@ -58,6 +58,7 @@ Last updated: 2026-04-26
 - [html](#html)
 - [hyperfine](#hyperfine)
 - [ios](#ios)
+- [javascript](#javascript)
 - [jellyfin](#jellyfin)
 - [kitty](#kitty)
 - [langchain](#langchain)
@@ -110,6 +111,7 @@ Last updated: 2026-04-26
 - [webhook](#webhook)
 - [windows](#windows)
 - [windows-management](#windows-management)
+- [workflowy](#workflowy)
 - [zsh](#zsh)
 - [前端](#tag)
 - [审计](#tag)
@@ -199,6 +201,7 @@ Last updated: 2026-04-26
 
 <a id="css"></a>
 ### css
+- [Workflowy 的 inline editing 实现](notes/01KQ7NYX6YDHGHH9QZX0ASZSYV.md) - 2026-04-27
 - [修复滚动条导致的布局偏移](notes/01KDQPYX1T4R5WKZCNK0NHRZ4M.md) - 2025-12-30
 
 <a id="curl"></a>
@@ -350,6 +353,7 @@ Last updated: 2026-04-26
 
 <a id="html"></a>
 ### html
+- [Workflowy 的 inline editing 实现](notes/01KQ7NYX6YDHGHH9QZX0ASZSYV.md) - 2026-04-27
 - [网页中设置自动发现 RSS](notes/01K6YZA4NRGR46T7MQ20Y78JDE.md) - 2025-10-07
 
 <a id="hyperfine"></a>
@@ -359,6 +363,10 @@ Last updated: 2026-04-26
 <a id="ios"></a>
 ### ios
 - [iOS 截图自定义时间和 wifi](notes/01KDJJDDH83YGMFERQ2MA4W34S.md) - 2025-12-28
+
+<a id="javascript"></a>
+### javascript
+- [Workflowy 的 inline editing 实现](notes/01KQ7NYX6YDHGHH9QZX0ASZSYV.md) - 2026-04-27
 
 <a id="jellyfin"></a>
 ### jellyfin
@@ -608,6 +616,10 @@ Last updated: 2026-04-26
 <a id="windows-management"></a>
 ### windows-management
 - [macOS 配置任意位置可以拖拽窗口](notes/01KF35D2Z22MQS20HPWRP5VSZ4.md) - 2026-01-16
+
+<a id="workflowy"></a>
+### workflowy
+- [Workflowy 的 inline editing 实现](notes/01KQ7NYX6YDHGHH9QZX0ASZSYV.md) - 2026-04-27
 
 <a id="zsh"></a>
 ### zsh
