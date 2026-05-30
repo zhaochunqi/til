@@ -4,7 +4,7 @@
 <!-- BEGINNING OF NOTES INDEX HOOK -->
 ## Notes by Tag
 
-Last updated: 2026-04-27
+Last updated: 2026-05-31
 
 ### Tags
 - [acme](#acme)
@@ -317,6 +317,7 @@ Last updated: 2026-04-27
 
 <a id="github"></a>
 ### github
+- [GitHub token 格式不要写死长度](notes/01KSXG629H9S3VKGCV5PPJWHSP.md) - 2026-05-31
 - [使用 Software Heritage Archive 下载已删除的代码](notes/01KEB8SG19EVVTGJZQ9M70HZYY.md) - 2026-01-07
 - [10s 生成代码审查的链接](notes/01KE6W1NM5NTBPWWP6KNT5PM35.md) - 2026-01-05
 - [github action 中开启 pr 权限](notes/01KCDNN88DV6E98NE4T0YGAYWV.md) - 2025-12-14
@@ -324,6 +325,7 @@ Last updated: 2026-04-27
 
 <a id="github-action"></a>
 ### github-action
+- [GitHub token 格式不要写死长度](notes/01KSXG629H9S3VKGCV5PPJWHSP.md) - 2026-05-31
 - [使用 post 请求触发 github action](notes/01KCGQTW0QZG459XNH7YWCPW68.md) - 2025-12-15
 - [github action 中开启 pr 权限](notes/01KCDNN88DV6E98NE4T0YGAYWV.md) - 2025-12-14
 
@@ -511,6 +513,7 @@ Last updated: 2026-04-27
 
 <a id="security"></a>
 ### security
+- [GitHub token 格式不要写死长度](notes/01KSXG629H9S3VKGCV5PPJWHSP.md) - 2026-05-31
 - [公司如何审计 HTTPS 访问](notes/01KN7ZM56WW2W1JQZKJZTGJTWR.md) - 2026-04-03
 - [网页上保护 email 地址的方法](notes/01KN73PDFRQD9F17T5PA0FNSVH.md) - 2026-04-02
 
