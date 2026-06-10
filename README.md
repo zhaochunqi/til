@@ -19,6 +19,7 @@ Last updated: 2026-06-10
 - [bitwarden](#bitwarden)
 - [capslock](#capslock)
 - [cert](#cert)
+- [certificate](#certificate)
 - [chrome](#chrome)
 - [clash](#clash)
 - [cli](#cli)
@@ -70,6 +71,7 @@ Last updated: 2026-06-10
 - [logseq](#logseq)
 - [macos](#macos)
 - [miniflux](#miniflux)
+- [monitoring](#monitoring)
 - [network](#network)
 - [nix](#nix)
 - [nixos](#nixos)
@@ -93,6 +95,7 @@ Last updated: 2026-06-10
 - [shell](#shell)
 - [ssh](#ssh)
 - [ssh-agent](#ssh-agent)
+- [ssl](#ssl)
 - [starship](#starship)
 - [surge](#surge)
 - [terminal](#terminal)
@@ -179,6 +182,10 @@ Last updated: 2026-06-10
 - [删除 acme.json 中不再使用的证书](notes/01KDZY73QRJNX2PKDDQR96XC6V.md) - 2026-01-03
 - [Traefik 中 dns01 自动签发之后会删除 CNAME 记录](notes/01KC6A5BVR05K5ZZAZKAERKH3Y.md) - 2025-12-11
 
+<a id="certificate"></a>
+### certificate
+- [使用 CertMonitor 监控 SSL 证书过期](notes/01KTS0QZJJMH8MJ0RKT2P16A3A.md) - 2026-06-10
+
 <a id="chrome"></a>
 ### chrome
 - [如何判断网页哪个字体生效](notes/01KDRN8P8FBTYPRABR9BTQ4H95.md) - 2025-12-31
@@ -228,6 +235,7 @@ Last updated: 2026-06-10
 
 <a id="devops"></a>
 ### devops
+- [使用 CertMonitor 监控 SSL 证书过期](notes/01KTS0QZJJMH8MJ0RKT2P16A3A.md) - 2026-06-10
 - [Unleash: Feature Toggle 管理平台](notes/01KEAQP6RGAQ62GYQ3XQNXZEKJ.md) - 2026-01-07
 
 <a id="direnv"></a>
@@ -433,6 +441,10 @@ Last updated: 2026-06-10
 ### miniflux
 - [use miniflux on ipad with netnewswire](notes/01KD1140CPYSD4QRFEXT2DE27T.md) - 2025-12-22
 
+<a id="monitoring"></a>
+### monitoring
+- [使用 CertMonitor 监控 SSL 证书过期](notes/01KTS0QZJJMH8MJ0RKT2P16A3A.md) - 2026-06-10
+
 <a id="network"></a>
 ### network
 - [公司如何审计 HTTPS 访问](notes/01KN7ZM56WW2W1JQZKJZTGJTWR.md) - 2026-04-03
@@ -539,6 +551,10 @@ Last updated: 2026-06-10
 <a id="ssh-agent"></a>
 ### ssh-agent
 - [Bitwarden SSH Agent 指定特定密钥](notes/01KGJ56MP8KH85SVBCH0YP30T2.md) - 2026-02-04
+
+<a id="ssl"></a>
+### ssl
+- [使用 CertMonitor 监控 SSL 证书过期](notes/01KTS0QZJJMH8MJ0RKT2P16A3A.md) - 2026-06-10
 
 <a id="starship"></a>
 ### starship
