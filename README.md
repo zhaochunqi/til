@@ -4,7 +4,7 @@
 <!-- BEGINNING OF NOTES INDEX HOOK -->
 ## Notes by Tag
 
-Last updated: 2026-05-31
+Last updated: 2026-06-10
 
 ### Tags
 - [acme](#acme)
@@ -14,6 +14,7 @@ Last updated: 2026-05-31
 - [antigravity](#antigravity)
 - [arm](#arm)
 - [beads](#beads)
+- [biology](#biology)
 - [bitbucket](#bitbucket)
 - [bitwarden](#bitwarden)
 - [capslock](#capslock)
@@ -42,6 +43,7 @@ Last updated: 2026-05-31
 - [fcitx5](#fcitx5)
 - [feature-toggle](#feature-toggle)
 - [font](#font)
+- [food](#food)
 - [freshrss](#freshrss)
 - [gatekeeper](#gatekeeper)
 - [gfw](#gfw)
@@ -151,6 +153,10 @@ Last updated: 2026-05-31
 <a id="beads"></a>
 ### beads
 - [beads Error: operation failed: failed to get ready work](notes/01KCY8SW3QQ6M8C8NTFBNG5WDA.md) - 2025-12-21
+
+<a id="biology"></a>
+### biology
+- [食用鸡蛋是未受精的无法孵化](notes/01KTS0GT60YX5NESRSRPZ2C16K.md) - 2026-06-10
 
 <a id="bitbucket"></a>
 ### bitbucket
@@ -280,6 +286,10 @@ Last updated: 2026-05-31
 <a id="font"></a>
 ### font
 - [如何判断网页哪个字体生效](notes/01KDRN8P8FBTYPRABR9BTQ4H95.md) - 2025-12-31
+
+<a id="food"></a>
+### food
+- [食用鸡蛋是未受精的无法孵化](notes/01KTS0GT60YX5NESRSRPZ2C16K.md) - 2026-06-10
 
 <a id="freshrss"></a>
 ### freshrss
