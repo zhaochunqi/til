@@ -4,7 +4,7 @@
 <!-- BEGINNING OF NOTES INDEX HOOK -->
 ## Notes by Tag
 
-Last updated: 2026-06-10
+Last updated: 2026-06-30
 
 ### Tags
 - [acme](#acme)
@@ -48,6 +48,7 @@ Last updated: 2026-06-10
 - [freshrss](#freshrss)
 - [gatekeeper](#gatekeeper)
 - [gfw](#gfw)
+- [ghcr](#ghcr)
 - [git](#git)
 - [git-open](#git-open)
 - [gitea](#gitea)
@@ -257,6 +258,7 @@ Last updated: 2026-06-10
 
 <a id="docker"></a>
 ### docker
+- [GHCR multi-arch 镜像为什么会出现很多 untagged](notes/01KWCEH8K3GXSGNYF9TMJQA3T3.md) - 2026-06-30
 - [Docker Compose tty 和 stdin_open 配置](notes/01KNRV3BMDM7WT8MCKXBY47R1J.md) - 2026-04-09
 - [Docker Compose 自定义卷名](notes/01KJ60C63N9YJZBJVTNFCYPQWG.md) - 2026-02-24
 - [Docker Compose healthcheck 优先级](notes/01KJ112KN4Y1R8VFSWSZVK176K.md) - 2026-02-22
@@ -311,6 +313,10 @@ Last updated: 2026-06-10
 ### gfw
 - [nixos install clash](notes/01KB44BDBRQ2HWAWC42Y8XRD76.md) - 2025-11-28
 
+<a id="ghcr"></a>
+### ghcr
+- [GHCR multi-arch 镜像为什么会出现很多 untagged](notes/01KWCEH8K3GXSGNYF9TMJQA3T3.md) - 2026-06-30
+
 <a id="git"></a>
 ### git
 - [git diff 别名: 用 ds 调用 delta](notes/01KGTG2E1NQEZ2CSDAV8WFQ1B9.md) - 2026-02-07
@@ -335,6 +341,7 @@ Last updated: 2026-06-10
 
 <a id="github"></a>
 ### github
+- [GHCR multi-arch 镜像为什么会出现很多 untagged](notes/01KWCEH8K3GXSGNYF9TMJQA3T3.md) - 2026-06-30
 - [GitHub token 格式不要写死长度](notes/01KSXG629H9S3VKGCV5PPJWHSP.md) - 2026-05-31
 - [使用 Software Heritage Archive 下载已删除的代码](notes/01KEB8SG19EVVTGJZQ9M70HZYY.md) - 2026-01-07
 - [10s 生成代码审查的链接](notes/01KE6W1NM5NTBPWWP6KNT5PM35.md) - 2026-01-05
@@ -343,6 +350,7 @@ Last updated: 2026-06-10
 
 <a id="github-action"></a>
 ### github-action
+- [GHCR multi-arch 镜像为什么会出现很多 untagged](notes/01KWCEH8K3GXSGNYF9TMJQA3T3.md) - 2026-06-30
 - [GitHub token 格式不要写死长度](notes/01KSXG629H9S3VKGCV5PPJWHSP.md) - 2026-05-31
 - [使用 post 请求触发 github action](notes/01KCGQTW0QZG459XNH7YWCPW68.md) - 2025-12-15
 - [github action 中开启 pr 权限](notes/01KCDNN88DV6E98NE4T0YGAYWV.md) - 2025-12-14
@@ -678,6 +686,7 @@ Last updated: 2026-06-10
 
 <a id="tag"></a>
 ### 构建
+- [GHCR multi-arch 镜像为什么会出现很多 untagged](notes/01KWCEH8K3GXSGNYF9TMJQA3T3.md) - 2026-06-30
 - [macos 下加速构建速度的技巧](notes/01KDG6RVWZ2GCRVX0NDCNMKY5J.md) - 2025-12-27
 
 <a id="tag"></a>
