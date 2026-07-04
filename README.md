@@ -4,7 +4,7 @@
 <!-- BEGINNING OF NOTES INDEX HOOK -->
 ## Notes by Tag
 
-Last updated: 2026-06-30
+Last updated: 2026-07-05
 
 ### Tags
 - [acme](#acme)
@@ -91,6 +91,7 @@ Last updated: 2026-06-30
 - [reddit](#reddit)
 - [region](#region)
 - [rss](#rss)
+- [safari](#safari)
 - [screenshot](#screenshot)
 - [security](#security)
 - [shell](#shell)
@@ -105,6 +106,7 @@ Last updated: 2026-06-30
 - [traefik](#traefik)
 - [tty](#tty)
 - [ui](#ui)
+- [universal-links](#universal-links)
 - [unix](#unix)
 - [unleash](#unleash)
 - [uuid](#uuid)
@@ -390,6 +392,7 @@ Last updated: 2026-06-30
 
 <a id="ios"></a>
 ### ios
+- [Safari 提示可下载 App 的机制](notes/01KWPZH1005Z43Y5EY2EZJD7RX.md) - 2026-07-05
 - [iOS 截图自定义时间和 wifi](notes/01KDJJDDH83YGMFERQ2MA4W34S.md) - 2025-12-28
 
 <a id="javascript"></a>
@@ -537,6 +540,10 @@ Last updated: 2026-06-30
 - [网页中设置自动发现 RSS](notes/01K6YZA4NRGR46T7MQ20Y78JDE.md) - 2025-10-07
 - [reddit rss for sub reddits](notes/01K6YYWVW04PSBKTATNEQZYRQM.md) - 2025-10-07
 
+<a id="safari"></a>
+### safari
+- [Safari 提示可下载 App 的机制](notes/01KWPZH1005Z43Y5EY2EZJD7RX.md) - 2026-07-05
+
 <a id="screenshot"></a>
 ### screenshot
 - [iOS 截图自定义时间和 wifi](notes/01KDJJDDH83YGMFERQ2MA4W34S.md) - 2025-12-28
@@ -601,6 +608,10 @@ Last updated: 2026-06-30
 ### ui
 - [先学领域词汇再让 AI 干活](notes/01KQ3PA3004N8VQQJGVQSD21YC.md) - 2026-04-26
 
+<a id="universal-links"></a>
+### universal-links
+- [Safari 提示可下载 App 的机制](notes/01KWPZH1005Z43Y5EY2EZJD7RX.md) - 2026-07-05
+
 <a id="unix"></a>
 ### unix
 - [/usr/bin/env 的作用与用法](notes/01KGCE03ES9JZY0E36NP6AGVBE.md) - 2026-02-01
@@ -633,6 +644,7 @@ Last updated: 2026-06-30
 
 <a id="web"></a>
 ### web
+- [Safari 提示可下载 App 的机制](notes/01KWPZH1005Z43Y5EY2EZJD7RX.md) - 2026-07-05
 - [网页上保护 email 地址的方法](notes/01KN73PDFRQD9F17T5PA0FNSVH.md) - 2026-04-02
 
 <a id="webdev"></a>
