@@ -4,13 +4,14 @@
 <!-- BEGINNING OF NOTES INDEX HOOK -->
 ## Notes by Tag
 
-Last updated: 2026-07-05
+Last updated: 2026-07-14
 
 ### Tags
 - [acme](#acme)
 - [ai](#ai)
 - [ai-agent](#ai-agent)
 - [ai-review](#ai-review)
+- [aliyun](#aliyun)
 - [antigravity](#antigravity)
 - [arm](#arm)
 - [beads](#beads)
@@ -23,6 +24,7 @@ Last updated: 2026-07-05
 - [chrome](#chrome)
 - [clash](#clash)
 - [cli](#cli)
+- [cloudflare](#cloudflare)
 - [compose](#compose)
 - [coverage](#coverage)
 - [cronjob](#cronjob)
@@ -38,6 +40,7 @@ Last updated: 2026-07-05
 - [dns01](#dns01)
 - [docker](#docker)
 - [docker-compose](#docker-compose)
+- [domain](#domain)
 - [emacs](#emacs)
 - [embeddings](#embeddings)
 - [env](#env)
@@ -148,6 +151,10 @@ Last updated: 2026-07-05
 ### ai-review
 - [10s 生成代码审查的链接](notes/01KE6W1NM5NTBPWWP6KNT5PM35.md) - 2026-01-05
 
+<a id="aliyun"></a>
+### aliyun
+- [阿里云域名使用 Cloudflare DNS 无需备案](notes/01KXEB0WZHNP2H5N54BPQ2562N.md) - 2026-07-14
+
 <a id="antigravity"></a>
 ### antigravity
 - [Antigravity 无法登录问题](notes/01KDAZ4RPJ82R12EZF71A4XY5V.md) - 2025-12-25
@@ -203,6 +210,10 @@ Last updated: 2026-07-05
 - [macOS 下获取操作系统和架构](notes/01KCNV2AGP3RXP294T6JVMXY75.md) - 2025-12-17
 - [获取终端命令运行的平均时间](notes/01KC93NW0AEVV9Q51PC36JW0F4.md) - 2025-12-12
 
+<a id="cloudflare"></a>
+### cloudflare
+- [阿里云域名使用 Cloudflare DNS 无需备案](notes/01KXEB0WZHNP2H5N54BPQ2562N.md) - 2026-07-14
+
 <a id="compose"></a>
 ### compose
 - [Docker Compose tty 和 stdin_open 配置](notes/01KNRV3BMDM7WT8MCKXBY47R1J.md) - 2026-04-09
@@ -252,6 +263,7 @@ Last updated: 2026-07-05
 
 <a id="dns"></a>
 ### dns
+- [阿里云域名使用 Cloudflare DNS 无需备案](notes/01KXEB0WZHNP2H5N54BPQ2562N.md) - 2026-07-14
 - [Traefik 中 dns01 自动签发之后会删除 CNAME 记录](notes/01KC6A5BVR05K5ZZAZKAERKH3Y.md) - 2025-12-11
 
 <a id="dns01"></a>
@@ -272,6 +284,10 @@ Last updated: 2026-07-05
 - [Docker Compose 自定义卷名](notes/01KJ60C63N9YJZBJVTNFCYPQWG.md) - 2026-02-24
 - [Docker Compose healthcheck 优先级](notes/01KJ112KN4Y1R8VFSWSZVK176K.md) - 2026-02-22
 - [docker compose 中添加资源限制](notes/01K6QSK66RYS2ZWZQ09F5N0FDX.md) - 2025-10-04
+
+<a id="domain"></a>
+### domain
+- [阿里云域名使用 Cloudflare DNS 无需备案](notes/01KXEB0WZHNP2H5N54BPQ2562N.md) - 2026-07-14
 
 <a id="emacs"></a>
 ### emacs
