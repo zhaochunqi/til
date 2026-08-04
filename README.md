@@ -4,7 +4,7 @@
 <!-- BEGINNING OF NOTES INDEX HOOK -->
 ## Notes by Tag
 
-Last updated: 2026-07-14
+Last updated: 2026-08-05
 
 ### Tags
 - [acme](#acme)
@@ -30,6 +30,7 @@ Last updated: 2026-07-14
 - [cronjob](#cronjob)
 - [css](#css)
 - [curl](#curl)
+- [deepl](#deepl)
 - [delta](#delta)
 - [deployment](#deployment)
 - [design](#design)
@@ -91,6 +92,7 @@ Last updated: 2026-07-14
 - [quicklink](#quicklink)
 - [raycast](#raycast)
 - [rbw](#rbw)
+- [readfrog](#readfrog)
 - [reddit](#reddit)
 - [region](#region)
 - [rss](#rss)
@@ -107,6 +109,7 @@ Last updated: 2026-07-14
 - [testing](#testing)
 - [tls](#tls)
 - [traefik](#traefik)
+- [translate](#translate)
 - [tty](#tty)
 - [ui](#ui)
 - [universal-links](#universal-links)
@@ -234,6 +237,10 @@ Last updated: 2026-07-14
 <a id="curl"></a>
 ### curl
 - [使用 post 请求触发 github action](notes/01KCGQTW0QZG459XNH7YWCPW68.md) - 2025-12-15
+
+<a id="deepl"></a>
+### deepl
+- [linux.do 免费 DeepLx 密钥配置到陪读蛙](notes/01KZ72QKBWTY2PJ4T01Z4C3Q89.md) - 2026-08-05
 
 <a id="delta"></a>
 ### delta
@@ -542,6 +549,10 @@ Last updated: 2026-07-14
 - [修复 macos 下使用 rbw 获取密钥卡顿](notes/01KD8H0C73KVSSNAP9GFMMF46J.md) - 2025-12-24
 - [direnv 配合 rbw 一起使用](notes/01KCGZ1VNBESN6SDNK01CB4EX2.md) - 2025-12-15
 
+<a id="readfrog"></a>
+### readfrog
+- [linux.do 免费 DeepLx 密钥配置到陪读蛙](notes/01KZ72QKBWTY2PJ4T01Z4C3Q89.md) - 2026-08-05
+
 <a id="reddit"></a>
 ### reddit
 - [reddit rss for sub reddits](notes/01K6YYWVW04PSBKTATNEQZYRQM.md) - 2025-10-07
@@ -615,6 +626,10 @@ Last updated: 2026-07-14
 ### traefik
 - [删除 acme.json 中不再使用的证书](notes/01KDZY73QRJNX2PKDDQR96XC6V.md) - 2026-01-03
 - [Traefik 中 dns01 自动签发之后会删除 CNAME 记录](notes/01KC6A5BVR05K5ZZAZKAERKH3Y.md) - 2025-12-11
+
+<a id="translate"></a>
+### translate
+- [linux.do 免费 DeepLx 密钥配置到陪读蛙](notes/01KZ72QKBWTY2PJ4T01Z4C3Q89.md) - 2026-08-05
 
 <a id="tty"></a>
 ### tty
