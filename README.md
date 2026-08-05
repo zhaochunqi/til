@@ -87,6 +87,7 @@ Last updated: 2026-08-05
 - [port](#port)
 - [posix](#posix)
 - [pr](#pr)
+- [productivity](#productivity)
 - [prompt](#prompt)
 - [python](#python)
 - [quicklink](#quicklink)
@@ -201,6 +202,7 @@ Last updated: 2026-08-05
 
 <a id="chrome"></a>
 ### chrome
+- [Open With for GitHub：从 GitHub 打开 DeepWiki 与本地 Logseq/VSCode](notes/01KZ90S8XNQ4VPN15RQFA73QMZ.md) - 2026-08-05
 - [如何判断网页哪个字体生效](notes/01KDRN8P8FBTYPRABR9BTQ4H95.md) - 2025-12-31
 
 <a id="clash"></a>
@@ -366,6 +368,7 @@ Last updated: 2026-08-05
 
 <a id="github"></a>
 ### github
+- [Open With for GitHub：从 GitHub 打开 DeepWiki 与本地 Logseq/VSCode](notes/01KZ90S8XNQ4VPN15RQFA73QMZ.md) - 2026-08-05
 - [GHCR multi-arch 镜像为什么会出现很多 untagged](notes/01KWCEH8K3GXSGNYF9TMJQA3T3.md) - 2026-06-30
 - [GitHub token 格式不要写死长度](notes/01KSXG629H9S3VKGCV5PPJWHSP.md) - 2026-05-31
 - [使用 Software Heritage Archive 下载已删除的代码](notes/01KEB8SG19EVVTGJZQ9M70HZYY.md) - 2026-01-07
@@ -525,6 +528,10 @@ Last updated: 2026-08-05
 ### pr
 - [10s 生成代码审查的链接](notes/01KE6W1NM5NTBPWWP6KNT5PM35.md) - 2026-01-05
 - [github action 中开启 pr 权限](notes/01KCDNN88DV6E98NE4T0YGAYWV.md) - 2025-12-14
+
+<a id="productivity"></a>
+### productivity
+- [Open With for GitHub：从 GitHub 打开 DeepWiki 与本地 Logseq/VSCode](notes/01KZ90S8XNQ4VPN15RQFA73QMZ.md) - 2026-08-05
 
 <a id="prompt"></a>
 ### prompt
