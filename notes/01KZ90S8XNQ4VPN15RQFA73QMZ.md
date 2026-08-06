@@ -14,10 +14,14 @@ date: 2026-08-05
 
 ## 原理
 
-利用 GitHub 仓库页当前的 `owner/repo` 拼出目标地址，并用 `chrome.tabs` 或 URL scheme 打开：
+利用 GitHub 仓库页当前的 `owner/repo` 拼出目标地址，并用 `chrome.tabs` 或 URL scheme 打开。
+
+## 实际配置（ghq 管理，本地路径 `~/ghq/github.com/{owner}/{repo}`）
 
 - DeepWiki：`https://deepwiki.com/{owner}/{repo}`
-- 本地应用：通过自定义 url scheme，如 `hjson.todo://...`、`obsidian://...`、`vscode://`
+- Logseq：`logseq://graph/MyLifeRecorded?page=github.com/{owner}/{repo}`
+- Zed：`zed://file/Users/zhaochunqi/ghq/github.com/{owner}/{repo}`
+- VSCode：`vscode://file/Users/zhaochunqi/ghq/github.com/{owner}/{repo}`
 
 ## 示例代码
 
@@ -32,11 +36,12 @@ const repo = match[2];
 // 打开 DeepWiki
 chrome.tabs.create({ url: `https://deepwiki.com/${owner}/${repo}` });
 
-// 打开本地应用（vscode）
-location.href = `vscode://${owner}/${repo}`;
+// 打开本地应用（ghq 路径，注意需要 encode 路径中的空格等字符）
+location.href =
+  `vscode://file/Users/zhaochunqi/ghq/github.com/${owner}/${repo}`;
 ```
 
 ## 注意
 
-- 本地 url scheme 需要系统已注册对应 handler（如 VSCode 默认注册 `vscode://`），否则会被浏览器忽略。
+- 本地 url scheme 需要系统已注册对应 handler（VSCode 默认注册 `vscode://`，Zed 注册 `zed://`），否则会被浏览器忽略。
 
