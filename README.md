@@ -82,6 +82,7 @@ Last updated: 2026-08-08
 - [nixos](#nixos)
 - [opencode](#opencode)
 - [password](#password)
+- [pi](#pi)
 - [pinentry](#pinentry)
 - [pkill](#pkill)
 - [port](#port)
@@ -89,6 +90,7 @@ Last updated: 2026-08-08
 - [pr](#pr)
 - [productivity](#productivity)
 - [prompt](#prompt)
+- [proxy](#proxy)
 - [python](#python)
 - [quicklink](#quicklink)
 - [raycast](#raycast)
@@ -464,6 +466,7 @@ Last updated: 2026-08-08
 
 <a id="macos"></a>
 ### macos
+- [pi fetch 被 fake-IP 代理拦截](notes/01KZER0ZG7H3A2F31EBPAV0657.md) - 2026-08-08
 - [homebrew cask install 与 brew bundle 的区别](notes/01KGAS8FE8ZS95EQP2ZGPN4R75.md) - 2026-02-01
 - [macOS 配置任意位置可以拖拽窗口](notes/01KF35D2Z22MQS20HPWRP5VSZ4.md) - 2026-01-16
 - [Go CLI 工具更适合通过 Homebrew Cask 分发预编译二进制](notes/01KF07J6QEZHR6ZKT7QHAJGHP8.md) - 2026-01-15
@@ -510,6 +513,10 @@ Last updated: 2026-08-08
 ### password
 - [google 创建 app passwords](notes/01KDACRSX2JARFQR8PRQBN9NKH.md) - 2025-12-25
 
+<a id="pi"></a>
+### pi
+- [pi fetch 被 fake-IP 代理拦截](notes/01KZER0ZG7H3A2F31EBPAV0657.md) - 2026-08-08
+
 <a id="pinentry"></a>
 ### pinentry
 - [修复 macos 下使用 rbw 获取密钥卡顿](notes/01KD8H0C73KVSSNAP9GFMMF46J.md) - 2025-12-24
@@ -539,6 +546,10 @@ Last updated: 2026-08-08
 ### prompt
 - [老照片修复 prompt](notes/01KD2E2Z70PS89EPKX84ERDHGM.md) - 2025-12-22
 - [LangChain Agent 工具调用信任问题的 Prompt 解决方案](notes/01K7YW7HJG087840V22WGZZMQ6.md) - 2025-10-20
+
+<a id="proxy"></a>
+### proxy
+- [pi fetch 被 fake-IP 代理拦截](notes/01KZER0ZG7H3A2F31EBPAV0657.md) - 2026-08-08
 
 <a id="python"></a>
 ### python
