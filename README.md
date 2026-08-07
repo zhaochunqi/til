@@ -4,7 +4,7 @@
 <!-- BEGINNING OF NOTES INDEX HOOK -->
 ## Notes by Tag
 
-Last updated: 2026-08-05
+Last updated: 2026-08-08
 
 ### Tags
 - [acme](#acme)
@@ -96,6 +96,7 @@ Last updated: 2026-08-05
 - [readfrog](#readfrog)
 - [reddit](#reddit)
 - [region](#region)
+- [renovate](#renovate)
 - [rss](#rss)
 - [safari](#safari)
 - [screenshot](#screenshot)
@@ -368,6 +369,7 @@ Last updated: 2026-08-05
 
 <a id="github"></a>
 ### github
+- [Renovate 免费版私有仓库的 automerge 配置](notes/01KZENXYBZWCHJNWJW5X8VY7P1.md) - 2026-08-08
 - [Open With for GitHub：从 GitHub 打开 DeepWiki 与本地 Logseq/VSCode](notes/01KZ90S8XNQ4VPN15RQFA73QMZ.md) - 2026-08-05
 - [GHCR multi-arch 镜像为什么会出现很多 untagged](notes/01KWCEH8K3GXSGNYF9TMJQA3T3.md) - 2026-06-30
 - [GitHub token 格式不要写死长度](notes/01KSXG629H9S3VKGCV5PPJWHSP.md) - 2026-05-31
@@ -567,6 +569,10 @@ Last updated: 2026-08-05
 <a id="region"></a>
 ### region
 - [Antigravity 无法登录问题](notes/01KDAZ4RPJ82R12EZF71A4XY5V.md) - 2025-12-25
+
+<a id="renovate"></a>
+### renovate
+- [Renovate 免费版私有仓库的 automerge 配置](notes/01KZENXYBZWCHJNWJW5X8VY7P1.md) - 2026-08-08
 
 <a id="rss"></a>
 ### rss
