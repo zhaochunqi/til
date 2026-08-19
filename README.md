@@ -4,7 +4,7 @@
 <!-- BEGINNING OF NOTES INDEX HOOK -->
 ## Notes by Tag
 
-Last updated: 2026-08-08
+Last updated: 2026-08-19
 
 ### Tags
 - [acme](#acme)
@@ -65,10 +65,13 @@ Last updated: 2026-08-08
 - [homebrew](#homebrew)
 - [html](#html)
 - [hyperfine](#hyperfine)
+- [ingress](#ingress)
 - [ios](#ios)
 - [javascript](#javascript)
 - [jellyfin](#jellyfin)
 - [kitty](#kitty)
+- [kubectl](#kubectl)
+- [kubernetes](#kubernetes)
 - [langchain](#langchain)
 - [layout-shift](#layout-shift)
 - [linux](#linux)
@@ -420,6 +423,10 @@ Last updated: 2026-08-08
 ### hyperfine
 - [获取终端命令运行的平均时间](notes/01KC93NW0AEVV9Q51PC36JW0F4.md) - 2025-12-12
 
+<a id="ingress"></a>
+### ingress
+- [kubectl create ingress 的 tls host 与 rule host 绑定](notes/01M0BQK6AVRPF6546B26MRM0FK.md) - 2026-08-19
+
 <a id="ios"></a>
 ### ios
 - [Safari 提示可下载 App 的机制](notes/01KWPZH1005Z43Y5EY2EZJD7RX.md) - 2026-07-05
@@ -436,6 +443,14 @@ Last updated: 2026-08-08
 <a id="kitty"></a>
 ### kitty
 - [kitty 下使用 fcitx5 的问题](notes/01KD788PBV10B31ABJR1FF3MPG.md) - 2025-12-24
+
+<a id="kubectl"></a>
+### kubectl
+- [kubectl create ingress 的 tls host 与 rule host 绑定](notes/01M0BQK6AVRPF6546B26MRM0FK.md) - 2026-08-19
+
+<a id="kubernetes"></a>
+### kubernetes
+- [kubectl create ingress 的 tls host 与 rule host 绑定](notes/01M0BQK6AVRPF6546B26MRM0FK.md) - 2026-08-19
 
 <a id="langchain"></a>
 ### langchain
