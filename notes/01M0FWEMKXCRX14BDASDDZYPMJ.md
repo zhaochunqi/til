@@ -42,6 +42,15 @@ ls /home/laborant/config/
 # database.conf  feature-flags.conf  logging.conf  server.conf
 ```
 
+## 通用注意点与变体
+
+- **exec 不要加 `-t`（TTY）**：TTY 会对输出做换行转换，污染二进制归档流；无 TTY 的 exec 才是干净的 stdin/stdout 回传
+- **`-C` 目标目录必须先存在**：`tar` 不会自动创建目录，会报 `Cannot open` 之类错误，先 `mkdir -p /home/laborant/config`
+- **等价写法**：左侧 `tar cf - -C /app config` 时归档成员只有 `config/...` 一级前缀，右侧只需 `--strip-components=1`；与"绝对路径 + strip 2"语义等价，任选一种保持一致
+- **压缩变体**：网络较慢时左侧 `tar czf -`（gzip 压缩），右侧 `tar xzf -` 解压
+- **依赖**：Pod 内需装有 `tar`（busybox/distroless 镜像可能没有，报 `exec: tar: not found`）；本地的 `--strip-components` 由 GNU tar / bsdtar 提供，macOS / Linux 均有
+- **权限**：非 root 解包时文件 owner 会变成当前用户（tar 仅在 root 下默认保留 owner），通常无碍
+
 ## 获取运行中的 pod 名
 
 ```bash
