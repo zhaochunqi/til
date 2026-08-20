@@ -113,6 +113,7 @@ Last updated: 2026-08-20
 - [ssl](#ssl)
 - [starship](#starship)
 - [surge](#surge)
+- [tar](#tar)
 - [terminal](#terminal)
 - [testing](#testing)
 - [tls](#tls)
@@ -457,6 +458,7 @@ Last updated: 2026-08-20
 <a id="kubernetes"></a>
 ### kubernetes
 - [从运行中的 Pod 复制 ConfigMap 配置文件](notes/01M0FWEMKXCRX14BDASDDZYPMJ.md) - 2026-08-20
+- [tar 管道不落盘传输文件与目录](notes/01M0FXH03FSDXYHZJSJWHP0HHK.md) - 2026-08-20
 - [kubectl create ingress 的 tls host 与 rule host 绑定](notes/01M0BQK6AVRPF6546B26MRM0FK.md) - 2026-08-19
 
 <a id="langchain"></a>
@@ -554,6 +556,7 @@ Last updated: 2026-08-20
 
 <a id="posix"></a>
 ### posix
+- [tar 管道不落盘传输文件与目录](notes/01M0FXH03FSDXYHZJSJWHP0HHK.md) - 2026-08-20
 - [终端的输出自带换行](notes/01KDV15QTZC1V304GZYXT8H6KY.md) - 2026-01-01
 
 <a id="pr"></a>
@@ -630,6 +633,7 @@ Last updated: 2026-08-20
 
 <a id="shell"></a>
 ### shell
+- [tar 管道不落盘传输文件与目录](notes/01M0FXH03FSDXYHZJSJWHP0HHK.md) - 2026-08-20
 - [/usr/bin/env 的作用与用法](notes/01KGCE03ES9JZY0E36NP6AGVBE.md) - 2026-02-01
 - [cronjob 中的环境变量问题](notes/01K8P9SK98QB8BHMEQN58M3AZB.md) - 2025-10-29
 
@@ -652,6 +656,10 @@ Last updated: 2026-08-20
 <a id="surge"></a>
 ### surge
 - [windows 手机连接区域限制](notes/01K8KQVTSRVSVHBFERTTE2QX8Y.md) - 2025-10-28
+
+<a id="tar"></a>
+### tar
+- [tar 管道不落盘传输文件与目录](notes/01M0FXH03FSDXYHZJSJWHP0HHK.md) - 2026-08-20
 
 <a id="terminal"></a>
 ### terminal
