@@ -4,7 +4,7 @@
 <!-- BEGINNING OF NOTES INDEX HOOK -->
 ## Notes by Tag
 
-Last updated: 2026-08-19
+Last updated: 2026-08-20
 
 ### Tags
 - [acme](#acme)
@@ -26,6 +26,7 @@ Last updated: 2026-08-19
 - [cli](#cli)
 - [cloudflare](#cloudflare)
 - [compose](#compose)
+- [configmap](#configmap)
 - [coverage](#coverage)
 - [cronjob](#cronjob)
 - [css](#css)
@@ -228,6 +229,10 @@ Last updated: 2026-08-19
 <a id="compose"></a>
 ### compose
 - [Docker Compose tty 和 stdin_open 配置](notes/01KNRV3BMDM7WT8MCKXBY47R1J.md) - 2026-04-09
+
+<a id="configmap"></a>
+### configmap
+- [从运行中的 Pod 复制 ConfigMap 配置文件](notes/01M0FWEMKXCRX14BDASDDZYPMJ.md) - 2026-08-20
 
 <a id="coverage"></a>
 ### coverage
@@ -446,10 +451,12 @@ Last updated: 2026-08-19
 
 <a id="kubectl"></a>
 ### kubectl
+- [从运行中的 Pod 复制 ConfigMap 配置文件](notes/01M0FWEMKXCRX14BDASDDZYPMJ.md) - 2026-08-20
 - [kubectl create ingress 的 tls host 与 rule host 绑定](notes/01M0BQK6AVRPF6546B26MRM0FK.md) - 2026-08-19
 
 <a id="kubernetes"></a>
 ### kubernetes
+- [从运行中的 Pod 复制 ConfigMap 配置文件](notes/01M0FWEMKXCRX14BDASDDZYPMJ.md) - 2026-08-20
 - [kubectl create ingress 的 tls host 与 rule host 绑定](notes/01M0BQK6AVRPF6546B26MRM0FK.md) - 2026-08-19
 
 <a id="langchain"></a>
@@ -463,6 +470,7 @@ Last updated: 2026-08-19
 
 <a id="linux"></a>
 ### linux
+- [从运行中的 Pod 复制 ConfigMap 配置文件](notes/01M0FWEMKXCRX14BDASDDZYPMJ.md) - 2026-08-20
 - [/usr/bin/env 的作用与用法](notes/01KGCE03ES9JZY0E36NP6AGVBE.md) - 2026-02-01
 - [git 下处理换行问题](notes/01KERS72RCVNXJP1F40PH26D94.md) - 2026-01-12
 - [终端的输出自带换行](notes/01KDV15QTZC1V304GZYXT8H6KY.md) - 2026-01-01
