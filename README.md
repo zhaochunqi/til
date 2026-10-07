@@ -4,7 +4,7 @@
 <!-- BEGINNING OF NOTES INDEX HOOK -->
 ## Notes by Tag
 
-Last updated: 2026-10-07
+Last updated: 2026-10-08
 
 ### Tags
 - [acme](#acme)
@@ -83,6 +83,7 @@ Last updated: 2026-10-07
 - [miniflux](#miniflux)
 - [monitoring](#monitoring)
 - [network](#network)
+- [networking](#networking)
 - [nginx](#nginx)
 - [nix](#nix)
 - [nixos](#nixos)
@@ -115,6 +116,7 @@ Last updated: 2026-10-07
 - [ssh-agent](#ssh-agent)
 - [ssl](#ssl)
 - [starship](#starship)
+- [subnet](#subnet)
 - [surge](#surge)
 - [tar](#tar)
 - [terminal](#terminal)
@@ -498,6 +500,7 @@ Last updated: 2026-10-07
 
 <a id="macos"></a>
 ### macos
+- [Surge Ponte 跨设备组网与 PROXY-HOME 自动选路](notes/01M4BK2MV5EM5NAX2AFNYVWMRZ.md) - 2026-10-08
 - [pi fetch 被 fake-IP 代理拦截](notes/01KZER0ZG7H3A2F31EBPAV0657.md) - 2026-08-08
 - [homebrew cask install 与 brew bundle 的区别](notes/01KGAS8FE8ZS95EQP2ZGPN4R75.md) - 2026-02-01
 - [macOS 配置任意位置可以拖拽窗口](notes/01KF35D2Z22MQS20HPWRP5VSZ4.md) - 2026-01-16
@@ -523,6 +526,10 @@ Last updated: 2026-10-07
 <a id="network"></a>
 ### network
 - [公司如何审计 HTTPS 访问](notes/01KN7ZM56WW2W1JQZKJZTGJTWR.md) - 2026-04-03
+
+<a id="networking"></a>
+### networking
+- [Surge Ponte 跨设备组网与 PROXY-HOME 自动选路](notes/01M4BK2MV5EM5NAX2AFNYVWMRZ.md) - 2026-10-08
 
 <a id="nginx"></a>
 ### nginx
@@ -670,8 +677,13 @@ Last updated: 2026-10-07
 ### starship
 - [Starship 中 git 分支后面有 $ 符号](notes/01KCVW870NJHDYWB5JJR6WEDQN.md) - 2025-12-20
 
+<a id="subnet"></a>
+### subnet
+- [Surge Ponte 跨设备组网与 PROXY-HOME 自动选路](notes/01M4BK2MV5EM5NAX2AFNYVWMRZ.md) - 2026-10-08
+
 <a id="surge"></a>
 ### surge
+- [Surge Ponte 跨设备组网与 PROXY-HOME 自动选路](notes/01M4BK2MV5EM5NAX2AFNYVWMRZ.md) - 2026-10-08
 - [windows 手机连接区域限制](notes/01K8KQVTSRVSVHBFERTTE2QX8Y.md) - 2025-10-28
 
 <a id="tar"></a>
