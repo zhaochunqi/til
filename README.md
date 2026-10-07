@@ -322,7 +322,7 @@ Last updated: 2026-10-08
 
 <a id="edgeone"></a>
 ### edgeone
-- [Miniflux 全文抓取撞上 Referer 人机验证的排查与绕过](notes/01M4B90A62TFD23H9J9TK17VQM.md) - 2026-10-07
+- [Miniflux 全文抓取撞上 Referer 人机验证](notes/01M4B90A62TFD23H9J9TK17VQM.md) - 2026-10-07
 
 <a id="emacs"></a>
 ### emacs
@@ -521,7 +521,7 @@ Last updated: 2026-10-08
 
 <a id="miniflux"></a>
 ### miniflux
-- [Miniflux 全文抓取撞上 Referer 人机验证的排查与绕过](notes/01M4B90A62TFD23H9J9TK17VQM.md) - 2026-10-07
+- [Miniflux 全文抓取撞上 Referer 人机验证](notes/01M4B90A62TFD23H9J9TK17VQM.md) - 2026-10-07
 - [use miniflux on ipad with netnewswire](notes/01KD1140CPYSD4QRFEXT2DE27T.md) - 2025-12-22
 
 <a id="monitoring"></a>
@@ -538,7 +538,7 @@ Last updated: 2026-10-08
 
 <a id="nginx"></a>
 ### nginx
-- [Miniflux 全文抓取撞上 Referer 人机验证的排查与绕过](notes/01M4B90A62TFD23H9J9TK17VQM.md) - 2026-10-07
+- [Miniflux 全文抓取撞上 Referer 人机验证](notes/01M4B90A62TFD23H9J9TK17VQM.md) - 2026-10-07
 
 <a id="nix"></a>
 ### nix
@@ -629,7 +629,7 @@ Last updated: 2026-10-08
 
 <a id="referer"></a>
 ### referer
-- [Miniflux 全文抓取撞上 Referer 人机验证的排查与绕过](notes/01M4B90A62TFD23H9J9TK17VQM.md) - 2026-10-07
+- [Miniflux 全文抓取撞上 Referer 人机验证](notes/01M4B90A62TFD23H9J9TK17VQM.md) - 2026-10-07
 
 <a id="region"></a>
 ### region
@@ -641,7 +641,7 @@ Last updated: 2026-10-08
 
 <a id="rss"></a>
 ### rss
-- [Miniflux 全文抓取撞上 Referer 人机验证的排查与绕过](notes/01M4B90A62TFD23H9J9TK17VQM.md) - 2026-10-07
+- [Miniflux 全文抓取撞上 Referer 人机验证](notes/01M4B90A62TFD23H9J9TK17VQM.md) - 2026-10-07
 - [use miniflux on ipad with netnewswire](notes/01KD1140CPYSD4QRFEXT2DE27T.md) - 2025-12-22
 - [网页中设置自动发现 RSS](notes/01K6YZA4NRGR46T7MQ20Y78JDE.md) - 2025-10-07
 - [reddit rss for sub reddits](notes/01K6YYWVW04PSBKTATNEQZYRQM.md) - 2025-10-07
