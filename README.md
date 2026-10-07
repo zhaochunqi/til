@@ -4,7 +4,7 @@
 <!-- BEGINNING OF NOTES INDEX HOOK -->
 ## Notes by Tag
 
-Last updated: 2026-08-20
+Last updated: 2026-10-07
 
 ### Tags
 - [acme](#acme)
@@ -43,6 +43,7 @@ Last updated: 2026-08-20
 - [docker](#docker)
 - [docker-compose](#docker-compose)
 - [domain](#domain)
+- [edgeone](#edgeone)
 - [emacs](#emacs)
 - [embeddings](#embeddings)
 - [env](#env)
@@ -82,6 +83,7 @@ Last updated: 2026-08-20
 - [miniflux](#miniflux)
 - [monitoring](#monitoring)
 - [network](#network)
+- [nginx](#nginx)
 - [nix](#nix)
 - [nixos](#nixos)
 - [opencode](#opencode)
@@ -101,6 +103,7 @@ Last updated: 2026-08-20
 - [rbw](#rbw)
 - [readfrog](#readfrog)
 - [reddit](#reddit)
+- [referer](#referer)
 - [region](#region)
 - [renovate](#renovate)
 - [rss](#rss)
@@ -310,6 +313,10 @@ Last updated: 2026-08-20
 ### domain
 - [阿里云域名使用 Cloudflare DNS 无需备案](notes/01KXEB0WZHNP2H5N54BPQ2562N.md) - 2026-07-14
 
+<a id="edgeone"></a>
+### edgeone
+- [Miniflux 全文抓取撞上 Referer 人机验证的排查与绕过](notes/01M4B90A62TFD23H9J9TK17VQM.md) - 2026-10-07
+
 <a id="emacs"></a>
 ### emacs
 - [zsh 绑定键位](notes/01KEXHP31ED7QVT6RZH0KKZ57H.md) - 2026-01-14
@@ -506,6 +513,7 @@ Last updated: 2026-08-20
 
 <a id="miniflux"></a>
 ### miniflux
+- [Miniflux 全文抓取撞上 Referer 人机验证的排查与绕过](notes/01M4B90A62TFD23H9J9TK17VQM.md) - 2026-10-07
 - [use miniflux on ipad with netnewswire](notes/01KD1140CPYSD4QRFEXT2DE27T.md) - 2025-12-22
 
 <a id="monitoring"></a>
@@ -515,6 +523,10 @@ Last updated: 2026-08-20
 <a id="network"></a>
 ### network
 - [公司如何审计 HTTPS 访问](notes/01KN7ZM56WW2W1JQZKJZTGJTWR.md) - 2026-04-03
+
+<a id="nginx"></a>
+### nginx
+- [Miniflux 全文抓取撞上 Referer 人机验证的排查与绕过](notes/01M4B90A62TFD23H9J9TK17VQM.md) - 2026-10-07
 
 <a id="nix"></a>
 ### nix
@@ -603,6 +615,10 @@ Last updated: 2026-08-20
 ### reddit
 - [reddit rss for sub reddits](notes/01K6YYWVW04PSBKTATNEQZYRQM.md) - 2025-10-07
 
+<a id="referer"></a>
+### referer
+- [Miniflux 全文抓取撞上 Referer 人机验证的排查与绕过](notes/01M4B90A62TFD23H9J9TK17VQM.md) - 2026-10-07
+
 <a id="region"></a>
 ### region
 - [Antigravity 无法登录问题](notes/01KDAZ4RPJ82R12EZF71A4XY5V.md) - 2025-12-25
@@ -613,6 +629,7 @@ Last updated: 2026-08-20
 
 <a id="rss"></a>
 ### rss
+- [Miniflux 全文抓取撞上 Referer 人机验证的排查与绕过](notes/01M4B90A62TFD23H9J9TK17VQM.md) - 2026-10-07
 - [use miniflux on ipad with netnewswire](notes/01KD1140CPYSD4QRFEXT2DE27T.md) - 2025-12-22
 - [网页中设置自动发现 RSS](notes/01K6YZA4NRGR46T7MQ20Y78JDE.md) - 2025-10-07
 - [reddit rss for sub reddits](notes/01K6YYWVW04PSBKTATNEQZYRQM.md) - 2025-10-07
