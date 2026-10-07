@@ -10,9 +10,13 @@ tags:
 date: 2026-10-08
 ---
 
-## 按网络自动切换策略组
+## 需求
 
-`[SSID Setting]` 只能 suspend/cellular-mode，**不能**切策略组。要按网络选路得用 **Subnet Group**：
+在外工作时走代理回家里的内网，在家时自动切回直连。也就是策略组要跟着所在网络自动切。
+
+## 配置
+
+`[SSID Setting]` 做不到（它只管 suspend / cellular-mode），得用 **Subnet Group**：
 
 ```ini
 [Proxy Group]
@@ -21,9 +25,12 @@ PROXY-HOME = subnet, default = PROXY-HOME-SMART, SSID:LearningCenter = DIRECT
 PROXY-HOME-SMART = smart, DEVICE:XIAOKEN, 🇨🇳http-home-mac
 ```
 
-条件按声明顺序求值，首个匹配生效，网络变化时自动重新求值。条件支持 `SSID:` / `BSSID:` / `ROUTER:` / `TYPE:WIFI|WIRED|CELLULAR`，其中 `SSID:` **大小写敏感**。
+条件按声明顺序求值，首个匹配生效，**网络变化时自动重新求值**——这就是「在家直连、出门走代理」。条件支持 `SSID:` / `BSSID:` / `ROUTER:` / `TYPE:WIFI|WIRED|CELLULAR`，其中 `SSID:` **大小写敏感**。
 
-`select` 组不能用：手动选过一次就粘住，网络变了也不会切回来。组内选路用 `smart` 而不是 `fallback`（后者按声明顺序取第一个可用，好节点排后面永远轮不到）。
+两个选型要点：
+
+- 别用 `select` 组：手动选过一次就粘住，网络变了也不会切回来
+- 组内用 `smart` 而不是 `fallback`：后者按声明顺序取第一个可用，好节点排后面永远轮不到
 
 ## app 自带 agent skill
 
