@@ -1,5 +1,5 @@
 ---
-title: "Surge 按网络自动切换策略组，以及使用 app 自带的 agent skill"
+title: "Surge 按网络自动切换策略组"
 display: true
 tags:
   - agent

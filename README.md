@@ -158,7 +158,7 @@ Last updated: 2026-10-08
 
 <a id="agent"></a>
 ### agent
-- [Surge 按网络自动切换策略组，以及使用 app 自带的 agent skill](notes/01M4BK2MV5EM5NAX2AFNYVWMRZ.md) - 2026-10-08
+- [Surge 按网络自动切换策略组](notes/01M4BK2MV5EM5NAX2AFNYVWMRZ.md) - 2026-10-08
 
 <a id="ai"></a>
 ### ai
@@ -505,7 +505,7 @@ Last updated: 2026-10-08
 
 <a id="macos"></a>
 ### macos
-- [Surge 按网络自动切换策略组，以及使用 app 自带的 agent skill](notes/01M4BK2MV5EM5NAX2AFNYVWMRZ.md) - 2026-10-08
+- [Surge 按网络自动切换策略组](notes/01M4BK2MV5EM5NAX2AFNYVWMRZ.md) - 2026-10-08
 - [pi fetch 被 fake-IP 代理拦截](notes/01KZER0ZG7H3A2F31EBPAV0657.md) - 2026-08-08
 - [homebrew cask install 与 brew bundle 的区别](notes/01KGAS8FE8ZS95EQP2ZGPN4R75.md) - 2026-02-01
 - [macOS 配置任意位置可以拖拽窗口](notes/01KF35D2Z22MQS20HPWRP5VSZ4.md) - 2026-01-16
@@ -534,7 +534,7 @@ Last updated: 2026-10-08
 
 <a id="networking"></a>
 ### networking
-- [Surge 按网络自动切换策略组，以及使用 app 自带的 agent skill](notes/01M4BK2MV5EM5NAX2AFNYVWMRZ.md) - 2026-10-08
+- [Surge 按网络自动切换策略组](notes/01M4BK2MV5EM5NAX2AFNYVWMRZ.md) - 2026-10-08
 
 <a id="nginx"></a>
 ### nginx
@@ -684,11 +684,11 @@ Last updated: 2026-10-08
 
 <a id="subnet"></a>
 ### subnet
-- [Surge 按网络自动切换策略组，以及使用 app 自带的 agent skill](notes/01M4BK2MV5EM5NAX2AFNYVWMRZ.md) - 2026-10-08
+- [Surge 按网络自动切换策略组](notes/01M4BK2MV5EM5NAX2AFNYVWMRZ.md) - 2026-10-08
 
 <a id="surge"></a>
 ### surge
-- [Surge 按网络自动切换策略组，以及使用 app 自带的 agent skill](notes/01M4BK2MV5EM5NAX2AFNYVWMRZ.md) - 2026-10-08
+- [Surge 按网络自动切换策略组](notes/01M4BK2MV5EM5NAX2AFNYVWMRZ.md) - 2026-10-08
 - [windows 手机连接区域限制](notes/01K8KQVTSRVSVHBFERTTE2QX8Y.md) - 2025-10-28
 
 <a id="tar"></a>
