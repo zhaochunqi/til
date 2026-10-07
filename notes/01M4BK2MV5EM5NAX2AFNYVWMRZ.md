@@ -25,12 +25,9 @@ PROXY-HOME = subnet, default = PROXY-HOME-SMART, SSID:LearningCenter = DIRECT
 PROXY-HOME-SMART = smart, DEVICE:XIAOKEN, 🇨🇳http-home-mac
 ```
 
+`DEVICE:XIAOKEN` 是 **Ponte** 的动态策略，指向家里那台 Mac（xiaoken），不用在 `[Proxy]` 里声明；`🇨🇳http-home-mac` 是普通代理节点。
+
 条件按声明顺序求值，首个匹配生效，**网络变化时自动重新求值**——这就是「在家直连、出门走代理」。条件支持 `SSID:` / `BSSID:` / `ROUTER:` / `TYPE:WIFI|WIRED|CELLULAR`，其中 `SSID:` **大小写敏感**。
-
-两个选型要点：
-
-- 别用 `select` 组：手动选过一次就粘住，网络变了也不会切回来
-- 组内用 `smart` 而不是 `fallback`：后者按声明顺序取第一个可用，好节点排后面永远轮不到
 
 ## app 自带 agent skill
 
