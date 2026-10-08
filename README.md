@@ -240,7 +240,7 @@ Last updated: 2026-10-08
 
 <a id="compose"></a>
 ### compose
-- [容器里应用占 PID 1 会永久堆积僵尸](notes/01M4BZ3ASEPFD1QR1REF5YXJKW.md) - 2026-10-08
+- [容器里的托孤：PID 1 为什么要学会 wait？](notes/01M4BZ3ASEPFD1QR1REF5YXJKW.md) - 2026-10-08
 - [Docker Compose tty 和 stdin_open 配置](notes/01KNRV3BMDM7WT8MCKXBY47R1J.md) - 2026-04-09
 
 <a id="configmap"></a>
@@ -305,7 +305,7 @@ Last updated: 2026-10-08
 
 <a id="docker"></a>
 ### docker
-- [容器里应用占 PID 1 会永久堆积僵尸](notes/01M4BZ3ASEPFD1QR1REF5YXJKW.md) - 2026-10-08
+- [容器里的托孤：PID 1 为什么要学会 wait？](notes/01M4BZ3ASEPFD1QR1REF5YXJKW.md) - 2026-10-08
 - [GHCR multi-arch 镜像为什么会出现很多 untagged](notes/01KWCEH8K3GXSGNYF9TMJQA3T3.md) - 2026-06-30
 - [Docker Compose tty 和 stdin_open 配置](notes/01KNRV3BMDM7WT8MCKXBY47R1J.md) - 2026-04-09
 - [Docker Compose 自定义卷名](notes/01KJ60C63N9YJZBJVTNFCYPQWG.md) - 2026-02-24
@@ -489,7 +489,7 @@ Last updated: 2026-10-08
 
 <a id="linux"></a>
 ### linux
-- [容器里应用占 PID 1 会永久堆积僵尸](notes/01M4BZ3ASEPFD1QR1REF5YXJKW.md) - 2026-10-08
+- [容器里的托孤：PID 1 为什么要学会 wait？](notes/01M4BZ3ASEPFD1QR1REF5YXJKW.md) - 2026-10-08
 - [从运行中的 Pod 复制 ConfigMap 配置文件](notes/01M0FWEMKXCRX14BDASDDZYPMJ.md) - 2026-08-20
 - [/usr/bin/env 的作用与用法](notes/01KGCE03ES9JZY0E36NP6AGVBE.md) - 2026-02-01
 - [git 下处理换行问题](notes/01KERS72RCVNXJP1F40PH26D94.md) - 2026-01-12
@@ -713,7 +713,7 @@ Last updated: 2026-10-08
 
 <a id="tini"></a>
 ### tini
-- [容器里应用占 PID 1 会永久堆积僵尸](notes/01M4BZ3ASEPFD1QR1REF5YXJKW.md) - 2026-10-08
+- [容器里的托孤：PID 1 为什么要学会 wait？](notes/01M4BZ3ASEPFD1QR1REF5YXJKW.md) - 2026-10-08
 
 <a id="tls"></a>
 ### tls
