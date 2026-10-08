@@ -56,6 +56,40 @@ done
 
 `ppid` 就是那个没 reap 的 PID 1。
 
+## 同类工具：tini 之外的选择
+
+tini 只做「reap + 转发信号」，单进程容器够了。但容器里一旦要跑**多个进程**、要**按顺序初始化**、要进程**挂了自动重启**，就需要一套完整的 init 了。
+
+- **tini / `docker --init`**：只 reap + 转发信号，单进程容器（最常见）
+- **dumb-init**：同一类，C 写的更小，能当 entrypoint 处理 shell 形式的 `CMD`
+- **catatonit**：同一类，Podman 默认
+- **s6-overlay**：完整 init + 进程监督（oneshot 初始化、依赖顺序、自动重启、优雅停机）
+
+以 s6-overlay v3 为例（`ARG S6_OVERLAY_VERSION=3.2.3.2`），装法就是解两个 tar 包，然后 `ENTRYPOINT ["/init"]`：
+
+```dockerfile
+RUN apt-get update && apt-get install -y nginx xz-utils
+ARG S6_OVERLAY_VERSION=3.2.3.2
+ADD https://github.com/just-containers/s6-overlay/releases/download/v${S6_OVERLAY_VERSION}/s6-overlay-noarch.tar.xz /tmp
+RUN tar -C / -Jxpf /tmp/s6-overlay-noarch.tar.xz
+ADD https://github.com/just-containers/s6-overlay/releases/download/v${S6_OVERLAY_VERSION}/s6-overlay-x86_64.tar.xz /tmp
+RUN tar -C / -Jxpf /tmp/s6-overlay-x86_64.tar.xz
+ENTRYPOINT ["/init"]
+```
+
+（`x86_64` 换成目标架构的包名。）启动后 `s6-svscan` 当 PID 1，分三阶段：阶段 1 跑 `/etc/cont-init.d/*`（一次性初始化）→ 阶段 2 起 s6-rc 服务 → 阶段 3 监督 `/etc/services.d/*`。**所以老的 `cont-init.d` / `services.d` 写法在 v3 里照旧可用**，老镜像迁移不用改。
+
+v3 新写法是声明式服务：
+
+```text
+/etc/s6-overlay/s6-rc.d/myapp/type        → longrun（常驻，受监督）或 oneshot（跑一次）
+/etc/s6-overlay/s6-rc.d/myapp/run         → 启动脚本，结尾 exec 你的进程
+/etc/s6-overlay/s6-rc.d/myapp/dependencies.d/base      → 空文件 = 声明依赖
+/etc/s6-overlay/user-bundles.d/user/contents.d/myapp   → 空文件 = 加入默认启动集
+```
+
+它本来就是给容器当 PID 1 用的，所以「托孤」这件事它天然接着：孤儿由 s6 回收、信号由 s6 转发、服务挂了 `s6-supervise` 自动拉起。选型上：单进程用 tini（`--init` 一行搞定），多进程 / 要顺序初始化 / 要自动重启再上 s6-overlay。
+
 ## 总结
 
 「托孤」听起来很人文，在 Linux 里却是一次很具体的责任转移：内核把孤儿进程交给 PID 1。
