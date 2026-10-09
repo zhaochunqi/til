@@ -1,5 +1,5 @@
 ---
-title: "WSL 命令行走 Windows 上的 Clash"
+title: "WSL 下使用 Windows 的 Clash 做代理"
 display: true
 tags:
   - clash
