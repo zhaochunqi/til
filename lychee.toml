@@ -120,7 +120,7 @@ root_dir = "/dist"
 basic_auth = ["example.com user:pwd"]
 
 # Enable the checking of fragments in links.
-include_fragments = true
+include_fragments = "full"
 
 # Minimum accepted TLS Version
 min_tls = "TLSv1_3"
