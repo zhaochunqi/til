@@ -3,4 +3,10 @@
 # 和 dump = true——那会让 lychee 根本不检查链接，只生成 man page。
 #
 # 403 / 429：linux.do、stackoverflow 这类反爬站点对爬虫回 403，链接本身是活的。
-accept = ["200..=299", "403", "429"]
+# 503：GitHub 的 HTML blob 视图会间歇性 503（实测同一时段连本仓 README 的 blob 页也 503），
+# 链接本身是活的。代价是服务端真的 503 时也会放过。
+accept = ["200..=299", "403", "429", "503"]
+
+# 只查外链。本地笔记互链是「从仓根数」的 notes/<ULID>.md（见 scripts/check_note_links.py），
+# lychee 按文件所在目录解析会判成 notes/notes/… 而误报，所以把它排除在 lychee 之外。
+scheme = ["http", "https"]

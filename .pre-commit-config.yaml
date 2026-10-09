@@ -24,7 +24,14 @@ repos:
         language: system
         pass_filenames: false
         files: ^notes/.*\.md$
-      # 链接检查（lycheeverse/lychee），配置见仓根 lychee.toml
+      # 本地笔记互链：必须是 notes/<ULID>.md（站点侧 remark 插件再改写成 /<ulid>/）
+      - id: check-note-links
+        name: Check note links
+        entry: mise exec -- uv run scripts/check_note_links.py
+        language: system
+        files: ^notes/.*\.md$
+        pass_filenames: false
+      # 外链检查（lycheeverse/lychee），配置见仓根 lychee.toml
       - id: lychee
         name: lychee
         description: "Run 'lychee' for fast, async, stream-based link checking"

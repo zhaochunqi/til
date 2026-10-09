@@ -32,6 +32,8 @@ metadata:
 
 **其他**：标题取单一主题，不要「以及…」并列；tags 用英文；正文中文，术语保留英文；代码真实可跑，域名/IP/凭据脱敏。
 
+**跨笔记引用写成 `notes/<ULID>.md`**（从仓根数的路径，跟 README 索引一致）：站点构建时由 remark 插件改写成 `/<ulid>/`，所以从笔记页、tag 页到把整篇正文渲染出来的搜索页都能点。`scripts/check_note_links.py` 会拦下其他写法；代价是 GitHub 的 blob 视图解析不了它（会变成 `notes/notes/…`），属已知取舍。
+
 ## 模板
 
 ```markdown

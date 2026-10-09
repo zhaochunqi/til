@@ -106,6 +106,7 @@ Last updated: 2026-10-09
 - [readfrog](#readfrog)
 - [reddit](#reddit)
 - [referer](#referer)
+- [regex](#regex)
 - [region](#region)
 - [renovate](#renovate)
 - [rss](#rss)
@@ -128,6 +129,7 @@ Last updated: 2026-10-09
 - [translate](#translate)
 - [tty](#tty)
 - [ui](#ui)
+- [ulid](#ulid)
 - [universal-links](#universal-links)
 - [unix](#unix)
 - [unleash](#unleash)
@@ -639,6 +641,10 @@ Last updated: 2026-10-09
 ### referer
 - [Miniflux 全文抓取撞上 Referer 人机验证](notes/01M4B90A62TFD23H9J9TK17VQM.md) - 2026-10-07
 
+<a id="regex"></a>
+### regex
+- [ULID 没有用完整的 26 个字母](notes/01M4FJPWXDM3AX6DDCE6YFJG2K.md) - 2026-10-09
+
 <a id="region"></a>
 ### region
 - [Antigravity 无法登录问题](notes/01KDAZ4RPJ82R12EZF71A4XY5V.md) - 2025-12-25
@@ -739,6 +745,10 @@ Last updated: 2026-10-09
 <a id="ui"></a>
 ### ui
 - [先学领域词汇再让 AI 干活](notes/01KQ3PA3004N8VQQJGVQSD21YC.md) - 2026-04-26
+
+<a id="ulid"></a>
+### ulid
+- [ULID 没有用完整的 26 个字母](notes/01M4FJPWXDM3AX6DDCE6YFJG2K.md) - 2026-10-09
 
 <a id="universal-links"></a>
 ### universal-links
