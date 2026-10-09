@@ -1,13 +1,9 @@
-# 全部走 language: system，二进制由仓内 mise.toml 提供。
-# entry 用 `mise exec --` 包一层：不依赖 shell 里 mise activate 过（否则从没激活 mise 的
-# IDE 提交会 command not found），mise 本身在 ~/.local/bin。
-# 之前是 docker_image + language: rust：前者要 docker，后者要 cargo 现场编译（要 cc），
-# 在这台 WSL 上都不成立，pre-commit 连环境都装不起来。
+# 全部 language: system，二进制由仓内 mise.toml 提供；entry 包一层 `mise exec --`，
+# 这样不依赖 shell 里 activate 过 mise（IDE 里提交也能跑）。
 repos:
   - repo: local
     hooks:
-      # 中英文混排的空格与标点纠正（huacnlee/autocorrect）。
-      # 不带 --lint 时永远退 0，等于没检查，所以必须带。
+      # 中英文混排的空格与标点纠正；不带 --lint 时永远退 0，等于没检查。
       - id: autocorrect
         name: autocorrect
         entry: mise exec -- autocorrect --lint
@@ -24,7 +20,7 @@ repos:
         language: system
         pass_filenames: false
         files: ^notes/.*\.md$
-      # 本地笔记互链：必须是 notes/<ULID>.md（站点侧 remark 插件再改写成 /<ulid>/）
+      # 本地互链必须是 notes/<ULID>.md（站点侧 remark 插件再改写成 /<ulid>/）
       - id: check-note-links
         name: Check note links
         entry: mise exec -- uv run scripts/check_note_links.py
@@ -41,8 +37,7 @@ repos:
         types: [text]
         pass_filenames: true
         require_serial: true
-      # PNG 优化（oxipng/oxipng）。不带参数只剥 macOS 截图自带的 iDOT chunk（几十字节），
-      # -o max --strip safe 才是真的压（截图类实测 4~5%），两者都无损。
+      # -o max --strip safe：截图类实测能压 4~5%，无损（不带参数只剥 iDOT，几十字节）。
       - id: oxipng
         name: oxipng
         entry: mise exec -- oxipng -o max --strip safe

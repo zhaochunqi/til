@@ -2,3 +2,8 @@
 "github:huacnlee/autocorrect" = "2.16.3"
 lychee = "0.24.2"
 oxipng = "10.2.1"
+pre-commit = "4.6.2"
+
+# 进目录时装上 git hook（替代原来的 .envrc；mise 官方明确不支持与 direnv 并用）
+[hooks]
+enter = "pre-commit install"

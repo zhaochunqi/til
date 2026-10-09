@@ -1,12 +1,8 @@
 #!/usr/bin/env python3
-"""检查 notes/ 里的本地链接：必须是 notes/<ULID>.md 且文件存在。
+"""检查 notes/ 里的跨笔记链接：必须是 notes/<ULID>.md 且目标文件存在。
 
-仓内的约定是「从仓根数」的路径（`notes/<ULID>.md`），因为消费方是 til-astro-build 的
-remark 插件：它在构建时把这类链接改写成站内 `/<ulid>/`，所以站点从任何页面（含把整篇
-正文渲染出来的 /search/）点都对。
-
-代价是 GitHub 的 blob 视图解析不了这种写法（它按文件所在目录解析，会变成
-notes/notes/…），这是有意接受的取舍。外链交给 lychee（见 lychee.toml 的 scheme 限制）。
+相对路径不能用（站点搜索页把正文渲染在 /search/ 下，会按页面 URL 解析）；站点侧由
+til-astro-build 的 remark 插件改写成 /<ulid>/。
 """
 
 from __future__ import annotations
