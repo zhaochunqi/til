@@ -4,7 +4,7 @@
 <!-- BEGINNING OF NOTES INDEX HOOK -->
 ## Notes by Tag
 
-Last updated: 2026-10-08
+Last updated: 2026-10-09
 
 ### Tags
 - [acme](#acme)
@@ -142,6 +142,7 @@ Last updated: 2026-10-08
 - [windows](#windows)
 - [windows-management](#windows-management)
 - [workflowy](#workflowy)
+- [wsl](#wsl)
 - [zsh](#zsh)
 - [前端](#tag)
 - [审计](#tag)
@@ -226,6 +227,7 @@ Last updated: 2026-10-08
 
 <a id="clash"></a>
 ### clash
+- [WSL 命令行走 Windows 上的 Clash](notes/01M4FCNJECSQCB6HSCV0Q2Y051.md) - 2026-10-09
 - [nixos install clash](notes/01KB44BDBRQ2HWAWC42Y8XRD76.md) - 2025-11-28
 
 <a id="cli"></a>
@@ -538,6 +540,7 @@ Last updated: 2026-10-08
 
 <a id="networking"></a>
 ### networking
+- [WSL 命令行走 Windows 上的 Clash](notes/01M4FCNJECSQCB6HSCV0Q2Y051.md) - 2026-10-09
 - [Surge 按网络自动切换策略组](notes/01M4BK2MV5EM5NAX2AFNYVWMRZ.md) - 2026-10-08
 
 <a id="nginx"></a>
@@ -603,6 +606,7 @@ Last updated: 2026-10-08
 
 <a id="proxy"></a>
 ### proxy
+- [WSL 命令行走 Windows 上的 Clash](notes/01M4FCNJECSQCB6HSCV0Q2Y051.md) - 2026-10-09
 - [pi fetch 被 fake-IP 代理拦截](notes/01KZER0ZG7H3A2F31EBPAV0657.md) - 2026-08-08
 
 <a id="python"></a>
@@ -786,6 +790,7 @@ Last updated: 2026-10-08
 
 <a id="windows"></a>
 ### windows
+- [WSL 命令行走 Windows 上的 Clash](notes/01M4FCNJECSQCB6HSCV0Q2Y051.md) - 2026-10-09
 - [git 下处理换行问题](notes/01KERS72RCVNXJP1F40PH26D94.md) - 2026-01-12
 - [windows 修改 capslock 为长按 ctrl 短按 esc](notes/01KECFJFP48XAM95329DW2KYTJ.md) - 2026-01-07
 - [windows 手机连接区域限制](notes/01K8KQVTSRVSVHBFERTTE2QX8Y.md) - 2025-10-28
@@ -798,8 +803,13 @@ Last updated: 2026-10-08
 ### workflowy
 - [Workflowy 的 inline editing 实现](notes/01KQ7NYX6YDHGHH9QZX0ASZSYV.md) - 2026-04-27
 
+<a id="wsl"></a>
+### wsl
+- [WSL 命令行走 Windows 上的 Clash](notes/01M4FCNJECSQCB6HSCV0Q2Y051.md) - 2026-10-09
+
 <a id="zsh"></a>
 ### zsh
+- [WSL 命令行走 Windows 上的 Clash](notes/01M4FCNJECSQCB6HSCV0Q2Y051.md) - 2026-10-09
 - [zsh 绑定键位](notes/01KEXHP31ED7QVT6RZH0KKZ57H.md) - 2026-01-14
 
 <a id="tag"></a>
