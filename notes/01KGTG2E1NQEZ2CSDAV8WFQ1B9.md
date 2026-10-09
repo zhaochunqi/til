@@ -1,5 +1,5 @@
 ---
-title: "git diff 别名: 用 ds 调用 delta"
+title: "git diff 别名：用 ds 调用 delta"
 display: true
 tags:
   - delta

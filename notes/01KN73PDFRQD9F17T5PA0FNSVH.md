@@ -79,4 +79,4 @@ const map = { zibby: 'hello', example: 'gmail', com: 'com' };
 
 关键发现：大多数爬虫很简单，即使最基础的混淆技术也能阻止 95% 以上的爬虫。建议组合使用多种技术。
 
-> 来源: [Email obfuscation: What works in 2026?](https://spencermortensen.com/articles/email-obfuscation/)
+> 来源：[Email obfuscation: What works in 2026?](https://spencermortensen.com/articles/email-obfuscation/)

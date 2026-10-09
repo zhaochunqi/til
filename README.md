@@ -272,7 +272,7 @@ Last updated: 2026-10-09
 
 <a id="delta"></a>
 ### delta
-- [git diff 别名: 用 ds 调用 delta](notes/01KGTG2E1NQEZ2CSDAV8WFQ1B9.md) - 2026-02-07
+- [git diff 别名：用 ds 调用 delta](notes/01KGTG2E1NQEZ2CSDAV8WFQ1B9.md) - 2026-02-07
 
 <a id="deployment"></a>
 ### deployment
@@ -377,7 +377,7 @@ Last updated: 2026-10-09
 
 <a id="git"></a>
 ### git
-- [git diff 别名: 用 ds 调用 delta](notes/01KGTG2E1NQEZ2CSDAV8WFQ1B9.md) - 2026-02-07
+- [git diff 别名：用 ds 调用 delta](notes/01KGTG2E1NQEZ2CSDAV8WFQ1B9.md) - 2026-02-07
 - [测试覆盖率报告不应提交到 Git](notes/01KFG8V1SWY0KBZWG7D2FWKYM4.md) - 2026-01-21
 - [修改 Git 默认主分支为 main](notes/01KFB0W3JA87CW0J8XW9JRQ86G.md) - 2026-01-19
 - [使用 homebrew-tap 发布自己的项目](notes/01KEZWT4Q4FHYSPKXWZGYGP3QV.md) - 2026-01-15
