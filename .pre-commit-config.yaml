@@ -1,41 +1,44 @@
-# 全部走 language: system，二进制由仓内 mise.toml 提供（mise activate 进目录即上 PATH）。
+# 全部走 language: system，二进制由仓内 mise.toml 提供。
+# entry 用 `mise exec --` 包一层：不依赖 shell 里 mise activate 过（否则从没激活 mise 的
+# IDE 提交会 command not found），mise 本身在 ~/.local/bin。
 # 之前是 docker_image + language: rust：前者要 docker，后者要 cargo 现场编译（要 cc），
 # 在这台 WSL 上都不成立，pre-commit 连环境都装不起来。
 repos:
   - repo: local
     hooks:
-      # 中英文混排的空格与标点纠正（huacnlee/autocorrect）
+      # 中英文混排的空格与标点纠正（huacnlee/autocorrect）。
+      # 不带 --lint 时永远退 0，等于没检查，所以必须带。
       - id: autocorrect
         name: autocorrect
-        entry: autocorrect
+        entry: mise exec -- autocorrect --lint
         language: system
         files: ^notes/.*\.md$
       - id: normalize-yaml
         name: Normalize YAML front matter
-        entry: uv run scripts/normalize_yaml.py
+        entry: mise exec -- uv run scripts/normalize_yaml.py
         language: system
         files: ^notes/.*\.md$
       - id: generate-notes-index
         name: Generate notes index
-        entry: uv run scripts/generate_notes_index.py
+        entry: mise exec -- uv run scripts/generate_notes_index.py
         language: system
         pass_filenames: false
         files: ^notes/.*\.md$
-      # 链接检查（lycheeverse/lychee）
+      # 链接检查（lycheeverse/lychee），配置见仓根 lychee.toml
       - id: lychee
         name: lychee
         description: "Run 'lychee' for fast, async, stream-based link checking"
-        entry: lychee
+        entry: mise exec -- lychee --no-progress
         language: system
-        args: ["--no-progress", "--exclude-path", "assets"]
         files: ^notes/.*\.md$
         types: [text]
         pass_filenames: true
         require_serial: true
-      # PNG 优化（oxipng/oxipng）
+      # PNG 优化（oxipng/oxipng）。不带参数只剥 macOS 截图自带的 iDOT chunk（几十字节），
+      # -o max --strip safe 才是真的压（截图类实测 4~5%），两者都无损。
       - id: oxipng
         name: oxipng
-        entry: oxipng
+        entry: mise exec -- oxipng -o max --strip safe
         language: system
         files: ^assets/.+$
         types: [png]
