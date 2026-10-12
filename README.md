@@ -4,7 +4,7 @@
 <!-- BEGINNING OF NOTES INDEX HOOK -->
 ## Notes by Tag
 
-Last updated: 2026-10-09
+Last updated: 2026-10-12
 
 ### Tags
 - [acme](#acme)
@@ -122,6 +122,7 @@ Last updated: 2026-10-09
 - [surge](#surge)
 - [tar](#tar)
 - [terminal](#terminal)
+- [terraform](#terraform)
 - [testing](#testing)
 - [tini](#tini)
 - [tls](#tls)
@@ -379,6 +380,7 @@ Last updated: 2026-10-09
 
 <a id="git"></a>
 ### git
+- [gitignore 里 pattern 以 / 结尾的含义，以及 .terraform.lock.hcl 为什么不会被误伤](notes/01M4QQXZBC4ZTNPT4AVV63VMVW.md) - 2026-10-12
 - [git diff 别名：用 ds 调用 delta](notes/01KGTG2E1NQEZ2CSDAV8WFQ1B9.md) - 2026-02-07
 - [测试覆盖率报告不应提交到 Git](notes/01KFG8V1SWY0KBZWG7D2FWKYM4.md) - 2026-01-21
 - [修改 Git 默认主分支为 main](notes/01KFB0W3JA87CW0J8XW9JRQ86G.md) - 2026-01-19
@@ -716,6 +718,10 @@ Last updated: 2026-10-09
 - [修复 macos 下使用 rbw 获取密钥卡顿](notes/01KD8H0C73KVSSNAP9GFMMF46J.md) - 2025-12-24
 - [kitty 下使用 fcitx5 的问题](notes/01KD788PBV10B31ABJR1FF3MPG.md) - 2025-12-24
 - [获取终端命令运行的平均时间](notes/01KC93NW0AEVV9Q51PC36JW0F4.md) - 2025-12-12
+
+<a id="terraform"></a>
+### terraform
+- [gitignore 里 pattern 以 / 结尾的含义，以及 .terraform.lock.hcl 为什么不会被误伤](notes/01M4QQXZBC4ZTNPT4AVV63VMVW.md) - 2026-10-12
 
 <a id="testing"></a>
 ### testing
