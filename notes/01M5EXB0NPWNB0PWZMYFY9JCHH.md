@@ -28,31 +28,7 @@ gh api repos/<owner>/<repo>/branches/main/protection   # 404 表示没开 branch
 gh api repos/<owner>/<repo>/rules/branches/main        # [] 表示没有 ruleset 生效
 ```
 
-两条都空，就是 required checks 为空。
-
-## 让 auto-merge 真的等 CI
-
-用 ruleset 把 job 名设为 required（`context` 要跟 workflow 里的 job id 一致）：
-
-```bash
-gh api -X POST repos/<owner>/<repo>/rulesets --input - <<'EOF'
-{
-  "name": "protect-main",
-  "target": "branch",
-  "enforcement": "active",
-  "conditions": { "ref_name": { "include": ["~DEFAULT_BRANCH"], "exclude": [] } },
-  "rules": [
-    { "type": "required_status_checks",
-      "parameters": {
-        "strict_required_status_checks_policy": false,
-        "required_status_checks": [{ "context": "build" }]
-      } }
-  ]
-}
-EOF
-```
-
-配完之后 auto-merge 的行为才符合直觉：等 required checks 通过（以及 required reviews 满足）再合。
+两条都空，就是 required checks 为空。想让 auto-merge 真的等 CI，就得在其中一处把 job 名（跟 workflow 的 job id 一致，比如 `build`）声明为必需。
 
 ## 别跟 Renovate 的 automerge 混
 
