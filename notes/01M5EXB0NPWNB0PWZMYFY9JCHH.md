@@ -58,4 +58,4 @@ EOF
 
 Renovate 的 `automerge: true` 是另一套：它在自己的运行周期里判断版本、冷静期、checks，然后直接调 merge API，既不点这个按钮，也不受 Settings 里那个开关影响（只有 `platformAutomerge: true` 才借用）。所以 Renovate 造的 PR 上看不到 auto-merge 标记，不代表没生效——看 `mergedBy` 是不是 `app/renovate`。
 
-免费版私有仓库连原生 auto-merge 都不可用的情况，见 notes/01KZENXYBZWCHJNWJW5X8VY7P1.md。
+免费版私有仓库连原生 auto-merge 都不可用的情况，见 [Renovate 免费版私有仓库的 automerge 配置](notes/01KZENXYBZWCHJNWJW5X8VY7P1.md)。
