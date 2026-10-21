@@ -4,7 +4,7 @@
 <!-- BEGINNING OF NOTES INDEX HOOK -->
 ## Notes by Tag
 
-Last updated: 2026-10-12
+Last updated: 2026-10-21
 
 ### Tags
 - [acme](#acme)
@@ -402,6 +402,7 @@ Last updated: 2026-10-12
 
 <a id="github"></a>
 ### github
+- [GitHub auto-merge 怎么开](notes/01M5EXB0NPWNB0PWZMYFY9JCHH.md) - 2026-10-21
 - [Renovate 免费版私有仓库的 automerge 配置](notes/01KZENXYBZWCHJNWJW5X8VY7P1.md) - 2026-08-08
 - [Open With for GitHub：从 GitHub 打开 DeepWiki 与本地 Logseq/VSCode](notes/01KZ90S8XNQ4VPN15RQFA73QMZ.md) - 2026-08-05
 - [GHCR multi-arch 镜像为什么会出现很多 untagged](notes/01KWCEH8K3GXSGNYF9TMJQA3T3.md) - 2026-06-30
@@ -595,6 +596,7 @@ Last updated: 2026-10-12
 
 <a id="pr"></a>
 ### pr
+- [GitHub auto-merge 怎么开](notes/01M5EXB0NPWNB0PWZMYFY9JCHH.md) - 2026-10-21
 - [10s 生成代码审查的链接](notes/01KE6W1NM5NTBPWWP6KNT5PM35.md) - 2026-01-05
 - [github action 中开启 pr 权限](notes/01KCDNN88DV6E98NE4T0YGAYWV.md) - 2025-12-14
 
@@ -652,6 +654,7 @@ Last updated: 2026-10-12
 
 <a id="renovate"></a>
 ### renovate
+- [GitHub auto-merge 怎么开](notes/01M5EXB0NPWNB0PWZMYFY9JCHH.md) - 2026-10-21
 - [Renovate 免费版私有仓库的 automerge 配置](notes/01KZENXYBZWCHJNWJW5X8VY7P1.md) - 2026-08-08
 
 <a id="rss"></a>
