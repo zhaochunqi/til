@@ -56,6 +56,7 @@ Last updated: 2026-10-22
 - [gatekeeper](#gatekeeper)
 - [gfw](#gfw)
 - [ghcr](#ghcr)
+- [ghq](#ghq)
 - [git](#git)
 - [git-open](#git-open)
 - [gitea](#gitea)
@@ -378,8 +379,13 @@ Last updated: 2026-10-22
 ### ghcr
 - [GHCR multi-arch 镜像为什么会出现很多 untagged](notes/01KWCEH8K3GXSGNYF9TMJQA3T3.md) - 2026-06-30
 
+<a id="ghq"></a>
+### ghq
+- [ghq migrate 把位置不对的仓搬回 ghq 目录结构](notes/01M5H844XAV8FPMME3HQHZDEW2.md) - 2026-10-22
+
 <a id="git"></a>
 ### git
+- [ghq migrate 把位置不对的仓搬回 ghq 目录结构](notes/01M5H844XAV8FPMME3HQHZDEW2.md) - 2026-10-22
 - [gitignore 里 pattern 以 / 结尾只匹配目录](notes/01M4QQXZBC4ZTNPT4AVV63VMVW.md) - 2026-10-12
 - [git diff 别名：用 ds 调用 delta](notes/01KGTG2E1NQEZ2CSDAV8WFQ1B9.md) - 2026-02-07
 - [测试覆盖率报告不应提交到 Git](notes/01KFG8V1SWY0KBZWG7D2FWKYM4.md) - 2026-01-21
