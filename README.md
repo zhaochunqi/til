@@ -4,7 +4,7 @@
 <!-- BEGINNING OF NOTES INDEX HOOK -->
 ## Notes by Tag
 
-Last updated: 2026-10-21
+Last updated: 2026-10-22
 
 ### Tags
 - [acme](#acme)
@@ -234,6 +234,7 @@ Last updated: 2026-10-21
 
 <a id="cli"></a>
 ### cli
+- [starship explain 查看当前提示符每段是什么](notes/01M5GKD22NECB5AMV246ZGAX1X.md) - 2026-10-22
 - [杀掉 8000 端口的应用](notes/01KDAVY92P19TEY8K77YMJ9EZX.md) - 2025-12-25
 - [macOS 下获取操作系统和架构](notes/01KCNV2AGP3RXP294T6JVMXY75.md) - 2025-12-17
 - [获取终端命令运行的平均时间](notes/01KC93NW0AEVV9Q51PC36JW0F4.md) - 2025-12-12
@@ -680,6 +681,7 @@ Last updated: 2026-10-21
 
 <a id="shell"></a>
 ### shell
+- [starship explain 查看当前提示符每段是什么](notes/01M5GKD22NECB5AMV246ZGAX1X.md) - 2026-10-22
 - [tar 管道不落盘传输文件与目录](notes/01M0FXH03FSDXYHZJSJWHP0HHK.md) - 2026-08-20
 - [/usr/bin/env 的作用与用法](notes/01KGCE03ES9JZY0E36NP6AGVBE.md) - 2026-02-01
 - [cronjob 中的环境变量问题](notes/01K8P9SK98QB8BHMEQN58M3AZB.md) - 2025-10-29
@@ -698,6 +700,7 @@ Last updated: 2026-10-21
 
 <a id="starship"></a>
 ### starship
+- [starship explain 查看当前提示符每段是什么](notes/01M5GKD22NECB5AMV246ZGAX1X.md) - 2026-10-22
 - [Starship 中 git 分支后面有 $ 符号](notes/01KCVW870NJHDYWB5JJR6WEDQN.md) - 2025-12-20
 
 <a id="subnet"></a>
